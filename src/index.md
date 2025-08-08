@@ -41,7 +41,9 @@ features:
 
 ## 使用指南
 
-<Timeline />
+<ClientOnly>
+  <Timeline />
+</ClientOnly>
 
 ## 常见问题
 
