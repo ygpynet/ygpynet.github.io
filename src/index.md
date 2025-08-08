@@ -45,4 +45,6 @@ features:
 
 ## 常见问题
 
-<Accordion />
+<ClientOnly>
+  <Accordion />
+</ClientOnly>

@@ -1,5 +1,7 @@
 <p></p>
-<Carousel />
+<ClientOnly>
+    <Carousel />
+</ClientOnly>
 
 ## 红杏云 [AD] <Badge type="danger" text="付费机场" />
 
