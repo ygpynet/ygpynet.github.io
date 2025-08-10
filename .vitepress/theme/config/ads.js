@@ -3,7 +3,7 @@ export default {
         href: 'https://candytally.diy/web/#/login?code=foHbXFgg',
         src: 'https://i.imgur.com/VCR0Gfp.png',
         title: '糖果云 | 定制 IEPL 专线',
-        details: '✅ 解锁流媒体 ✅ 不限制设备 ✅ 最高宽度 1000Mbps',
+        details: '✅ 解锁流媒体 ✅ 不限制设备 ✅ 最高宽带 1000Mbps',
         link: '/vpn/paid#糖果云'
     },
     sidebar: {
