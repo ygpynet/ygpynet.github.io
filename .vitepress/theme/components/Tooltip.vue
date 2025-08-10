@@ -1,4 +1,5 @@
 <template>
+    <ClientOnly></ClientOnly>
     <fwb-tooltip theme="light">
         <template #trigger>
             <code ref="codeEl">{{ code }}</code>
@@ -7,6 +8,7 @@
             点击复制
         </template>
     </fwb-tooltip>
+    </ClientOnly>
 </template>
 
 <script setup lang="ts">

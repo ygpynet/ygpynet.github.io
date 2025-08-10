@@ -41,12 +41,8 @@ features:
 
 ## 使用指南
 
-<ClientOnly>
-  <Timeline />
-</ClientOnly>
+<Timeline />
 
 ## 常见问题
 
-<ClientOnly>
-  <Accordion />
-</ClientOnly>
+<Accordion />

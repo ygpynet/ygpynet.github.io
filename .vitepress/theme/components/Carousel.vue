@@ -1,6 +1,8 @@
 <template>
     <div class="vp-raw">
-        <fwb-carousel :pictures="pictures" slide :slide-interval="3000" />
+        <ClientOnly>
+            <fwb-carousel :pictures="pictures" slide :slide-interval="3000" />
+        </ClientOnly>
     </div>
 </template>
 
