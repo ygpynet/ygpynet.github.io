@@ -1,13 +1,13 @@
 <template>
-    <ClientOnly></ClientOnly>
-    <fwb-tooltip theme="light">
-        <template #trigger>
-            <code ref="codeEl">{{ code }}</code>
-        </template>
-        <template #content>
-            点击复制
-        </template>
-    </fwb-tooltip>
+    <ClientOnly>
+        <fwb-tooltip theme="light">
+            <template #trigger>
+                <code ref="codeEl">{{ code }}</code>
+            </template>
+            <template #content>
+                点击复制
+            </template>
+        </fwb-tooltip>
     </ClientOnly>
 </template>
 

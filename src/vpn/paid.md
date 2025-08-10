@@ -6,7 +6,7 @@ next: false
 
 ## 红杏云 <Badge type="tip" text="中转机场" />
 
-使用优惠券 <Tooltip code="ygpy" /> 8 折购买“红杏云系列”套餐。
+使用优惠券 <Tooltip code="ygpy" /> 享 8 折购买“红杏云系列”套餐。
 
 节点位置：香港、台湾、新加坡、日本、美国、韩国、德国、法国、英国、荷兰、印度、智利……
 
@@ -30,7 +30,7 @@ next: false
 
 ## 哆啦 ā 梦 <Badge type="warning" text="专线机场" />
 
-使用优惠券 <Tooltip code="ygpy" /> 8 折购买“哆啦 ā 梦系列”套餐。
+使用优惠券 <Tooltip code="ygpy" /> 享 8 折购买“哆啦 ā 梦系列”套餐。
 
 节点位置：阿联酋、德国、韩国、美国、日本、台湾、香港、新加坡、印度、荷兰
 
@@ -54,7 +54,7 @@ next: false
 
 ## 糖果云 <Badge type="warning" text="专线机场" />
 
-使用优惠券 <Tooltip code="ygpy" /> 6 折购买“糖果云系列”套餐。
+使用优惠券 <Tooltip code="ygpy" /> 享 6 折购买“糖果云系列”套餐。
 
 节点位置：阿根廷、台湾、德国、英国、香港、日本、韩国、新加坡、泰国、土耳其、美国
 
@@ -78,7 +78,7 @@ next: false
 
 ## Superbiu <Badge type="warning" text="专线机场" />
 
-使用优惠码 <Tooltip code="ygpy" /> 9 折购买“Superbiu 系列”套餐。
+使用优惠码 <Tooltip code="ygpy" /> 享 9 折购买“Superbiu 系列”套餐。
 
 节点位置：香港、日本、韩国、台湾、美国、泰国、新加坡、澳大利亚、荷兰、德国……
 
@@ -102,7 +102,7 @@ next: false
 
 ## 雪山机场 [AD] <Badge type="info" text="直连机场" />
 
-使用优惠券 <Tooltip code="ygpy" /> 9 折购买“雪山机场非一次性”套餐。
+使用优惠券 <Tooltip code="ygpy" /> 享 9 折购买“雪山机场非一次性”套餐。
 
 节点位置：德国、法国、香港、日本、韩国、俄罗斯、新加坡、泰国、台湾、美国
 

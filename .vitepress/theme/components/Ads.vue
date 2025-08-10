@@ -13,8 +13,8 @@ const { theme } = useData()
                     <span class="ads-text" v-html="theme.ads.aside.text"></span>
                 </a>
             </span>
-            <span class="ads-poweredby"
-                v-if="theme.ads.aside.href && theme.ads.aside.src && theme.ads.aside.text">赞助商广告</span>
+            <a class="ads-poweredby" :href="theme.ads.aside.more"
+                v-if="theme.ads.aside.href && theme.ads.aside.src && theme.ads.aside.text">赞助商广告，点我了解更多</a>
             <span class="ads-poweredby" v-else>
                 <a href="#" class="ads-text">成为赞助商</a>
             </span>

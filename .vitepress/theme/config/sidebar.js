@@ -45,6 +45,10 @@ export default {
                     link: `${ads.sidebar.href}`
                 }
             ]
+        },
+        {
+            text: '点我了解更多',
+            link: '/vpn/paid#哆啦-a-梦'
         }
     ],
     '/app/': [
