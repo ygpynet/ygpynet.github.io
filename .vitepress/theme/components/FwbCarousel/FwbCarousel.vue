@@ -8,7 +8,7 @@
         class="absolute inset-0 -translate-y-0">
         <a v-if="picture.link" :href="picture.link" target="_blank" rel="noreferrer">
           <img :alt="picture.alt" :src="picture.src"
-            class="absolute left-1/2 top-1/2 block w-full -translate-x-1/2 -translate-y-1/2">
+            class="absolute left-1/2 top-1/2 block w-full -translate-x-1/2 -translate-y-1/2 h-56 sm:h-64 xl:h-80 2xl:h-96">
         </a>
       </div>
     </div>

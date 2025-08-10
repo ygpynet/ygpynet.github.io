@@ -8,6 +8,6 @@ export default {
         href: 'https://superbiu.com/#/register?code=KH6xv0ou',
         src: '/images/vpn/paid/superbiu/20250414.webp',
         alt: 'Superbiu',
-        text: '真专线机场，无视晚高峰<br>流媒体解锁，不限设备数<br>使用优惠卷 ygpy 享 9 折'
+        text: '真专线机场，无视晚高峰<br>流媒体解锁，不限设备数<br>使用优惠劵 ygpy 享 9 折'
     }
 }
