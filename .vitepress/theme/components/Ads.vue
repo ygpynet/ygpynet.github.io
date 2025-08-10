@@ -7,14 +7,14 @@ const { theme } = useData()
 <template>
     <div class="ads">
         <span>
-            <span v-if="theme.ads.aside.href && theme.ads.aside.src && theme.ads.aside.text">
+            <span v-if="theme.ads.aside.href && theme.ads.aside.src && theme.ads.aside.details">
                 <a :href="theme.ads.aside.href" target="_blank" rel="noopener sponsored">
                     <img :src="theme.ads.aside.src" :alt="theme.ads.aside.alt" class="rounded-lg w-full" />
-                    <span class="ads-text" v-html="theme.ads.aside.text"></span>
+                    <span class="ads-text" v-html="theme.ads.aside.details"></span>
                 </a>
             </span>
-            <a class="ads-poweredby" :href="theme.ads.aside.more"
-                v-if="theme.ads.aside.href && theme.ads.aside.src && theme.ads.aside.text">赞助商广告，点我了解更多</a>
+            <a class="ads-poweredby" :href="theme.ads.aside.link"
+                v-if="theme.ads.aside.href && theme.ads.aside.src && theme.ads.aside.details">这是广告，点我了解更多</a>
             <span class="ads-poweredby" v-else>
                 <a href="#" class="ads-text">成为赞助商</a>
             </span>

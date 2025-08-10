@@ -7,6 +7,7 @@ import Layout from './Layout.vue'
 import Accordion from './components/Accordion.vue'
 import Ads from './components/Ads.vue'
 import Card from './components/Card.vue'
+import CardHorizontal from './components/CardHorizontal.vue'
 import Carousel from './components/Carousel.vue'
 import Img from './components/Img.vue'
 import Link from './components/Link.vue'
@@ -23,6 +24,7 @@ export default {
     app.component('Accordion', Accordion)
     app.component('Ads', Ads)
     app.component('Card', Card)
+    app.component('CardHorizontal', CardHorizontal)
     app.component('Carousel', Carousel)
     app.component('Img', Img)
     app.component('Link', Link)

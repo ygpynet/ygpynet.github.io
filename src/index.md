@@ -39,6 +39,9 @@ features:
     linkText: 前往阅读
 ---
 
+<p></p>
+<CardHorizontal />
+
 ## 使用指南
 
 <Timeline />
