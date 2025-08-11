@@ -11,7 +11,7 @@
                     {{ theme.ads.home.details }}
                 </p>
                 <a :href="theme.ads.home.link">
-                    <small>点我了解更多</small>
+                    <small>这是广告，点我了解更多</small>
                 </a>
             </div>
         </fwb-card>
