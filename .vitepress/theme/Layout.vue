@@ -42,13 +42,17 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
 
 <template>
   <DefaultTheme.Layout>
-    <template #aside-ads-before>
+    <template #aside-top>
       <div class="doc-aside-ads">
-        <ClientOnly>
-          <Ads />
-        </ClientOnly>
+        <Ads />
+        <br>
       </div>
     </template>
+    <!-- <template #aside-ads-before>
+      <div class="doc-aside-ads">
+        <Ads />
+      </div>
+    </template> -->
   </DefaultTheme.Layout>
 </template>
 

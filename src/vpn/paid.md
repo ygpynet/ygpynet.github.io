@@ -23,7 +23,7 @@ next: false
 />
 <p></p>
 <Img
-    src="https://i.imgur.com/ZlFuSKF.png"
+    src="https://i.imgur.com/pAy0RtK.png"
     alt="“哆啦 ā 梦”测试报告"
 />
 :::

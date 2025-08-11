@@ -14,7 +14,7 @@ const { theme } = useData()
                 </a>
             </span>
             <a class="ads-poweredby" :href="theme.ads.aside.link"
-                v-if="theme.ads.aside.href && theme.ads.aside.src && theme.ads.aside.details">点我了解更多</a>
+                v-if="theme.ads.aside.href && theme.ads.aside.src && theme.ads.aside.details">赞助商广告，点我了解更多</a>
             <span class="ads-poweredby" v-else>
                 <a href="#" class="ads-text">成为赞助商</a>
             </span>
