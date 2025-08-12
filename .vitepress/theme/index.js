@@ -49,8 +49,10 @@ export default {
     }
 
     onMounted(() => {
-      zoom()
-      clip()
+      nextTick(() => {
+        zoom()
+        clip()
+      })
     })
 
     watch(
