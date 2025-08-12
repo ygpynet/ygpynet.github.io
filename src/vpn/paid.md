@@ -28,30 +28,6 @@ next: false
 />
 :::
 
-## 雪山机场 [AD] <Badge type="info" text="直连机场" />
-
-使用优惠券 <Tooltip code="ygpy" /> 享 9 折购买“雪山机场非一次性”套餐。
-
-节点位置：德国、法国、香港、日本、韩国、俄罗斯、新加坡、泰国、台湾、美国
-
-协议类型：Hysteria、VLESS
-
-<p>注册地址：<Link href="https://x2.xueshan.shop/#/register?code=pq7dmt6E" /></p>
-<p>官方群组：<Link href="https://t.me/xueshan0001" /></p>
-<p>官方频道：<Link href="https://t.me/xueshan0002" /></p>
-
-::: details
-<Img
-    src="https://i.imgur.com/EZrufg9.png"
-    alt="“雪山机场”价格详情"
-/>
-<p></p>
-<Img
-    src="https://i.imgur.com/2cefrO1.png"
-    alt="“雪山机场”测试报告"
-/>
-:::
-
 ## 红杏云 <Badge type="tip" text="中转机场" />
 
 使用优惠券 <Tooltip code="ygpy" /> 享 8 折购买“红杏云系列”套餐。
@@ -121,5 +97,29 @@ next: false
 <Img
     src="https://i.imgur.com/D2ihlwP.png"
     alt="“Superbiu”测试报告"
+/>
+:::
+
+## 雪山机场 <Badge type="info" text="直连机场" />
+
+使用优惠券 <Tooltip code="ygpy" /> 享 9 折购买“雪山机场非一次性”套餐。
+
+节点位置：德国、法国、香港、日本、韩国、俄罗斯、新加坡、泰国、台湾、美国
+
+协议类型：Hysteria、VLESS
+
+<p>注册地址：<Link href="https://x2.xueshan.shop/#/register?code=pq7dmt6E" /></p>
+<p>官方群组：<Link href="https://t.me/xueshan0001" /></p>
+<p>官方频道：<Link href="https://t.me/xueshan0002" /></p>
+
+::: details
+<Img
+    src="https://i.imgur.com/EZrufg9.png"
+    alt="“雪山机场”价格详情"
+/>
+<p></p>
+<Img
+    src="https://i.imgur.com/2cefrO1.png"
+    alt="“雪山机场”测试报告"
 />
 :::
