@@ -1,26 +1,24 @@
 <template>
     <ClientOnly>
-        <fwb-card :img-alt="theme.ads.home.title" :img-src="theme.ads.home.src" variant="horizontal">
+        <fwb-card :img-alt="adHome.title" :img-src="adHome.img" variant="horizontal">
             <div class="p-5">
-                <a :href="theme.ads.home.href" target="_blank" rel="noreferrer">
+                <a :href="adHome.link" target="_blank" rel="noreferrer">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
-                        {{ theme.ads.home.title }}
+                        {{ adHome.title }}
                     </h5>
                 </a>
                 <p class="font-normal text-gray-700 dark:text-gray-400">
-                    {{ theme.ads.home.details }}
+                    {{ adHome.desc }}
                 </p>
-                <a :href="theme.ads.home.link">
-                    <small>赞助商广告，点我了解更多</small>
-                </a>
+                <small>赞助商广告</small>
             </div>
         </fwb-card>
     </ClientOnly>
 </template>
 
 <script setup>
-import { useData } from 'vitepress'
 import { FwbCard } from './index'
+import { getCurrentAd } from '../config/ads';
 
-const { theme } = useData()
+const adHome = getCurrentAd(0, 'Home')
 </script>

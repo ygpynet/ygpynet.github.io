@@ -4,30 +4,6 @@ next: false
 
 # 付费机场推荐
 
-## 哆啦 ā 梦 [AD] <Badge type="warning" text="专线机场" />
-
-使用优惠券 <Tooltip code="ygpy" /> 享 8 折购买“哆啦 ā 梦系列”套餐。
-
-节点位置：阿联酋、德国、韩国、美国、日本、台湾、香港、新加坡、印度、荷兰
-
-协议类型：Trojan、VLESS
-
-<p>注册地址：<Link href="https://f0.yyds1-doraemon.store/#/register?code=7j3dYEtw" /></p>
-<p>官方群组：<Link href="https://t.me/VPNONGoo" /></p>
-<p>官方频道：<Link href="https://t.me/VPNong" /></p>
-
-::: details
-<Img
-    src="https://i.imgur.com/tGllYIw.png"
-    alt="“哆啦 ā 梦”价格详情"
-/>
-<p></p>
-<Img
-    src="https://i.imgur.com/pAy0RtK.png"
-    alt="“哆啦 ā 梦”测试报告"
-/>
-:::
-
 ## 红杏云 <Badge type="tip" text="中转机场" />
 
 使用优惠券 <Tooltip code="ygpy" /> 享 8 折购买“红杏云系列”套餐。
@@ -49,6 +25,30 @@ next: false
 <Img
     src="https://i.imgur.com/BqVu18N.png"
     alt="“红杏云”测试报告"
+/>
+:::
+
+## 哆啦 ā 梦 <Badge type="warning" text="专线机场" />
+
+使用优惠券 <Tooltip code="ygpy" /> 享 8 折购买“哆啦 ā 梦系列”套餐。
+
+节点位置：阿联酋、德国、韩国、美国、日本、台湾、香港、新加坡、印度、荷兰
+
+协议类型：Trojan、VLESS
+
+<p>注册地址：<Link href="https://f0.yyds1-doraemon.store/#/register?code=7j3dYEtw" /></p>
+<p>官方群组：<Link href="https://t.me/VPNONGoo" /></p>
+<p>官方频道：<Link href="https://t.me/VPNong" /></p>
+
+::: details
+<Img
+    src="https://i.imgur.com/tGllYIw.png"
+    alt="“哆啦 ā 梦”价格详情"
+/>
+<p></p>
+<Img
+    src="https://i.imgur.com/pAy0RtK.png"
+    alt="“哆啦 ā 梦”测试报告"
 />
 :::
 

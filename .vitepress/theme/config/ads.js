@@ -1,21 +1,47 @@
-export default {
-    home: {
-        href: 'https://candytally.diy/web/#/login?code=foHbXFgg',
-        src: 'https://i.imgur.com/VCR0Gfp.png',
-        title: '糖果云 | 定制 IEPL 专线',
-        details: '✅ 解锁流媒体 ✅ 不限制设备 ✅ 最高宽带 1000Mbps',
-        link: '/vpn/paid#糖果云'
-    },
-    sidebar: {
-        href: 'https://f0.yyds1-doraemon.store/#/register?code=7j3dYEtw',
-        src: 'https://i.imgur.com/4aUR7sp.png',
-        alt: '哆啦 ā 梦'
-    },
-    aside: {
-        href: 'https://superbiu.com/#/register?code=KH6xv0ou',
-        src: 'https://i.imgur.com/l1XvBRi.gif',
-        alt: 'Superbiu',
-        details: '观影、炒币、游戏无卡顿<br>爽感到达巅峰<br>使用优惠劵 ygpy 享 9 折',
-        link: '/vpn/paid#superbiu'
+import ads from '../ads.json'
+
+function getTodayIndexList(length) {
+    const today = new Date();
+    const dayKey = today.toISOString().slice(0, 10);
+    let stored = localStorage.getItem('ads_shown_indexes');
+    let data = stored ? JSON.parse(stored) : {};
+    if (data.day !== dayKey || !Array.isArray(data.indexes) || data.indexes.length !== length) {
+        let arr = Array.from({ length }, (_, i) => i);
+        for (let i = arr.length - 1; i > 0; i--) {
+            const j = Math.floor(Math.random() * (i + 1));
+            [arr[i], arr[j]] = [arr[j], arr[i]];
+        }
+        data = { day: dayKey, indexes: arr };
+        localStorage.setItem('ads_shown_indexes', JSON.stringify(data));
     }
+    return data.indexes;
+}
+
+/**
+ * @param {number} slot 广告位序号（用于多广告位不重复）
+ * @param {'Home'|'Doc'|'Aside'} type 广告位类型
+ * @returns {object|null} 当前广告对象，包含 title/desc/img/link
+ */
+export function getCurrentAd(slot = 0, type = 'Home') {
+    const len = ads.length;
+    if (!len) return null;
+    const indexes = getTodayIndexList(len);
+    const interval = 24 * 60 * 60 * 1000 / len;
+    const now = Date.now();
+    const todayStart = new Date();
+    todayStart.setHours(0, 0, 0, 0);
+    const passed = now - todayStart.getTime();
+    const adIdx = Math.floor(passed / interval) % len;
+    const realIdx = indexes[(adIdx + slot) % len];
+    const ad = ads[realIdx];
+
+    // 取出对应类型的图片和描述
+    const imgKey = `img${type}`;
+    const descKey = `desc${type}`;
+    return {
+        title: ad.title,
+        desc: ad[descKey] || '',
+        img: ad[imgKey] || '',
+        link: ad.link
+    };
 }

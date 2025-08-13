@@ -1,7 +1,6 @@
 import nav from './config/nav';
 import sidebar from './config/sidebar';
 import footer from './config/footer';
-import ads from './config/ads';
 
 export default {
     // https://vitepress.dev/reference/default-theme-config
@@ -38,7 +37,6 @@ export default {
             }
         }
     },
-    ads,
     docFooter: {
         prev: '上一页',
         next: '下一页'

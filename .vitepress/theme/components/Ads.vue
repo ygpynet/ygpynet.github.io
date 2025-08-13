@@ -1,22 +1,21 @@
 <script setup>
-import { useData } from 'vitepress'
+import { getCurrentAd } from '../config/ads';
 
-const { theme } = useData()
+const adAside = getCurrentAd(2, 'Aside')
 </script>
 
 <template>
     <div class="ads">
         <span>
-            <span v-if="theme.ads.aside.href && theme.ads.aside.src && theme.ads.aside.details">
-                <a :href="theme.ads.aside.href" target="_blank" rel="noopener sponsored">
-                    <img :src="theme.ads.aside.src" :alt="theme.ads.aside.alt" class="rounded-lg w-full" />
-                    <span class="ads-text" v-html="theme.ads.aside.details"></span>
+            <span v-if="adAside.link && adAside.img && adAside.desc">
+                <a :href="adAside.link" target="_blank" rel="noopener sponsored">
+                    <img :src="adAside.img" :alt="adAside.title" class="rounded-lg w-full" />
+                    <span class="ads-text" v-html="adAside.desc"></span>
                 </a>
             </span>
-            <a class="ads-poweredby" :href="theme.ads.aside.link"
-                v-if="theme.ads.aside.href && theme.ads.aside.src && theme.ads.aside.details">赞助商广告，点我了解更多</a>
+            <span class="ads-poweredby" v-if="adAside.link && adAside.img && adAside.desc">赞助商广告</span>
             <span class="ads-poweredby" v-else>
-                <a href="#" class="ads-text">成为赞助商</a>
+                <a href="/contact" class="ads-text">成为赞助商</a>
             </span>
         </span>
     </div>

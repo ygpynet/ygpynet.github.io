@@ -1,5 +1,3 @@
-import ads from './ads'
-
 export default {
     '/vpn/': [
         {
@@ -35,20 +33,6 @@ export default {
         {
             text: '付费机场',
             link: '/vpn/paid'
-        },
-        {
-            text: '赞助商广告',
-            collapsed: false,
-            items: [
-                {
-                    text: `<img class="rounded-lg" src="${ads.sidebar.src}" alt="${ads.sidebar.alt}">`,
-                    link: `${ads.sidebar.href}`
-                }
-            ]
-        },
-        {
-            text: '点我了解更多',
-            link: '/vpn/paid#哆啦-a-梦'
         }
     ],
     '/app/': [
