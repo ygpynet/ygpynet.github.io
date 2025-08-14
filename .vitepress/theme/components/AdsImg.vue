@@ -1,12 +1,16 @@
 <template>
-    <a :href="adDoc.link" target="_blank" rel="noreferrer">
-        <figure>
-            <img class="rounded-lg" :src="adDoc.img" :alt="adDoc.title">
-            <figcaption :class="captionClass">
-                [赞助商广告] {{ adDoc.desc }}
-            </figcaption>
-        </figure>
-    </a>
+    <div class="vp-raw">
+        <ClientOnly>
+            <a :href="adDoc.link" target="_blank" rel="noreferrer">
+                <figure>
+                    <img class="rounded-lg" :src="adDoc.img" :alt="adDoc.title">
+                    <figcaption :class="captionClass">
+                        [赞助商广告] {{ adDoc.desc }}
+                    </figcaption>
+                </figure>
+            </a>
+        </ClientOnly>
+    </div>
 </template>
 
 <script setup lang="ts">

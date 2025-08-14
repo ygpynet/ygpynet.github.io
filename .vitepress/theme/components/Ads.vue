@@ -5,20 +5,22 @@ const adAside = getCurrentAd(2, 'Aside')
 </script>
 
 <template>
-    <div class="ads">
-        <span>
-            <span v-if="adAside.link && adAside.img && adAside.desc">
-                <a :href="adAside.link" target="_blank" rel="noopener sponsored">
-                    <img :src="adAside.img" :alt="adAside.title" class="rounded-lg w-full" />
-                    <span class="ads-text" v-html="adAside.desc"></span>
-                </a>
+    <ClientOnly>
+        <div class="ads">
+            <span>
+                <span v-if="adAside.link && adAside.img && adAside.desc">
+                    <a :href="adAside.link" target="_blank" rel="noopener sponsored">
+                        <img :src="adAside.img" :alt="adAside.title" class="rounded-lg w-full" />
+                        <span class="ads-text" v-html="adAside.desc"></span>
+                    </a>
+                </span>
+                <span class="ads-poweredby" v-if="adAside.link && adAside.img && adAside.desc">赞助商广告</span>
+                <span class="ads-poweredby" v-else>
+                    <a href="/contact" class="ads-text">成为赞助商</a>
+                </span>
             </span>
-            <span class="ads-poweredby" v-if="adAside.link && adAside.img && adAside.desc">赞助商广告</span>
-            <span class="ads-poweredby" v-else>
-                <a href="/contact" class="ads-text">成为赞助商</a>
-            </span>
-        </span>
-    </div>
+        </div>
+    </ClientOnly>
 </template>
 
 <style scoped>
