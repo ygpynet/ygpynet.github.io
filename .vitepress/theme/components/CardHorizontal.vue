@@ -1,18 +1,17 @@
 <template>
     <ClientOnly>
-        <fwb-card :img-alt="adHome.title" :img-src="adHome.img" variant="horizontal">
-            <div class="p-5">
-                <a :href="adHome.link" target="_blank" rel="noreferrer">
+        <a class="VPLink link no-icon VPFeature" :href="adHome.link" target="_blank" rel="noreferrer">
+            <fwb-card :img-alt="adHome.title" :img-src="adHome.img" variant="horizontal">
+                <div class="p-5">
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                         {{ adHome.title }}
                     </h5>
-                </a>
-                <p class="font-normal text-gray-700 dark:text-gray-400">
-                    {{ adHome.desc }}
-                </p>
-                <small>赞助商广告</small>
-            </div>
-        </fwb-card>
+                    <hr>
+                    <span class="font-normal text-gray-700 dark:text-gray-400" v-html="adHome.desc"></span>
+                    <span class="ads-poweredby">赞助商广告</span>
+                </div>
+            </fwb-card>
+        </a>
     </ClientOnly>
 </template>
 
@@ -22,3 +21,24 @@ import { getCurrentAd } from '../config/ads';
 
 const adHome = getCurrentAd(0, 'Home')
 </script>
+
+<style scoped>
+a {
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.ads-poweredby {
+    display: block;
+    padding-top: 6px;
+    font-size: 11px;
+    font-weight: 500;
+    color: var(--vp-carbon-ads-poweredby-color);
+    text-transform: uppercase;
+    transition: color 0.25s;
+}
+
+.ads-poweredby:hover {
+    color: var(--vp-carbon-ads-hover-poweredby-color);
+}
+</style>

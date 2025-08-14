@@ -1,6 +1,10 @@
 import ads from '../ads.json'
 
 function getTodayIndexList(length) {
+    if (typeof window === 'undefined' || typeof localStorage === 'undefined') {
+        // SSR 阶段，返回顺序数组或空数组，避免报错
+        return Array.from({ length }, (_, i) => i);
+    }
     const today = new Date();
     const dayKey = today.toISOString().slice(0, 10);
     let stored = localStorage.getItem('ads_shown_indexes');

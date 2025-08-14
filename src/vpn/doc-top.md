@@ -1,2 +1,2 @@
 <p></p>
-<Carousel />
+<AdsImg />
