@@ -1,5 +1,5 @@
 <template>
-    <a :href="adDoc.link">
+    <a :href="adDoc.link" target="_blank" rel="noreferrer">
         <figure>
             <img class="rounded-lg" :src="adDoc.img" :alt="adDoc.title">
             <figcaption :class="captionClass">

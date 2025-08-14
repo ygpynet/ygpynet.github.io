@@ -9,7 +9,6 @@ import Ads from './components/Ads.vue'
 import AdsImg from './components/AdsImg.vue'
 import Card from './components/Card.vue'
 import CardHorizontal from './components/CardHorizontal.vue'
-import Carousel from './components/Carousel.vue'
 import Img from './components/Img.vue'
 import Link from './components/Link.vue'
 import Timeline from './components/Timeline.vue'
@@ -27,7 +26,6 @@ export default {
     app.component('AdsImg', AdsImg)
     app.component('Card', Card)
     app.component('CardHorizontal', CardHorizontal)
-    app.component('Carousel', Carousel)
     app.component('Img', Img)
     app.component('Link', Link)
     app.component('Timeline', Timeline)
