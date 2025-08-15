@@ -1,2 +1,4 @@
 <p></p>
-<AdsImg />
+<ClientOnly>
+    <AdsCarousel />
+</ClientOnly>

@@ -4,6 +4,9 @@ next: false
 
 # 付费机场推荐
 
+<p></p>
+<AdsCarousel />
+
 ## 红杏云 <Badge type="tip" text="中转机场" />
 
 使用优惠券 <Tooltip code="ygpy" /> 享 8 折购买“红杏云系列”套餐。

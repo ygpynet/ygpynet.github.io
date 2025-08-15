@@ -4,14 +4,12 @@ import { useRoute } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import mediumZoom from 'medium-zoom'
 import Layout from './Layout.vue'
-import Accordion from './components/Accordion.vue'
 import Ads from './components/Ads.vue'
-import AdsImg from './components/AdsImg.vue'
+import AdsCarousel from './components/AdsCarousel.vue'
 import Card from './components/Card.vue'
 import CardHorizontal from './components/CardHorizontal.vue'
 import Img from './components/Img.vue'
 import Link from './components/Link.vue'
-import Timeline from './components/Timeline.vue'
 import Tooltip from './components/Tooltip.vue'
 import './style.css'
 import './custom.css'
@@ -21,14 +19,12 @@ export default {
   extends: DefaultTheme,
   Layout,
   enhanceApp({ app }) {
-    app.component('Accordion', Accordion)
     app.component('Ads', Ads)
-    app.component('AdsImg', AdsImg)
+    app.component('AdsCarousel', AdsCarousel)
     app.component('Card', Card)
     app.component('CardHorizontal', CardHorizontal)
     app.component('Img', Img)
     app.component('Link', Link)
-    app.component('Timeline', Timeline)
     app.component('Tooltip', Tooltip)
   },
   setup() {

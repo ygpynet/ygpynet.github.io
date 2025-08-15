@@ -1,8 +1,6 @@
 <template>
     <div class="vp-raw">
-        <ClientOnly>
-            <fwb-img :alt="alt" :caption="alt" :src="src" />
-        </ClientOnly>
+        <fwb-img :alt="alt" :caption="alt" :src="src" />
     </div>
 </template>
 
