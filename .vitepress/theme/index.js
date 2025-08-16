@@ -6,6 +6,7 @@ import mediumZoom from 'medium-zoom'
 import Layout from './Layout.vue'
 import Ads from './components/Ads.vue'
 import AdsCarousel from './components/AdsCarousel.vue'
+import AdsParagraph from './components/AdsParagraph.vue'
 import Card from './components/Card.vue'
 import CardHorizontal from './components/CardHorizontal.vue'
 import Img from './components/Img.vue'
@@ -21,6 +22,7 @@ export default {
   enhanceApp({ app }) {
     app.component('Ads', Ads)
     app.component('AdsCarousel', AdsCarousel)
+    app.component('AdsParagraph', AdsParagraph)
     app.component('Card', Card)
     app.component('CardHorizontal', CardHorizontal)
     app.component('Img', Img)

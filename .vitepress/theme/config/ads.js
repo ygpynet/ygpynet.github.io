@@ -43,6 +43,7 @@ export function getCurrentAd(slot = 0, type = 'Home') {
     const imgKey = `img${type}`;
     const descKey = `desc${type}`;
     return {
+        id: ad.id,
         title: ad.title,
         desc: ad[descKey] || '',
         img: ad[imgKey] || '',

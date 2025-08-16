@@ -13,8 +13,20 @@
 
 <script setup lang="ts">
 import { getCurrentAd } from '../config/ads';
+import { onMounted, watchEffect } from 'vue';
 
 const adDoc = getCurrentAd(1, 'Doc')
+
+onMounted(() => {
+    if (adDoc?.id) {
+        localStorage.setItem('adDoc', adDoc.id)
+    }
+})
+watchEffect(() => {
+    if (adDoc?.id) {
+        localStorage.setItem('adDoc', adDoc.id)
+    }
+})
 
 interface ImageProps {
     caption?: string

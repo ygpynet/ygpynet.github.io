@@ -1,7 +1,19 @@
 <script setup>
 import { getCurrentAd } from '../config/ads';
+import { onMounted, watchEffect } from 'vue';
 
 const adAside = getCurrentAd(2, 'Aside')
+
+onMounted(() => {
+    if (adAside?.id) {
+        localStorage.setItem('adAside', adAside.id)
+    }
+})
+watchEffect(() => {
+    if (adAside?.id) {
+        localStorage.setItem('adAside', adAside.id)
+    }
+})
 </script>
 
 <template>
