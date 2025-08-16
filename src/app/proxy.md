@@ -1,5 +1,10 @@
 # 代理软件推荐
 
+<p></p>
+<ClientOnly>
+    <AdsCarousel />
+</ClientOnly>
+
 ## Clash Verge Rev
 
 Clash Verge 的延续，基于 Tauri 的 Mihomo GUI。

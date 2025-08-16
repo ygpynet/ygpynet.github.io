@@ -1,5 +1,10 @@
 # 网址导航
 
+<p></p>
+<ClientOnly>
+    <AdsCarousel />
+</ClientOnly>
+
 ## AI
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">

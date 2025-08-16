@@ -1,5 +1,10 @@
 # 测速工具推荐
 
+<p></p>
+<ClientOnly>
+    <AdsCarousel />
+</ClientOnly>
+
 ## MiaoKo
 
 MiaoKo 的公益测速开放群。
