@@ -7,6 +7,7 @@
                 </h5>
                 <hr>
                 <span class="font-normal text-gray-700 dark:text-gray-400" v-html="adHome?.desc"></span>
+                <p></p>
                 <span class="ads-poweredby">赞助商广告</span>
             </div>
         </fwb-card>
