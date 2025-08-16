@@ -7,7 +7,7 @@ next: false
 <p></p>
 <AdsCarousel />
 
-## 红杏云 [AD] <Badge type="tip" text="中转机场" />
+## 红杏云 [AD] <Badge type="tip" text="中转机场" /> <Badge type="danger" text="付费机场" />
 
 使用优惠券 <Tooltip code="ygpy" /> 享 8 折购买“红杏云系列”套餐。
 
@@ -31,7 +31,7 @@ next: false
 />
 :::
 
-## 哆啦 ā 梦 [AD] <Badge type="warning" text="专线机场" />
+## 哆啦 ā 梦 [AD] <Badge type="warning" text="专线机场" /> <Badge type="danger" text="付费机场" />
 
 使用优惠券 <Tooltip code="ygpy" /> 享 8 折购买“哆啦 ā 梦系列”套餐。
 
@@ -55,7 +55,7 @@ next: false
 />
 :::
 
-## 糖果云 [AD] <Badge type="warning" text="专线机场" />
+## 糖果云 [AD] <Badge type="warning" text="专线机场" /> <Badge type="danger" text="付费机场" />
 
 使用优惠券 <Tooltip code="ygpy" /> 享 6 折购买“糖果云系列”套餐。
 
@@ -79,7 +79,7 @@ next: false
 />
 :::
 
-## Superbiu [AD] <Badge type="warning" text="专线机场" />
+## Superbiu [AD] <Badge type="warning" text="专线机场" /> <Badge type="danger" text="付费机场" />
 
 使用优惠码 <Tooltip code="ygpy" /> 享 9 折购买“Superbiu 系列”套餐。
 
@@ -103,7 +103,7 @@ next: false
 />
 :::
 
-## 雪山机场 [AD] <Badge type="info" text="直连机场" />
+## 雪山机场 [AD] <Badge type="info" text="直连机场" /> <Badge type="danger" text="付费机场" />
 
 使用优惠券 <Tooltip code="ygpy" /> 享 9 折购买“雪山机场非一次性”套餐。
 
