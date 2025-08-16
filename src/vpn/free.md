@@ -1,7 +1,9 @@
 # 免费机场收集
 
 <p></p>
-<AdsCarousel />
+<ClientOnly>
+    <AdsCarousel />
+</ClientOnly>
 <br>
 <hr>
 

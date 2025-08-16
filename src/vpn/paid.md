@@ -5,7 +5,9 @@ next: false
 # 付费机场推荐
 
 <p></p>
-<AdsCarousel />
+<ClientOnly>
+    <AdsCarousel />
+</ClientOnly>
 
 ## 红杏云 [AD] <Badge type="tip" text="中转机场" /> <Badge type="danger" text="付费机场" />
 
