@@ -23,7 +23,7 @@ function getTodayIndexList(length) {
 
 /**
  * @param {number} slot 广告位序号（用于多广告位不重复）
- * @param {'Home'|'Doc'|'Aside'} type 广告位类型
+ * @param {'Home'|'Doc'|'Sidebar'|'Aside'} type 广告位类型
  * @returns {object|null} 当前广告对象，包含 title/desc/img/link
  */
 export function getCurrentAd(slot = 0, type = 'Home') {
