@@ -14,19 +14,6 @@
     },
     {
         "id": "ad2",
-        "title": "哆啦 ā 梦 | IEPL 高速专线",
-        "descHome": "✅ 不限制速率 ✅ 多国热门节点<br>✅ 流媒体解锁 ✅ 不限制在线数",
-        "descDoc": "哆啦 ā 梦 | 使用优惠券 ygpy 享 8 折",
-        "descSidebar": "8 折优惠券 ygpy",
-        "descAside": "哆啦 ā 梦<br>使用优惠券 ygpy 享 8 折",
-        "imgHome": "https://i.imgur.com/oawBAai.png",
-        "imgDoc": "https://i.imgur.com/ft0SwLt.png",
-        "imgSidebar": "https://i.imgur.com/ILDEVqg.png",
-        "imgAside": "https://i.imgur.com/YEXM7H5.gif",
-        "link": "https://f0.yyds1-doraemon.store/#/register?code=7j3dYEtw"
-    },
-    {
-        "id": "ad3",
         "title": "糖果云 | 定制 IEPL 专线",
         "descHome": "✅ 不限制设备 ✅ 赠送 Emby 影视库<br>✅ 解锁流媒体 ✅ 最高宽带 1000Mbps",
         "descDoc": "糖果云 | 使用优惠券 ygpy 享 6 折",
@@ -39,7 +26,7 @@
         "link": "https://candytally.diy/web/#/login?code=foHbXFgg"
     },
     {
-        "id": "ad4",
+        "id": "ad3",
         "title": "Superbiu | IPLC 中转专线",
         "descHome": "✅ 三网传输网络 ✅ 多种流媒体解锁<br>✅ 50+ 全球节点 ✅ 不限个人设备使用",
         "descDoc": "Superbiu | 使用优惠券 ygpy 享 9 折",
@@ -52,7 +39,7 @@
         "link": "https://superbiu.com/#/register?code=KH6xv0ou"
     },
     {
-        "id": "ad5",
+        "id": "ad4",
         "title": "雪山机场 | 稳定、高速直连",
         "descHome": "✅ 解锁海外流媒体 ✅ 多线接入<br>✅ 支持多地区节点 ✅ 不限客户端连接数量",
         "descDoc": "雪山机场 | 使用优惠券 ygpy 享 9 折",
