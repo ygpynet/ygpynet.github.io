@@ -37,6 +37,12 @@ export default {
         {
             text: '付费机场',
             link: '/vpn/paid'
+        },
+        {
+            text: '赞助商广告',
+            items: [
+                { text: '<img class="rounded-lg" src="https://i.imgur.com/ILDEVqg.png">', link: 'https://f0.yyds1-doraemon.store/#/register?code=7j3dYEtw' }
+            ]
         }
     ],
     '/app/': [
