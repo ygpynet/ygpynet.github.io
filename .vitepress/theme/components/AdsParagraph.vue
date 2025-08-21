@@ -14,7 +14,7 @@ onMounted(() => {
     // 读取 adDoc 和 adAside 两个键，并过滤掉 null
     const ids = [
         localStorage.getItem('adDoc'),
-        localStorage.getItem('adAside')
+        // localStorage.getItem('adAside')
     ].filter((id): id is string => !!id)
     adIds.value = ids
 })

@@ -27,3 +27,5 @@
 </div>
 </AdsParagraph>
 </ClientOnly>
+
+<!--@include: ./paid.md{36,58}-->
