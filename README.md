@@ -107,16 +107,16 @@ src\public\robots.txt
 > [!NOTE]
 > 由 [Tree 树形目录可视化生成器](https://devtool.tech/tree)提供。
 
-    {
-        "id": "ad2",
-        "title": "哆啦 ā 梦 | IEPL 高速专线",
-        "descHome": "✅ 不限制速率 ✅ 多国热门节点<br>✅ 流媒体解锁 ✅ 不限制在线数",
-        "descDoc": "哆啦 ā 梦 | 使用优惠券 ygpy 享 8 折",
-        "descSidebar": "8 折优惠券 ygpy",
-        "descAside": "哆啦 ā 梦<br>使用优惠券 ygpy 享 8 折",
-        "imgHome": "https://i.imgur.com/oawBAai.png",
-        "imgDoc": "https://i.imgur.com/ft0SwLt.png",
-        "imgSidebar": "https://i.imgur.com/ILDEVqg.png",
-        "imgAside": "https://i.imgur.com/YEXM7H5.gif",
-        "link": "https://f0.yyds1-doraemon.store/#/register?code=7j3dYEtw"
-    }
+{
+    "id": "ad2",
+    "title": "哆啦 ā 梦 | IEPL 高速专线",
+    "descHome": "✅ 不限制速率 ✅ 多国热门节点<br>✅ 流媒体解锁 ✅ 不限制在线数",
+    "descDoc": "哆啦 ā 梦 | 使用优惠券 ygpy 享 8 折",
+    "descSidebar": "8 折优惠券 ygpy",
+    "descAside": "哆啦 ā 梦<br>使用优惠券 ygpy 享 8 折",
+    "imgHome": "https://i.imgur.com/oawBAai.png",
+    "imgDoc": "https://i.imgur.com/ft0SwLt.png",
+    "imgSidebar": "https://i.imgur.com/ILDEVqg.png",
+    "imgAside": "https://i.imgur.com/YEXM7H5.gif",
+    "link": "https://f0.yyds1-doraemon.store/#/register?code=7j3dYEtw"
+}
