@@ -12,20 +12,15 @@
 </div>
 <div data-ad-id="ad2">
 
-<!--@include: ./paid.md{36,58}-->
+<!--@include: ./paid.md{60,82}-->
 
 </div>
 <div data-ad-id="ad3">
 
-<!--@include: ./paid.md{60,82}-->
-
-</div>
-<div data-ad-id="ad4">
-
 <!--@include: ./paid.md{84,106}-->
 
 </div>
-<div data-ad-id="ad5">
+<div data-ad-id="ad4">
 
 <!--@include: ./paid.md{108,130}-->
 

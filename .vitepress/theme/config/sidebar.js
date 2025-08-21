@@ -43,6 +43,9 @@ export default {
             items: [
                 { text: '<img class="rounded-lg" src="https://i.imgur.com/ILDEVqg.png">', link: 'https://f0.yyds1-doraemon.store/#/register?code=7j3dYEtw' }
             ]
+        },
+        {
+            text: '使用优惠券 ygpy 享 8 折'
         }
     ],
     '/app/': [
