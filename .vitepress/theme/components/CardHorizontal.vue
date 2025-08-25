@@ -2,9 +2,9 @@
     <a class="VPLink link no-icon VPFeature" :href="adHome?.link" target="_blank" rel="noreferrer">
         <fwb-card :img-alt="adHome?.title" :img-src="adHome?.img" variant="horizontal">
             <div class="p-5">
-                <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                <span class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                     {{ adHome?.title }}
-                </h5>
+                </span>
                 <hr>
                 <span class="font-normal text-gray-700 dark:text-gray-400" v-html="adHome?.desc"></span>
                 <p></p>
