@@ -21,7 +21,7 @@ watchEffect(() => {
         <span>
             <span v-if="adAside?.link && adAside?.img && adAside?.desc">
                 <a :href="adAside?.link" target="_blank" rel="noopener sponsored">
-                    <img :src="adAside?.img" :alt="adAside?.title" class="rounded-lg w-full" />
+                    <img :src="adAside?.img" :alt="adAside?.title" class="rounded-lg w-full" width="176" height="99" />
                     <span class="ads-text" v-html="adAside?.desc"></span>
                 </a>
             </span>
