@@ -16,10 +16,12 @@ MiaoKo 的公益测速开放群。
 [MiaoKo 使用教程](https://xszn.org/2025/03/miaoko/)
 
 ::: details 测试报告
-<Img 
-    src="/images/app/speed/miaoko.webp"
-    alt="MiaoKo"
-/>
+<ClientOnly>
+    <Img
+        src="/images/app/speed/miaoko.webp"
+        alt="MiaoKo"
+    />
+</ClientOnly>
 :::
 
 ## 海豚测速
@@ -32,10 +34,12 @@ MiaoKo 的公益测速开放群。
 [官方频道](https://t.me/haitun_channel)
 
 ::: details 测试报告
-<Img
-    src="/images/app/speed/hai-tun-ce-su.webp"
-    alt="海豚测速"
-/>
+<ClientOnly>
+    <Img
+        src="/images/app/speed/hai-tun-ce-su.webp"
+        alt="海豚测速"
+    />
+</ClientOnly>
 :::
 
 ## MAI-TEST-BOT
@@ -48,8 +52,10 @@ MiaoKo 的公益测速开放群。
 [官方频道](https://t.me/guyingcs)
 
 ::: details 测试报告
-<Img 
-    src="/images/app/speed/ktm.webp"
-    alt="KTM"
-/>
+<ClientOnly>
+    <Img
+        src="/images/app/speed/ktm.webp"
+        alt="KTM"
+    />
+</ClientOnly>
 :::

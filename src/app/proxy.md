@@ -16,10 +16,12 @@ Clash Verge 的延续，基于 Tauri 的 Mihomo GUI。
 [Clash Verge Rev 使用教程](https://xszn.org/2025/03/clash-verge-rev/)
 
 ::: details 软件界面
-<Img
-    alt="Clash Verge Rev"
-    src="/images/app/proxy/clash-verge-rev.webp"
-/>
+<ClientOnly>
+    <Img
+        alt="Clash Verge Rev"
+        src="/images/app/proxy/clash-verge-rev.webp"
+    />
+</ClientOnly>
 :::
 
 ## Clash Meta For Android
@@ -32,10 +34,12 @@ Clash Verge 的延续，基于 Tauri 的 Mihomo GUI。
 [官方频道](https://t.me/clashmeta)
 
 ::: details 软件界面
-<Img
-    src="/images/app/proxy/clash-meta-for-android.webp"
-    alt="Clash Meta For Android"
-/>
+<ClientOnly>
+    <Img
+        src="/images/app/proxy/clash-meta-for-android.webp"
+        alt="Clash Meta For Android"
+    />
+</ClientOnly>
 :::
 
 ## v2rayN
@@ -48,10 +52,12 @@ Clash Verge 的延续，基于 Tauri 的 Mihomo GUI。
 [官方频道](https://t.me/github_2dust)
 
 ::: details 软件界面
-<Img
-    src="/images/app/proxy/v2rayn.webp"
-    alt="v2rayN"
-/>
+<ClientOnly>
+    <Img
+        src="/images/app/proxy/v2rayn.webp"
+        alt="v2rayN"
+    />
+</ClientOnly>
 :::
 
 ## v2rayNG
@@ -64,10 +70,12 @@ Android 的 V2Ray 客户端，支持 Xray 核心和 v2fly 核心。
 [官方频道](https://t.me/github_2dust)
 
 ::: details 软件界面
-<Img
-    src="/images/app/proxy/v2rayng.webp"
-    alt="v2rayNG"
-/>
+<ClientOnly>
+    <Img
+        src="/images/app/proxy/v2rayng.webp"
+        alt="v2rayNG"
+    />
+</ClientOnly>
 :::
 
 ## Shadowsocks for Windows
@@ -80,10 +88,12 @@ Shadowsocks 的 C# 移植。
 [官方论坛](https://discourse.shadowsocks.org/)
 
 ::: details 软件界面
-<Img
-    src="/images/app/proxy/shadowsocks-for-windows.webp"
-    alt="Shadowsocks for Windows"
-/>
+<ClientOnly>
+    <Img
+        src="/images/app/proxy/shadowsocks-for-windows.webp"
+        alt="Shadowsocks for Windows"
+    />
+</ClientOnly>
 :::
 
 ## Shadowsocks for Android
@@ -96,10 +106,12 @@ Android 版 shadowsocks 客户端。
 [官方论坛](https://discourse.shadowsocks.org/c/implementations/shadowsocks-android/6)
 
 ::: details 软件界面
-<Img
-    src="/images/app/proxy/shadowsocks-for-android.webp"
-    alt="Shadowsocks for Android"
-/>
+<ClientOnly>
+    <Img
+        src="/images/app/proxy/shadowsocks-for-android.webp"
+        alt="Shadowsocks for Android"
+    />
+</ClientOnly>
 :::
 
 ## Sing-box
@@ -112,10 +124,12 @@ Android 版 shadowsocks 客户端。
 [官方频道](https://t.me/yapnc)
 
 ::: details 软件界面
-<Img
-    src="/images/app/proxy/sing-box.webp"
-    alt="Sing-box"
-/>
+<ClientOnly>
+    <Img
+        src="/images/app/proxy/sing-box.webp"
+        alt="Sing-box"
+    />
+</ClientOnly>
 :::
 
 ## Hiddify
@@ -128,10 +142,12 @@ Android 版 shadowsocks 客户端。
 [官方频道](https://telegram.dog/hiddify)
 
 ::: details 软件界面
-<Img
-    src="/images/app/proxy/hiddify.webp"
-    alt="Hiddify"
-/>
+<ClientOnly>
+    <Img
+        src="/images/app/proxy/hiddify.webp"
+        alt="Hiddify"
+    />
+</ClientOnly>
 :::
 
 ## FlClash
@@ -144,10 +160,12 @@ Android 版 shadowsocks 客户端。
 [官方频道](https://t.me/FlClash)
 
 ::: details 软件界面
-<Img
-    src="/images/app/proxy/flclash.webp"
-    alt="FlClash"
-/>
+<ClientOnly>
+    <Img
+        src="/images/app/proxy/flclash.webp"
+        alt="FlClash"
+    />
+</ClientOnly>
 :::
 
 ## NekoBox For PC
@@ -160,10 +178,12 @@ Android 版 shadowsocks 客户端。
 [官方频道](https://t.me/Matsuridayo)
 
 ::: details 软件界面
-<Img
-    src="/images/app/proxy/nekobox-for-pc.webp"
-    alt="NekoBox For PC"
-/>
+<ClientOnly>
+    <Img
+        src="/images/app/proxy/nekobox-for-pc.webp"
+        alt="NekoBox For PC"
+    />
+</ClientOnly>
 :::
 
 ## NekoBox for Android
@@ -176,8 +196,10 @@ Android 版 shadowsocks 客户端。
 [官方频道](https://t.me/MatsuriDayo)
 
 ::: details 软件界面
-<Img
-    src="/images/app/proxy/nekobox-for-android.webp"
-    alt="NekoBox for Android"
-/>
+<ClientOnly>
+    <Img
+        src="/images/app/proxy/nekobox-for-android.webp"
+        alt="NekoBox for Android"
+    />
+</ClientOnly>
 :::
