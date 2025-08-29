@@ -109,10 +109,10 @@ features:
         </fwb-accordion-content>
       </fwb-accordion-panel>
       <fwb-accordion-panel>
-        <fwb-accordion-header>优惠码在哪里？为什么有时显示失效？</fwb-accordion-header>
+        <fwb-accordion-header>优惠劵在哪里？为什么有时显示失效？</fwb-accordion-header>
         <fwb-accordion-content>
           <p class="mb-2 text-gray-500 dark:text-gray-400">
-            优惠码一般发布在机场简介、群组或频道说明中。免费码数量有限，用完即失效，需及时领取或购买。
+            优惠劵一般发布在机场简介、群组或频道说明中。免费劵数量有限，用完即失效，需及时领取或购买。
           </p>
         </fwb-accordion-content>
       </fwb-accordion-panel>
