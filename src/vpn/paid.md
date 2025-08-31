@@ -37,9 +37,9 @@ next: false
 </ClientOnly>
 :::
 
-## 哆啦 ā 梦 [AD] <Badge type="warning" text="专线机场" /> <Badge type="danger" text="付费机场" />
+## 哆啦 A 梦 [AD] <Badge type="warning" text="专线机场" /> <Badge type="danger" text="付费机场" />
 
-使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 8 折购买“哆啦 ā 梦系列”套餐。
+使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 8 折购买“哆啦 A 梦系列”套餐。
 
 节点位置：阿联酋、德国、韩国、美国、日本、台湾、香港、新加坡、印度、荷兰
 
@@ -53,14 +53,14 @@ next: false
 <ClientOnly>
     <Img
         src="https://i.imgur.com/tGllYIw.png"
-        alt="“哆啦 ā 梦”价格详情"
+        alt="“哆啦 A 梦”价格详情"
     />
 </ClientOnly>
 <p></p>
 <ClientOnly>
     <Img
         src="https://i.imgur.com/pAy0RtK.png"
-        alt="“哆啦 ā 梦”测试报告"
+        alt="“哆啦 A 梦”测试报告"
     />
 </ClientOnly>
 :::
