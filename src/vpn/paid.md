@@ -18,8 +18,8 @@ next: false
 协议类型：Hysteria、Trojan
 
 <p>注册地址：<ClientOnly><Link href="https://hongxingyun5.vip/web/#/login?code=CPXZlpWz" /></ClientOnly></p>
-<p>官方群组：<ClientOnly><Link href="https://t.me/hongxingyuna" /></ClientOnly></p>
 <p>官方频道：<ClientOnly><Link href="https://t.me/hongxingyun" /></ClientOnly></p>
+<p>官方群组：<ClientOnly><Link href="https://t.me/hongxingyuna" /></ClientOnly></p>
 
 ::: details
 <ClientOnly>
@@ -46,8 +46,8 @@ next: false
 协议类型：Trojan、VLESS
 
 <p>注册地址：<ClientOnly><Link href="https://f0.yyds1-doraemon.store/#/register?code=7j3dYEtw" /></ClientOnly></p>
-<p>官方群组：<ClientOnly><Link href="https://t.me/VPNONGoo" /></ClientOnly></p>
 <p>官方频道：<ClientOnly><Link href="https://t.me/VPNong" /></ClientOnly></p>
+<p>官方群组：<ClientOnly><Link href="https://t.me/VPNONGoo" /></ClientOnly></p>
 
 ::: details
 <ClientOnly>
@@ -74,8 +74,8 @@ next: false
 协议类型：Trojan
 
 <p>注册地址：<ClientOnly><Link href="https://candytally.diy/web/#/login?code=foHbXFgg" /></ClientOnly></p>
-<p>官方群组：<ClientOnly><Link href="https://t.me/candytallyvip" /></ClientOnly></p>
 <p>官方频道：<ClientOnly><Link href="https://t.me/Candytally" /></ClientOnly></p>
+<p>官方群组：<ClientOnly><Link href="https://t.me/candytallyvip" /></ClientOnly></p>
 
 ::: details
 <ClientOnly>
@@ -102,8 +102,8 @@ next: false
 协议类型：VMess
 
 <p>注册地址：<ClientOnly><Link href="https://superbiu.com/#/register?code=KH6xv0ou" /></ClientOnly></p>
-<p>官方群组：<ClientOnly><Link href="https://t.me/superbiu888" /></ClientOnly></p>
 <p>官方频道：<ClientOnly><Link href="https://t.me/superbiupd" /></ClientOnly></p>
+<p>官方群组：<ClientOnly><Link href="https://t.me/superbiu888" /></ClientOnly></p>
 
 ::: details
 <ClientOnly>
@@ -130,8 +130,8 @@ next: false
 协议类型：Hysteria、VLESS
 
 <p>注册地址：<ClientOnly><Link href="https://x2.xueshan.shop/#/register?code=pq7dmt6E" /></ClientOnly></p>
-<p>官方群组：<ClientOnly><Link href="https://t.me/xueshan0001" /></ClientOnly></p>
 <p>官方频道：<ClientOnly><Link href="https://t.me/xueshan0002" /></ClientOnly></p>
+<p>官方群组：<ClientOnly><Link href="https://t.me/xueshan0001" /></ClientOnly></p>
 
 ::: details
 <ClientOnly>
