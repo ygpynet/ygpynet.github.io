@@ -11,6 +11,7 @@ export default {
                     text: '2025',
                     collapsed: false,
                     items: [
+                        { text: '9 月', link: '/vpn/2025/09' },
                         { text: '8 月', link: '/vpn/2025/08' },
                         { text: '7 月', link: '/vpn/2025/07' },
                         { text: '6 月', link: '/vpn/2025/06' },
