@@ -42,7 +42,7 @@ export default {
         {
             text: '赞助商广告',
             items: [
-                { text: '<img class="rounded-lg" width="208" height="370" src="https://i.imgur.com/BrEcga2.png" alt="哆啦 ā 梦">', link: 'https://f0.yyds1-doraemon.store/#/register?code=7j3dYEtw' }
+                { text: '<img class="rounded-lg" width="208" height="370" src="https://i.imgur.com/BrEcga2.png" alt="哆啦 ā 梦">', link: 'https://m9.yyds2-doraemon.site/#/register?code=7j3dYEtw' }
             ]
         },
         {
