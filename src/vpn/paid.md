@@ -149,7 +149,7 @@ next: false
 </ClientOnly>
 :::
 
-## 布丁猫 <Badge type="info" text="专线机场" />
+## 布丁猫 <Badge type="warning" text="专线机场" />
 
 使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 8 折购买“布丁猫系列”套餐。
 
