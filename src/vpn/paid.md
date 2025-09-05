@@ -9,7 +9,7 @@ next: false
     <AdsCarousel />
 </ClientOnly>
 
-## 红杏云 [AD] <Badge type="tip" text="中转机场" /> <Badge type="danger" text="付费机场" />
+## 红杏云 [AD] <Badge type="tip" text="中转机场" />
 
 使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 8 折购买“红杏云系列”套餐。
 
@@ -37,7 +37,7 @@ next: false
 </ClientOnly>
 :::
 
-## 哆啦 A 梦 [AD] <Badge type="warning" text="专线机场" /> <Badge type="danger" text="付费机场" />
+## 哆啦 A 梦 [AD] <Badge type="warning" text="专线机场" />
 
 使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 8 折购买“哆啦 A 梦系列”套餐。
 
@@ -65,7 +65,7 @@ next: false
 </ClientOnly>
 :::
 
-## 糖果云 [AD] <Badge type="warning" text="专线机场" /> <Badge type="danger" text="付费机场" />
+## 糖果云 [AD] <Badge type="warning" text="专线机场" />
 
 使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 6 折购买“糖果云系列”套餐。
 
@@ -93,7 +93,7 @@ next: false
 </ClientOnly>
 :::
 
-## Superbiu [AD] <Badge type="warning" text="专线机场" /> <Badge type="danger" text="付费机场" />
+## Superbiu [AD] <Badge type="warning" text="专线机场" />
 
 使用优惠码 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 9 折购买“Superbiu 系列”套餐。
 
@@ -121,7 +121,7 @@ next: false
 </ClientOnly>
 :::
 
-## 雪山机场 [AD] <Badge type="info" text="直连机场" /> <Badge type="danger" text="付费机场" />
+## 雪山机场 [AD] <Badge type="info" text="直连机场" />
 
 使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 9 折购买“雪山机场非一次性”套餐。
 
@@ -145,6 +145,34 @@ next: false
     <Img
         src="https://i.imgur.com/2cefrO1.png"
         alt="“雪山机场”测试报告"
+    />
+</ClientOnly>
+:::
+
+## 布丁猫 [AD] <Badge type="info" text="专线机场" />
+
+使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 8 折购买“布丁猫系列”套餐。
+
+节点位置：香港、澳门、日本、新加坡、台湾、韩国、美国、菲律宾、越南、马来西亚……
+
+协议类型：VMess
+
+<p>注册地址：<ClientOnly><Link href="https://intl.budingcat.xyz/#/register?code=Z9QwjAp7" /></ClientOnly></p>
+<p>官方频道：<ClientOnly><Link href="https://t.me/budingcatsub" /></ClientOnly></p>
+<p>官方群组：<ClientOnly><Link href="https://t.me/budingcat" /></ClientOnly></p>
+
+::: details
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/1UVZxGF.png"
+        alt="“布丁猫”价格详情"
+    />
+</ClientOnly>
+<p></p>
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/4GmNaZg.png"
+        alt="“布丁猫”测试报告"
     />
 </ClientOnly>
 :::
