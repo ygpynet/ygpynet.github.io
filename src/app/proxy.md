@@ -30,7 +30,7 @@ Clash Verge 的延续，基于 Tauri 的 Mihomo GUI。
 
 系统平台：Android
 
-[前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid/releases)&nbsp;
+[前往下载](https://github.com/MetaCubeX/ClashMetaForAndroid)&nbsp;
 [官方频道](https://t.me/clashmeta)
 
 ::: details 软件界面
@@ -48,7 +48,7 @@ Clash Verge 的延续，基于 Tauri 的 Mihomo GUI。
 
 系统平台：Windows、Linux、macOS
 
-[前往下载](https://github.com/2dust/v2rayN/releases)&nbsp;
+[前往下载](https://github.com/2dust/v2rayN)&nbsp;
 [官方频道](https://t.me/github_2dust)
 
 ::: details 软件界面
@@ -66,7 +66,7 @@ Android 的 V2Ray 客户端，支持 Xray 核心和 v2fly 核心。
 
 系统平台：Android
 
-[前往下载](https://github.com/2dust/v2rayN/releases)&nbsp;
+[前往下载](https://github.com/2dust/v2rayNG)&nbsp;
 [官方频道](https://t.me/github_2dust)
 
 ::: details 软件界面
@@ -84,7 +84,7 @@ Shadowsocks 的 C# 移植。
 
 系统平台：Windows
 
-[前往下载](https://github.com/shadowsocks/shadowsocks-windows/releases)&nbsp;
+[前往下载](https://github.com/shadowsocks/shadowsocks-windows)&nbsp;
 [官方论坛](https://discourse.shadowsocks.org/)
 
 ::: details 软件界面
@@ -102,7 +102,7 @@ Android 版 shadowsocks 客户端。
 
 系统平台：Android
 
-[前往下载](https://github.com/shadowsocks/shadowsocks-android/releases)&nbsp;
+[前往下载](https://github.com/shadowsocks/shadowsocks-android)&nbsp;
 [官方论坛](https://discourse.shadowsocks.org/c/implementations/shadowsocks-android/6)
 
 ::: details 软件界面
@@ -156,7 +156,7 @@ Android 版 shadowsocks 客户端。
 
 系统平台：Windows、macOS、Linux、Android
 
-[前往下载](https://github.com/chen08209/FlClash/releases)&nbsp;
+[前往下载](https://github.com/chen08209/FlClash)&nbsp;
 [官方频道](https://t.me/FlClash)
 
 ::: details 软件界面
@@ -174,7 +174,7 @@ Android 版 shadowsocks 客户端。
 
 系统平台：Windows、Linux
 
-[前往下载](https://github.com/MatsuriDayo/nekoray/releases)&nbsp;
+[前往下载](https://github.com/MatsuriDayo/nekoray)&nbsp;
 [官方频道](https://t.me/Matsuridayo)
 
 ::: details 软件界面
@@ -192,7 +192,7 @@ Android 版 shadowsocks 客户端。
 
 系统平台：Android
 
-[前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid/releases)&nbsp;
+[前往下载](https://github.com/MatsuriDayo/NekoBoxForAndroid)&nbsp;
 [官方频道](https://t.me/MatsuriDayo)
 
 ::: details 软件界面
