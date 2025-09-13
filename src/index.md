@@ -73,7 +73,7 @@ features:
                 订阅导入
             </fwb-timeline-title>
             <fwb-timeline-body>
-                来到“仪表盘”，复制订阅地址，快速将节点导入对应客户端进行使用。
+                来到“仪表盘（首页）”，复制订阅地址，快速将节点导入对应客户端进行使用。
             </fwb-timeline-body>
           </fwb-timeline-content>
         </fwb-timeline-item>
