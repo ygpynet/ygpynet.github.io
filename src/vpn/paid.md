@@ -176,3 +176,31 @@ next: false
     />
 </ClientOnly>
 :::
+
+## 秒连云 <Badge type="tip" text="中转机场" />
+
+使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 7.8 折购买“秒连云系列”套餐。
+
+节点位置：香港、日本、新加坡、美国、台湾、土耳其、奥地利、以色列、荷兰、冰岛、瑞士……
+
+协议类型：Shadowsocks
+
+<p>注册地址：<ClientOnly><Link href="https://mly518.com/login/?code=wZdobGPq" /></ClientOnly></p>
+<p>官方频道：<ClientOnly><Link href="https://t.me/mly_yyds" /></ClientOnly></p>
+<p>官方群组：<ClientOnly><Link href="https://t.me/miaolianyun" /></ClientOnly></p>
+
+::: details
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/PH5jvwz.png"
+        alt="“秒连云”价格详情"
+    />
+</ClientOnly>
+<p></p>
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/kVSAwcc.png"
+        alt="“秒连云”测试报告"
+    />
+</ClientOnly>
+:::
