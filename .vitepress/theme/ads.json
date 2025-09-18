@@ -6,10 +6,10 @@
         "descDoc": "红杏云 | 使用优惠券 ygpy 享 8 折",
         "descSidebar": "8 折优惠券 ygpy",
         "descAside": "红杏云<br>使用优惠券 ygpy 享 8 折",
-        "imgHome": "https://i.imgur.com/gKttvzo.png",
-        "imgDoc": "https://i.imgur.com/hEFRemp.png",
-        "imgSidebar": "https://i.imgur.com/B6j30tL.png",
-        "imgAside": "https://i.imgur.com/c3CGJZU.gif",
+        "imgHome": "/images/vpn/hongxingyun/hongxingyun-vertical-banner.webp",
+        "imgDoc": "/images/vpn/hongxingyun/hongxingyun-big-banner.webp",
+        "imgSidebar": "",
+        "imgAside": "/images/vpn/hongxingyun/hongxingyun-small-banner.gif",
         "link": "https://hongxingyun5.vip/web/#/login?code=CPXZlpWz"
     },
     {
@@ -19,10 +19,10 @@
         "descDoc": "糖果云 | 使用优惠券 ygpy 享 6 折",
         "descSidebar": "6 折优惠券 ygpy",
         "descAside": "糖果云<br>使用优惠券 ygpy 享 6 折",
-        "imgHome": "https://i.imgur.com/HDEf3fP.png",
-        "imgDoc": "https://i.imgur.com/MPzjznr.png",
-        "imgSidebar": "https://i.imgur.com/Nga3PFS.png",
-        "imgAside": "https://i.imgur.com/E0gnIiG.gif",
+        "imgHome": "/images/vpn/tangguoyun/tangguoyun-vertical-banner.webp",
+        "imgDoc": "/images/vpn/tangguoyun/tangguoyun-big-banner.webp",
+        "imgSidebar": "",
+        "imgAside": "/images/vpn/tangguoyun/tangguoyun-small-banner.gif",
         "link": "https://candytally.diy/web/#/login?code=foHbXFgg"
     },
     {
@@ -32,10 +32,10 @@
         "descDoc": "Superbiu | 使用优惠券 ygpy 享 9 折",
         "descSidebar": "9 折优惠券 ygpy",
         "descAside": "Superbiu<br>使用优惠券 ygpy 享 9 折",
-        "imgHome": "https://i.imgur.com/9XDqM3O.png",
-        "imgDoc": "https://i.imgur.com/4DBXD07.png",
-        "imgSidebar": "https://i.imgur.com/NKAtrsT.png",
-        "imgAside": "https://i.imgur.com/y9ygvP8.gif",
+        "imgHome": "/images/vpn/superbiu/superbiu-vertical-banner.webp",
+        "imgDoc": "/images/vpn/superbiu/superbiu-big-banner.webp",
+        "imgSidebar": "",
+        "imgAside": "/images/vpn/superbiu/superbiu-small-banner.gif",
         "link": "https://superbiu.com/#/register?code=KH6xv0ou"
     },
     {
@@ -45,10 +45,10 @@
         "descDoc": "雪山机场 | 使用优惠券 ygpy 享 9 折",
         "descSidebar": "9 折优惠券 ygpy",
         "descAside": "雪山机场<br>使用优惠券 ygpy 享 9 折",
-        "imgHome": "https://i.imgur.com/ehbQRWB.png",
-        "imgDoc": "https://i.imgur.com/2dLd0Os.png",
-        "imgSidebar": "https://i.imgur.com/xj6FecV.png",
-        "imgAside": "https://i.imgur.com/U4WYXCZ.gif",
+        "imgHome": "/images/vpn/xueshan/xueshan-vertical-banner.webp",
+        "imgDoc": "/images/vpn/xueshan/xueshan-big-banner.webp",
+        "imgSidebar": "",
+        "imgAside": "/images/vpn/xueshan/xueshan-small-banner.gif",
         "link": "https://x2.xueshan.shop/#/register?code=pq7dmt6E"
     },
     {
@@ -58,10 +58,10 @@
         "descDoc": "布丁猫 | 使用优惠券 ygpy 享 8 折",
         "descSidebar": "8 折优惠券 ygpy",
         "descAside": "布丁猫<br>使用优惠券 ygpy 享 8 折",
-        "imgHome": "https://i.imgur.com/QofjXh3.png",
-        "imgDoc": "https://i.imgur.com/J9FlcII.png",
+        "imgHome": "/images/vpn/budingmao/budingmao-vertical-banner.webp",
+        "imgDoc": "/images/vpn/budingmao/budingmao-big-banner.webp",
         "imgSidebar": "",
-        "imgAside": "https://i.imgur.com/PP8oIQA.gif",
+        "imgAside": "/images/vpn/budingmao/budingmao-small-banner.gif",
         "link": "https://intl.budingcat.xyz/#/register?code=Z9QwjAp7"
     },
     {
@@ -71,10 +71,10 @@
         "descDoc": "秒连云 | 使用优惠券 ygpy 享 7.8 折",
         "descSidebar": "7.8 折优惠券 ygpy",
         "descAside": "秒连云<br>使用优惠券 ygpy 享 7.8 折",
-        "imgHome": "https://i.imgur.com/6N4cC1k.png",
-        "imgDoc": "https://i.imgur.com/U0kpyMJ.png",
+        "imgHome": "/images/vpn/miaolianyun/miaolianyun-vertical-banner.webp",
+        "imgDoc": "/images/vpn/miaolianyun/miaolianyun-big-banner.webp",
         "imgSidebar": "",
-        "imgAside": "https://i.imgur.com/Ebmr3hN.gif",
+        "imgAside": "/images/vpn/miaolianyun/miaolianyun-small-banner.gif",
         "link": "https://mly518.com/login/?code=wZdobGPq"
     },
     {
