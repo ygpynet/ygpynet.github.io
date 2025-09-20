@@ -45,7 +45,7 @@ next: false
 
 协议类型：Trojan、VLESS
 
-<p>注册地址：<ClientOnly><Link href="https://xn--a-2h9a4s792d.xyz/" /></ClientOnly></p>
+<p>注册地址：<ClientOnly><Link href="https://哆啦a梦.xyz/" /></ClientOnly></p>
 <p>官方频道：<ClientOnly><Link href="https://t.me/VPNong" /></ClientOnly></p>
 <p>官方群组：<ClientOnly><Link href="https://t.me/VPNONGoo" /></ClientOnly></p>
 
