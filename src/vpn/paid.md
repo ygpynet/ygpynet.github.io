@@ -232,3 +232,31 @@ next: false
     />
 </ClientOnly>
 :::
+
+## 楚门加速 <Badge type="warning" text="专线机场" />
+
+使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 7 折购买“楚门加速系列”套餐。
+
+节点位置：德国、加拿大、荷兰、卢森堡、美国、日本、台湾、泰国、香港、新加坡
+
+协议类型：Shadowsocks、VLESS
+
+<p>注册地址：<ClientOnly><Link href="https://cut.chumen1.xyz/#/register?code=dOihfuks" /></ClientOnly></p>
+<p>官方频道：无</p>
+<p>官方群组：<ClientOnly><Link href="https://t.me/ss_vpn" /></ClientOnly></p>
+
+::: details
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/LunU2ew.png"
+        alt="“楚门加速”价格详情"
+    />
+</ClientOnly>
+<p></p>
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/R46CuR0.png"
+        alt="“楚门加速”测试报告"
+    />
+</ClientOnly>
+:::

@@ -12,8 +12,7 @@ MiaoKo 的公益测速开放群。
 系统平台：Telegram Bot
 
 [前往使用](https://t.me/FFQMiaokoPublic)&nbsp;
-[官方频道](https://t.me/ffq_la)&nbsp;
-[MiaoKo 使用教程](https://xszn.org/2025/03/miaoko/)
+[官方频道](https://t.me/ffq_la)
 
 ::: details 测试报告
 <ClientOnly>

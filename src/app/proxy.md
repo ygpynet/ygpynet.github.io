@@ -12,8 +12,7 @@ Clash Verge 的延续，基于 Tauri 的 Mihomo GUI。
 系统平台：Windows、macOS、Linux
 
 [前往下载](https://www.clashverge.dev/install.html)&nbsp;
-[官方频道](https://t.me/clash_verge_re)&nbsp;
-[Clash Verge Rev 使用教程](https://xszn.org/2025/03/clash-verge-rev/)
+[官方频道](https://t.me/clash_verge_re)
 
 ::: details 软件界面
 <ClientOnly>
