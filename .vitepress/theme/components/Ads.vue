@@ -22,12 +22,12 @@ watchEffect(() => {
             <span v-if="adAside?.link && adAside?.img && adAside?.desc">
                 <a :href="adAside?.link" target="_blank" rel="noopener sponsored">
                     <img :src="adAside?.img" :alt="adAside?.title" class="rounded-lg w-full" width="176" height="99" />
-                    <span class="ads-text" v-html="adAside?.desc"></span>
+                    <span class="gg-text" v-html="adAside?.desc"></span>
                 </a>
             </span>
             <span class="ads-poweredby" v-if="adAside?.link && adAside?.img && adAside?.desc">赞助商广告</span>
             <span class="ads-poweredby" v-else>
-                <a href="/contact" class="ads-text">成为赞助商</a>
+                <a href="/contact" class="gg-text">成为赞助商</a>
             </span>
         </span>
     </div>
@@ -53,15 +53,15 @@ watchEffect(() => {
     border-radius: 6px;
 }
 
-.ads :deep(.ads-text) {
+.ads :deep(.gg-text) {
     display: block;
     margin: 0 auto;
     padding-top: 12px;
-    color: var(--vp-carbon-ads-text-color);
+    color: var(--vp-carbon-gg-text-color);
     transition: color 0.25s;
 }
 
-.ads :deep(.ads-text:hover) {
+.ads :deep(.gg-text:hover) {
     color: var(--vp-carbon-ads-hover-text-color);
 }
 
