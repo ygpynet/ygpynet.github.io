@@ -11,8 +11,9 @@
 汇总往期免费机场推荐，时效性和有效性不保证。优惠信息定期更新，或自行关注机场主页、官方群组和频道。更多优惠请移步 `试用机场`，可抢先体验优质服务。
 :::
 
-<ClientOnly>
-    <div class="vp-raw">
+
+<div class="vp-raw">
+    <ClientOnly>
         <fwb-table hoverable>
             <fwb-table-head>
                 <fwb-table-head-cell>发布日期</fwb-table-head-cell>
@@ -59,8 +60,9 @@
                 <fwb-table-row><fwb-table-cell>2024/07/27</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/archives/2024#20240727">LEN</fwb-a></fwb-table-cell><fwb-table-cell>0 元购买</fwb-table-cell><fwb-table-cell>1000GB️/1 次性</fwb-table-cell><fwb-table-cell>支持续杯</fwb-table-cell></fwb-table-row>
             </fwb-table-body>
         </fwb-table>
-    </div>
-</ClientOnly>
+    </ClientOnly>
+</div>
+
 
 <script setup>
 import {
