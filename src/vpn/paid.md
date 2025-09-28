@@ -288,3 +288,31 @@ next: false
     />
 </ClientOnly>
 :::
+
+## 山海 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" /> <Badge type="warning" text="专线机场" />
+
+使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 8 折购买“山海系列”套餐。
+
+节点位置：香港、台湾、澳门、日本、美国、英国、越南、德国、泰国、新加坡、澳大利亚、韩国
+
+协议类型：AnyTLS、Shadowsocks
+
+<p>注册地址：<ClientOnly><Link href="https://shanhai.cfd/#/register?code=t6LtRJem" /></ClientOnly></p>
+<p>官方频道：<ClientOnly><Link href="https://t.me/shanhai_1" /></ClientOnly></p>
+<p>官方群组：<ClientOnly><Link href="https://t.me/shanhai_2" /></ClientOnly></p>
+
+::: details
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/sbSH9QA.png"
+        alt="“山海”价格详情"
+    />
+</ClientOnly>
+<p></p>
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/WGiC8uO.png"
+        alt="“山海”测试报告"
+    />
+</ClientOnly>
+:::
