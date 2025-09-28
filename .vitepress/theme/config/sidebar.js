@@ -42,7 +42,7 @@ export default {
         {
             text: '赞助商广告',
             items: [
-                { text: '<img class="rounded-lg" width="208" height="370" src="/images/vpn/duolaameng/duolaameng-vertical-banner.webp" alt="哆啦 ā 梦">', link: 'https://xn--a-2h9a4s792d.xyz/' }
+                { text: '<img class="rounded-lg" width="208" height="370" src="/images/vpn/duolaameng/duolaameng-vertical-banner.webp" alt="哆啦 A 梦">', link: 'https://ygpy.yyds1-doraemon.cfd/#/register?code=7j3dYEtw' }
             ]
         },
         {
