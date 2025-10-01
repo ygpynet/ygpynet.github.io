@@ -316,3 +316,31 @@ next: false
     />
 </ClientOnly>
 :::
+
+## M78 星云 <Badge type="warning" text="专线机场" />
+
+使用优惠券 <ClientOnly><Tooltip code="m78-22off" /></ClientOnly> 享 7.8 折购买“M78 星云系列”套餐。
+
+节点位置：香港、新加坡、台湾、日本、美国、韩国、南极、阿根廷、埃及、土耳其、乌克兰……
+
+协议类型：Shadowsocks
+
+<p>注册地址：<ClientOnly><Link href="https://www.m78.at/#/register?code=eV5ctG7v" /></ClientOnly></p>
+<p>官方频道：无</p>
+<p>官方群组：无</p>
+
+::: details
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/yDLIvqv.png"
+        alt="“M78 星云”价格详情"
+    />
+</ClientOnly>
+<p></p>
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/5X3GjIN.png"
+        alt="“M78 星云”测试报告"
+    />
+</ClientOnly>
+:::
