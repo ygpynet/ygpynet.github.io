@@ -325,7 +325,7 @@ next: false
 
 协议类型：Shadowsocks
 
-<p>注册地址：<ClientOnly><Link href="https://www.m78.at/#/register?code=eV5ctG7v" /></ClientOnly></p>
+<p>注册地址：<ClientOnly><Link href="https://www.m78.at/main/#/register?code=eV5ctG7v" /></ClientOnly></p>
 <p>官方频道：无</p>
 <p>官方群组：无</p>
 
