@@ -41,9 +41,9 @@ next: false
 
 使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 8 折购买“哆啦 A 梦系列”套餐。
 
-节点位置：阿联酋、德国、韩国、美国、日本、台湾、香港、新加坡、印度、荷兰
+节点位置：香港、新加坡、日本、台湾、韩国、印度、阿联酋、德国、美国、荷兰
 
-协议类型：Trojan、VLESS
+协议类型：Trojan、VLESS、Shadowsocks
 
 <p>注册地址：<ClientOnly><Link href="https://ygpy.yyds2-doraemon.art/#/register?code=7j3dYEtw" /></ClientOnly></p>
 <p>官方频道：<ClientOnly><Link href="https://t.me/VPNong" /></ClientOnly></p>
@@ -59,7 +59,7 @@ next: false
 <p></p>
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/pAy0RtK.png"
+        src="https://i.imgur.com/1sPNXUK.png"
         alt="“哆啦 A 梦”测试报告"
     />
 </ClientOnly>
