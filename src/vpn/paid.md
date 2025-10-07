@@ -149,6 +149,34 @@ next: false
 </ClientOnly>
 :::
 
+## 布丁猫 <Badge type="warning" text="专线机场" />
+
+使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 8 折购买“布丁猫系列”套餐。
+
+节点位置：香港、澳门、日本、新加坡、台湾、韩国、美国、菲律宾、越南、马来西亚……
+
+协议类型：VMess
+
+<p>注册地址：<ClientOnly><Link href="https://intl.budingcat.xyz/#/register?code=Z9QwjAp7" /></ClientOnly></p>
+<p>官方频道：<ClientOnly><Link href="https://t.me/budingcatsub" /></ClientOnly></p>
+<p>官方群组：<ClientOnly><Link href="https://t.me/budingcat" /></ClientOnly></p>
+
+::: details
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/1UVZxGF.png"
+        alt="“布丁猫”价格详情"
+    />
+</ClientOnly>
+<p></p>
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/4GmNaZg.png"
+        alt="“布丁猫”测试报告"
+    />
+</ClientOnly>
+:::
+
 ## 秒连云 <Badge type="tip" text="中转机场" />
 
 使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 7.8 折购买“秒连云系列”套餐。
