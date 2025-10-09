@@ -164,7 +164,7 @@ next: false
 ::: details
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/1UVZxGF.png"
+        src="https://i.imgur.com/kO3Pw8a.png"
         alt="“布丁猫”价格详情"
     />
 </ClientOnly>
