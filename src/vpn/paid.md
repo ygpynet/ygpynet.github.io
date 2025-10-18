@@ -205,34 +205,6 @@ next: false
 </ClientOnly>
 :::
 
-## 龙猫云 <Badge type="warning" text="专线机场" />
-
-使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 9.5 折购买“龙猫云系列”套餐。
-
-节点位置：香港、台湾、新加坡、日本、美国、马来西亚、土耳其、阿根廷
-
-协议类型：Shadowsocks、Trojan
-
-<p>注册地址：<ClientOnly><Link href="https://ygpy.lmvipaff05.cc/register?aff=Ufq1NG7H" /></ClientOnly></p>
-<p>官方频道：<ClientOnly><Link href="https://t.me/totorocloud_channels" /></ClientOnly></p>
-<p>官方群组：<ClientOnly><Link href="https://t.me/longmaoyun" /></ClientOnly></p>
-
-::: details
-<ClientOnly>
-    <Img
-        src="https://i.imgur.com/2T9QLoD.png"
-        alt="“龙猫云”价格详情"
-    />
-</ClientOnly>
-<p></p>
-<ClientOnly>
-    <Img
-        src="https://i.imgur.com/ziVLgVq.png"
-        alt="“龙猫云”测试报告"
-    />
-</ClientOnly>
-:::
-
 ## 楚门加速 <Badge type="warning" text="专线机场" />
 
 使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 7 折购买“楚门加速系列”套餐。
