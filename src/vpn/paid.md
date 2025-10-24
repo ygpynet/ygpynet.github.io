@@ -205,7 +205,7 @@ next: false
 </ClientOnly>
 :::
 
-## 楚门加速 <Badge type="warning" text="专线机场" />
+<!-- ## 楚门加速 <Badge type="warning" text="专线机场" />
 
 使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 7 折购买“楚门加速系列”套餐。
 
@@ -231,7 +231,7 @@ next: false
         alt="“楚门加速”测试报告"
     />
 </ClientOnly>
-:::
+::: -->
 
 ## KooDog <Badge type="warning" text="专线机场" />
 

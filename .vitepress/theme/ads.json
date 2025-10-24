@@ -79,19 +79,6 @@
     },
     {
         "id": "ad7",
-        "title": "楚门加速 | 专线链路",
-        "descHome": "✅ 不限制设备 ✅ 最高带宽 500Mbps<br>✅ 专线优化线路 ✅ 赠送 Emby 影视库",
-        "descDoc": "楚门加速 | 使用优惠券 ygpy 享 7 折",
-        "descSidebar": "7 折优惠券 ygpy",
-        "descAside": "楚门加速<br>使用优惠券 ygpy 享 7 折",
-        "imgHome": "/images/vpn/chumen/chumen-vertical-banner.webp",
-        "imgDoc": "/images/vpn/chumen/chumen-big-banner.webp",
-        "imgSidebar": "",
-        "imgAside": "/images/vpn/chumen/chumen-small-banner.gif",
-        "link": "https://cut.chumen1.xyz/#/register?code=dOihfuks"
-    },
-    {
-        "id": "ad8",
         "title": "KooDog | 超性价比专线",
         "descHome": "✅ 三网 IEPL 专线 ✅ 高效客服响应<br>✅ 4 端客户端支持 ✅ 赠送 Emby 媒体库",
         "descDoc": "KooDog | 使用优惠券 ygpy 享 8.8 折",
@@ -104,7 +91,7 @@
         "link": "https://zero.thisgourl.xyz/#/register?code=iTtBwX8M"
     },
     {
-        "id": "ad9",
+        "id": "ad8",
         "title": "山海机场 | 三线路机场",
         "descHome": "✅ 不限设备 ✅ 流媒体解锁<br>✅ 不限速率 ✅ 低倍率高可用 1.28TB",
         "descDoc": "山海机场 | 使用优惠券 ygpy 享 8 折",
@@ -117,7 +104,7 @@
         "link": "https://shanhai.cfd/#/register?code=t6LtRJem"
     },
     {
-        "id": "ad10",
+        "id": "ad9",
         "title": "M78 星云 | 三网 BGP 专线",
         "descHome": "✅ 解锁流媒体 ✅ 赠送 Emby 影视库<br>✅ 三网 BGP 入口 ✅ 最高 2Gbps 速率",
         "descDoc": "M78 星云 | 使用优惠券 m78-22off 享 7.8 折",
