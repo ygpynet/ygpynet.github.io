@@ -37,7 +37,7 @@ next: false
 </ClientOnly>
 :::
 
-## 哆啦 A 梦 [广告] <Badge type="warning" text="专线机场" /> <Badge type="danger" text="付费机场" />
+## 哆啦 A 梦 <Badge type="warning" text="专线机场" />
 
 使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 8 折购买“哆啦 A 梦系列”套餐。
 

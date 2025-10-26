@@ -39,15 +39,6 @@ export default {
         {
             text: '付费机场',
             link: '/vpn/paid'
-        },
-        {
-            text: '赞助商广告',
-            items: [
-                { text: '<img class="rounded-lg" width="208" height="370" src="/images/vpn/duolaameng/duolaameng-vertical-banner.webp" alt="哆啦 A 梦">', link: 'https://yyds2-doraemon.site/login/register?invite_code=7j3dYEtw' }
-            ]
-        },
-        {
-            text: '使用优惠券 ygpy 享 8 折'
         }
     ],
     '/app/': [
