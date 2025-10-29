@@ -101,7 +101,7 @@ next: false
 
 协议类型：VMess
 
-<p>注册地址：<ClientOnly><Link href="https://superbiu.com/#/register?code=KH6xv0ou" /></ClientOnly></p>
+<p>注册地址：<ClientOnly><Link href="https://biubiux.online/#/register?code=KH6xv0ou" /></ClientOnly></p>
 <p>官方频道：<ClientOnly><Link href="https://t.me/superbiupd" /></ClientOnly></p>
 <p>官方群组：<ClientOnly><Link href="https://t.me/superbiu888" /></ClientOnly></p>
 
