@@ -205,34 +205,6 @@ next: false
 </ClientOnly>
 :::
 
-<!-- ## 楚门加速 <Badge type="warning" text="专线机场" />
-
-使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 7 折购买“楚门加速系列”套餐。
-
-节点位置：德国、加拿大、荷兰、卢森堡、美国、日本、台湾、泰国、香港、新加坡
-
-协议类型：Shadowsocks、VLESS
-
-<p>注册地址：<ClientOnly><Link href="https://cut.chumen1.xyz/#/register?code=dOihfuks" /></ClientOnly></p>
-<p>官方频道：无</p>
-<p>官方群组：<ClientOnly><Link href="https://t.me/ss_vpn" /></ClientOnly></p>
-
-::: details
-<ClientOnly>
-    <Img
-        src="https://i.imgur.com/LunU2ew.png"
-        alt="“楚门加速”价格详情"
-    />
-</ClientOnly>
-<p></p>
-<ClientOnly>
-    <Img
-        src="https://i.imgur.com/R46CuR0.png"
-        alt="“楚门加速”测试报告"
-    />
-</ClientOnly>
-::: -->
-
 ## KooDog <Badge type="warning" text="专线机场" />
 
 使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 8.8 折购买“KooDog 系列”套餐。
@@ -276,7 +248,7 @@ next: false
 ::: details
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/sbSH9QA.png"
+        src="https://i.imgur.com/eU4tUiC.png"
         alt="“山海机场”价格详情"
     />
 </ClientOnly>
@@ -285,6 +257,34 @@ next: false
     <Img
         src="https://i.imgur.com/WGiC8uO.png"
         alt="“山海机场”测试报告"
+    />
+</ClientOnly>
+:::
+
+## 69 云 <Badge type="warning" text="专线机场" />
+
+低至 11 元购买“IPLC 移动优化专线”400GB/30 天套餐。
+
+节点位置：美国、香港、日本、新加坡、台湾、德国、俄罗斯、英国、韩国、荷兰、加拿大……
+
+协议类型：Shadowsocks
+
+<p>注册地址：<ClientOnly><Link href="https://69yun69.com/auth/register?code=wiW15w" /></ClientOnly></p>
+<p>官方频道：<ClientOnly><Link href="https://t.me/vpn69yun" /></ClientOnly></p>
+<p>官方群组：<ClientOnly><Link href="https://t.me/v2ray_69yun" /></ClientOnly></p>
+
+::: details
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/omXcF8x.png"
+        alt="“69 云”价格详情"
+    />
+</ClientOnly>
+<p></p>
+<ClientOnly>
+    <Img
+        src="https://i.imgur.com/SFULjix.png"
+        alt="“69 云”测试报告"
     />
 </ClientOnly>
 :::

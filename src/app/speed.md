@@ -58,3 +58,21 @@ MiaoKo 的公益测速开放群。
     />
 </ClientOnly>
 :::
+
+## OpenPPP2
+
+稳定自建节点，由 OpenPPP2 强力驱动。
+
+系统平台：Telegram Bot
+
+[前往使用](https://t.me/OpenPPP2_Group)&nbsp;
+[官方频道](https://t.me/OpenPPP2_Chanel)
+
+::: details 测试报告
+<ClientOnly>
+    <Img
+        src="/images/app/speed/open-ppp2.webp"
+        alt="OpenPPP2"
+    />
+</ClientOnly>
+:::
