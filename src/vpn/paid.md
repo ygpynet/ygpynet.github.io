@@ -298,7 +298,7 @@ next: false
 协议类型：Shadowsocks
 
 <p>注册地址：<ClientOnly><Link href="https://m78star.cloud/#/register?code=eV5ctG7v" /></ClientOnly></p>
-<p>官方频道：无</p>
+<p>官方频道：<ClientOnly><Link href="https://t.me/+9U2cOtOfTB9mNWI1" /></ClientOnly></p>
 <p>官方群组：无</p>
 
 ::: details
