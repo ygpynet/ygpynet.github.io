@@ -15,6 +15,4 @@
         details="分享科学上网教程的优质博客" /></ClientOnly>
     <ClientOnly><Card href="https://xszn.org/" target="_blank" img="https://xszn.org/favicon.ico" title="行书指南"
         details="软件资源分享网站" /></ClientOnly>
-    <ClientOnly><Card href="https://022330.xyz/" target="_blank" img="https://022330.xyz/favicon.ico" title="23 导航"
-        details="导航大全网站" /></ClientOnly>
 </div>
