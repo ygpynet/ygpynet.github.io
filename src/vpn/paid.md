@@ -261,58 +261,58 @@ next: false
 </ClientOnly>
 :::
 
-## 69 云 <Badge type="warning" text="专线机场" />
+## 乌龟加速 <Badge type="tip" text="中转机场" />
 
-低至 11 元购买“IPLC 移动优化专线”400GB/30 天套餐。
+使用优惠券 <ClientOnly><Tooltip code="wgjsq" /></ClientOnly> 享 6 折购买“乌龟加速系列”套餐。
 
-节点位置：美国、香港、日本、新加坡、台湾、德国、俄罗斯、英国、韩国、荷兰、加拿大……
+节点位置：香港、日本、新加坡、台湾、美国、韩国、英国、法国、德国、泰国、菲律宾……
 
-协议类型：Shadowsocks
+协议类型：Trojan
 
-<p>注册地址：<ClientOnly><Link href="https://69yun69.com/auth/register?code=wiW15w" /></ClientOnly></p>
-<p>官方频道：<ClientOnly><Link href="https://t.me/vpn69yun" /></ClientOnly></p>
-<p>官方群组：<ClientOnly><Link href="https://t.me/v2ray_69yun" /></ClientOnly></p>
+<p>注册地址：<ClientOnly><Link href="https://wuguijiasu.com/#/login?code=UZEMrWwE" /></ClientOnly></p>
+<p>官方频道：<ClientOnly><Link href="https://t.me/wuguijiasu" /></ClientOnly></p>
+<p>官方群组：<ClientOnly><Link href="https://t.me/wuguijiasuqi" /></ClientOnly></p>
 
 ::: details
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/omXcF8x.png"
-        alt="“69 云”价格详情"
+        src="https://i.imgur.com/VjjwhbN.png"
+        alt="“乌龟加速”价格详情"
     />
 </ClientOnly>
 <p></p>
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/SFULjix.png"
-        alt="“69 云”测试报告"
+        src="https://i.imgur.com/2qzHx4T.png"
+        alt="“乌龟加速”测试报告"
     />
 </ClientOnly>
 :::
 
-## M78 星云 <Badge type="warning" text="专线机场" />
+<!-- ##  <Badge type="" text="" />
 
-使用优惠券 <ClientOnly><Tooltip code="m78-22off" /></ClientOnly> 享 7.8 折购买“M78 星云系列”套餐。
+使用优惠券 <ClientOnly><Tooltip code="" /></ClientOnly> 享  折购买“系列”套餐。
 
-节点位置：香港、新加坡、台湾、日本、美国、韩国、南极、阿根廷、埃及、土耳其、乌克兰……
+节点位置：
 
-协议类型：Shadowsocks
+协议类型：
 
-<p>注册地址：<ClientOnly><Link href="https://m78star.cloud/#/register?code=eV5ctG7v" /></ClientOnly></p>
-<p>官方频道：<ClientOnly><Link href="https://t.me/+9U2cOtOfTB9mNWI1" /></ClientOnly></p>
-<p>官方群组：无</p>
+<p>注册地址：<ClientOnly><Link href="" /></ClientOnly></p>
+<p>官方频道：<ClientOnly><Link href="" /></ClientOnly></p>
+<p>官方群组：<ClientOnly><Link href="" /></ClientOnly></p>
 
 ::: details
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/yDLIvqv.png"
-        alt="“M78 星云”价格详情"
+        src=""
+        alt="“”价格详情"
     />
 </ClientOnly>
 <p></p>
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/5X3GjIN.png"
-        alt="“M78 星云”测试报告"
+        src=""
+        alt="“”测试报告"
     />
 </ClientOnly>
-:::
+::: -->

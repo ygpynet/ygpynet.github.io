@@ -19,7 +19,7 @@
         "descDoc": "哆啦 A 梦 | 使用优惠券 ygpy 享 8 折",
         "descSidebar": "8 折优惠券 ygpy",
         "descAside": "哆啦 A 梦<br>使用优惠券 ygpy 享 8 折",
-        "imgHome": "/images/vpn/duolaameng/duolaameng-vertical-banner.webp",
+        "imgHome": "/images/vpn/duolaameng/duolaameng-vertical-banner-home.webp",
         "imgDoc": "/images/vpn/duolaameng/duolaameng-big-banner.webp",
         "imgSidebar": "/images/vpn/duolaameng/duolaameng-vertical-banner.webp",
         "imgAside": "/images/vpn/duolaameng/duolaameng-small-banner.gif",
@@ -118,28 +118,15 @@
     },
     {
         "id": "ad9",
-        "title": "69 云 | IPLC 移动优化专线",
-        "descHome": "✅ 流媒体解锁 ✅ Emby 影视库<br>✅ 速率无限制 ✅ 同时在线 10 设备",
-        "descDoc": "69 云 | 低至 11 元购买 400GB/30 天套餐",
-        "descSidebar": "低至 11 元购买 400GB/30 天套餐",
-        "descAside": "69 云<br>低至 11 元购买 400GB/30 天套餐",
-        "imgHome": "/images/vpn/69yun/69yun-vertical-banner.webp",
-        "imgDoc": "/images/vpn/69yun/69yun-big-banner.webp",
-        "imgSidebar": "/images/vpn/69yun/69yun-vertical-banner.webp",
-        "imgAside": "/images/vpn/69yun/69yun-small-banner.gif",
-        "link": "https://69yun69.com/auth/register?code=wiW15w"
-    },
-    {
-        "id": "ad10",
-        "title": "M78 星云 | 三网 BGP 专线",
-        "descHome": "✅ 解锁流媒体 ✅ 赠送 Emby 影视库<br>✅ 三网 BGP 入口 ✅ 最高 2Gbps 速率",
-        "descDoc": "M78 星云 | 使用优惠券 m78-22off 享 7.8 折",
-        "descSidebar": "7.8 折优惠券 m78-22off",
-        "descAside": "M78 星云<br>使用优惠券 m78-22off 享 7.8 折",
-        "imgHome": "/images/vpn/m78star/m78star-vertical-banner.webp",
-        "imgDoc": "/images/vpn/m78star/m78star-big-banner.webp",
-        "imgSidebar": "/images/vpn/m78star/m78star-vertical-banner.webp",
-        "imgAside": "/images/vpn/m78star/m78star-small-banner.gif",
-        "link": "https://m78star.cloud/#/register?code=eV5ctG7v"
+        "title": "乌龟加速 | Simple 中转隧道",
+        "descHome": "✅ 解锁流媒体 ✅ 10Gbps 定制中转<br>✅ 不限制设备 ✅ 赠送 Emby 影视库",
+        "descDoc": "乌龟加速 | 使用优惠券 wgjsq 享 6 折",
+        "descSidebar": "6 折优惠券 wgjsq",
+        "descAside": "乌龟加速<br>使用优惠券 wgjsq 享 6 折",
+        "imgHome": "/images/vpn/wuguijiasu/wuguijiasu-vertical-banner.webp",
+        "imgDoc": "/images/vpn/wuguijiasu/wuguijiasu-big-banner.webp",
+        "imgSidebar": "/images/vpn/wuguijiasu/wuguijiasu-vertical-banner.webp",
+        "imgAside": "/images/vpn/wuguijiasu/wuguijiasu-small-banner.gif",
+        "link": "https://wuguijiasu.com/#/login?code=UZEMrWwE"
     }
 ]
