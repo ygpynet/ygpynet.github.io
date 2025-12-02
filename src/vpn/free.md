@@ -24,6 +24,7 @@
             </fwb-table-head>
             <fwb-table-body>
                 <fwb-table-row><fwb-table-cell>2025/11/04</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/2025/11#20251104">熊猫公益机场</fwb-a></fwb-table-cell><fwb-table-cell>使用优惠劵</fwb-table-cell><fwb-table-cell>50GB️/1 次性</fwb-table-cell><fwb-table-cell>支持续杯</fwb-table-cell></fwb-table-row>
+                <fwb-table-row><fwb-table-cell>2025/10/20</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/2025/10#2025102002">乐猫</fwb-a></fwb-table-cell><fwb-table-cell>使用优惠劵</fwb-table-cell><fwb-table-cell>200GB/30 天</fwb-table-cell><fwb-table-cell>每月发放优惠劵</fwb-table-cell></fwb-table-row>
                 <fwb-table-row><fwb-table-cell>2025/10/16</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/2025/10#20251016">曲径通幽</fwb-a></fwb-table-cell><fwb-table-cell>0 元购买</fwb-table-cell><fwb-table-cell>100GB️/1 次性</fwb-table-cell><fwb-table-cell>支持续杯</fwb-table-cell></fwb-table-row>
                 <fwb-table-row><fwb-table-cell>2025/10/16</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/2025/10#2025101601">榴莲加速器 [维护中]</fwb-a></fwb-table-cell><fwb-table-cell>使用优惠劵</fwb-table-cell><fwb-table-cell>100GB️/30 天</fwb-table-cell><fwb-table-cell>每月发放优惠劵</fwb-table-cell></fwb-table-row>
                 <fwb-table-row><fwb-table-cell>2025/10/14</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/2025/10#2025101402">网桥</fwb-a></fwb-table-cell><fwb-table-cell>使用优惠劵</fwb-table-cell><fwb-table-cell>50GB️/30 天</fwb-table-cell><fwb-table-cell>每月发放优惠劵</fwb-table-cell></fwb-table-row>
