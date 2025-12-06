@@ -24,14 +24,14 @@ next: false
 ::: details
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/nbhQ0dn.png"
+        src="https://i.imgur.com/zHO38tG.png"
         alt="“红杏云”价格详情"
     />
 </ClientOnly>
 <p></p>
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/BqVu18N.png"
+        src="https://i.imgur.com/TdOmOTm.png"
         alt="“红杏云”测试报告"
     />
 </ClientOnly>
