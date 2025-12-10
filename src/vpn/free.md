@@ -11,7 +11,6 @@
 汇总往期免费机场推荐，时效性和有效性不保证。优惠信息定期更新，或自行关注机场主页、官方群组和频道。更多优惠请移步 `试用机场`，可抢先体验优质服务。
 :::
 
-
 <div class="vp-raw">
     <ClientOnly>
         <fwb-table hoverable>
@@ -29,6 +28,7 @@
                 <fwb-table-row><fwb-table-cell>2025/10/16</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/2025/10#2025101601">榴莲加速器 [维护中]</fwb-a></fwb-table-cell><fwb-table-cell>使用优惠劵</fwb-table-cell><fwb-table-cell>100GB️/30 天</fwb-table-cell><fwb-table-cell>每月发放优惠劵</fwb-table-cell></fwb-table-row>
                 <fwb-table-row><fwb-table-cell>2025/10/14</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/2025/10#2025101402">网桥</fwb-a></fwb-table-cell><fwb-table-cell>使用优惠劵</fwb-table-cell><fwb-table-cell>50GB️/30 天</fwb-table-cell><fwb-table-cell>每月发放优惠劵</fwb-table-cell></fwb-table-row>
                 <fwb-table-row><fwb-table-cell>2025/10/13</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/2025/10#20251013">福利云</fwb-a></fwb-table-cell><fwb-table-cell>0 元购买</fwb-table-cell><fwb-table-cell>68GB️/90 天</fwb-table-cell><fwb-table-cell>支持续杯</fwb-table-cell></fwb-table-row>
+                <fwb-table-row><fwb-table-cell>2025/08/28</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/2025/08#20250828">白嫖云</fwb-a></fwb-table-cell><fwb-table-cell>使用优惠劵</fwb-table-cell><fwb-table-cell>80GB️/30 天</fwb-table-cell><fwb-table-cell>每月发放优惠劵</fwb-table-cell></fwb-table-row>
                 <fwb-table-row><fwb-table-cell>2025/08/26</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/2025/08#20250826">星链机场 [每日限量]</fwb-a></fwb-table-cell><fwb-table-cell>0 元购买</fwb-table-cell><fwb-table-cell>100GB/30 天</fwb-table-cell><fwb-table-cell>支持续杯</fwb-table-cell></fwb-table-row>
                 <fwb-table-row><fwb-table-cell>2025/07/13</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/2025/07#20250713">新门机场</fwb-a></fwb-table-cell><fwb-table-cell>使用优惠劵</fwb-table-cell><fwb-table-cell>100GB️/30 天</fwb-table-cell><fwb-table-cell>不定期发放优惠劵</fwb-table-cell></fwb-table-row>
                 <fwb-table-row><fwb-table-cell>2025/07/08</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/2025/07#20250708">糯米</fwb-a></fwb-table-cell><fwb-table-cell>使用优惠劵</fwb-table-cell><fwb-table-cell>50GB️/30 天</fwb-table-cell><fwb-table-cell>不定期发放优惠劵</fwb-table-cell></fwb-table-row>
