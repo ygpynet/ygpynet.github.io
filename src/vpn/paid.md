@@ -52,7 +52,7 @@ next: false
 ::: details
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/tGllYIw.png"
+        src="https://i.imgur.com/5LuRppY.png"
         alt="“哆啦 A 梦”价格详情"
     />
 </ClientOnly>
