@@ -32,7 +32,7 @@ head:
 
 ## 系统平台
 
-Windows、macOS、Linux、Android
+Android、Windows、macOS、Linux
 
 ## 下载
 

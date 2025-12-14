@@ -11,6 +11,10 @@ giscus: false
 
 ## 推荐
 
+::: tip
+跨平台泛指软件可以在桌面端或移动端上运作。
+:::
+
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
     <ClientOnly v-for="pro of proxy" :key="pro.url">
         <Card
