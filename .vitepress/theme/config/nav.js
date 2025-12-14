@@ -10,8 +10,9 @@ export default [
     },
     {
         text: '软件列表',
+        activeMatch: '/app/',
         items: [
-            { text: '代理软件', link: '/app/proxy' },
+            { text: '代理软件', link: '/app/proxy/', activeMatch: '/app/proxy/' },
             { text: '测速工具', link: '/app/speed' }
         ]
     },

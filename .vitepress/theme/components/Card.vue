@@ -1,15 +1,18 @@
 <template>
     <div class="vp-raw">
-        <fwb-card :href="href" :target="target" rel="noreferrer">
+        <fwb-card :href="link" :target="target">
             <div class="p-5 flex flex-col gap-2">
                 <div class="flex flex-row gap-2 items-center">
-                    <fwb-avatar :img="img" size="md" :alt="title" bordered />
-                    <span class="text-base font-bold tracking-tight text-gray-900 dark:text-white truncate">
-                        {{ title }}
-                    </span>
+                    <fwb-avatar bordered :img="icon" size="md" :alt="subheading" />
+                    <div class="flex flex-col">
+                        <h5 class="text-base font-bold tracking-tight text-gray-900 dark:text-white">
+                            {{ subheading }}
+                        </h5>
+                        <p class="text-xs text-[var(--vp-badge-info-text)]">{{ shortdesc }}</p>
+                    </div>
                 </div>
-                <p class="font-normal text-gray-700 dark:text-gray-400 truncate" :title="details">
-                    {{ details }}
+                <p class="font-normal text-gray-700 dark:text-gray-400 truncate">
+                    {{ description }}
                 </p>
             </div>
         </fwb-card>
@@ -23,10 +26,11 @@ import {
 } from './index'
 
 defineProps<{
-    href: string
+    link: string
     target: string
-    img: string
-    title: string
-    details: string
+    icon: string
+    subheading: string
+    shortdesc: string
+    description: string
 }>()
 </script>

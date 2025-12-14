@@ -46,7 +46,7 @@ export default {
     '/app/': [
         {
             text: '代理软件',
-            link: '/app/proxy'
+            link: '/app/proxy/'
         },
         {
             text: '测速工具',

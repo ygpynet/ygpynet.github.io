@@ -2,8 +2,10 @@
 import { useData } from 'vitepress'
 import DefaultTheme from 'vitepress/theme'
 import { nextTick, provide } from 'vue'
+import Giscus from '@giscus/vue'
 
 const { isDark } = useData()
+const { page } = useData()
 
 const enableTransitions = () =>
   'startViewTransition' in document &&
@@ -53,6 +55,12 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
           <Ads />
         </ClientOnly>
       </div>
+    </template>
+    <template #doc-footer-before>
+      <Giscus v-if="page.frontmatter.giscus !== false" id="comments" repo="ygpynet/ygpynet.github.io"
+        repo-id="R_kgDOPaI41g" category="Announcements" category-id="DIC_kwDOPaI41s4Czw1Y" mapping="pathname" strict="0"
+        reactions-enabled="1" emit-metadata="0" input-position="bottom" theme="preferred_color_scheme" lang="zh-CN"
+        crossorigin="anonymous" async />
     </template>
   </DefaultTheme.Layout>
 </template>

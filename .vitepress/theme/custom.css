@@ -27,3 +27,7 @@ code {
 .medium-zoom-image--opened {
     z-index: 999;
 }
+
+img[data-zoomable] {
+    border-radius: 8px;
+}
