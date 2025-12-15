@@ -1,7 +1,7 @@
 ---
 icon: /images/app/proxy/shadowsocks/favicon.ico
 title: 代理软件：Shadowsocks
-shortdesc: 
+shortdesc: 跨平台
 subheading: Shadowsocks
 description: Shadowsocks 的客户端实现。支持将所有系统流量重定向到 Shadowsocks，而不仅仅是那些已显式配置的应用程序，这使得 Shadowsocks 的使用方式类似于VPN。
 head:
