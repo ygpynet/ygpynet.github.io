@@ -9,6 +9,7 @@ import AdsCarousel from './components/AdsCarousel.vue'
 import AdsSidebar from './components/AdsSidebar.vue'
 import Card from './components/Card.vue'
 import CardHorizontal from './components/CardHorizontal.vue'
+import CardImage from './components/CardImage.vue'
 import Img from './components/Img.vue'
 import Link from './components/Link.vue'
 import Tooltip from './components/Tooltip.vue'
@@ -25,6 +26,7 @@ export default {
     app.component('AdsSidebar', AdsSidebar)
     app.component('Card', Card)
     app.component('CardHorizontal', CardHorizontal)
+    app.component('CardImage', CardImage)
     app.component('Img', Img)
     app.component('Link', Link)
     app.component('Tooltip', Tooltip)
