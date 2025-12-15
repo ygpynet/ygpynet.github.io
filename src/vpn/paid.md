@@ -69,7 +69,7 @@ next: false
 
 使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 6 折购买“糖果云系列”套餐。
 
-节点位置：阿根廷、台湾、德国、英国、香港、日本、韩国、新加坡、泰国、土耳其、美国
+节点位置：香港、台湾、新加坡、日本、美国、德国、韩国、泰国、阿根廷、土耳其、英国……
 
 协议类型：Trojan
 
@@ -80,7 +80,7 @@ next: false
 ::: details
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/SZume7r.png"
+        src="https://i.imgur.com/4KNjBd8.png"
         alt="“糖果云”价格详情"
     />
 </ClientOnly>
