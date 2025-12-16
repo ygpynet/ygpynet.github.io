@@ -125,7 +125,7 @@ next: false
 
 使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 9 折购买“雪山机场非一次性”套餐。
 
-节点位置：德国、法国、香港、日本、韩国、俄罗斯、新加坡、泰国、台湾、美国
+节点位置：美国、香港、台湾、韩国、日本、新加坡、俄罗斯、泰国、英国、德国、法国、印度
 
 协议类型：Hysteria、VLESS
 
@@ -136,7 +136,7 @@ next: false
 ::: details
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/EZrufg9.png"
+        src="https://i.imgur.com/zea6Rkl.png"
         alt="“雪山机场”价格详情"
     />
 </ClientOnly>
