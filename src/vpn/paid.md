@@ -93,9 +93,9 @@ next: false
 </ClientOnly>
 :::
 
-## Superbiu <Badge type="warning" text="专线机场" />
+## BiuBiu <Badge type="warning" text="专线机场" />
 
-使用优惠码 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 9 折购买“Superbiu 系列”套餐。
+使用优惠码 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 9 折购买“BiuBiu 系列”套餐。
 
 节点位置：香港、日本、韩国、台湾、美国、泰国、新加坡、澳大利亚、荷兰、德国……
 
@@ -108,15 +108,15 @@ next: false
 ::: details
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/bmg98GN.png"
-        alt="“Superbiu”价格详情"
+        src="https://i.imgur.com/gh14JaL.png"
+        alt="“BiuBiu”价格详情"
     />
 </ClientOnly>
 <p></p>
 <ClientOnly>
     <Img
         src="https://i.imgur.com/D2ihlwP.png"
-        alt="“Superbiu”测试报告"
+        alt="“BiuBiu”测试报告"
     />
 </ClientOnly>
 :::
