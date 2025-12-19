@@ -1,9 +1,6 @@
 # 测速工具推荐
 
-<p></p>
-<ClientOnly>
-    <AdsCarousel />
-</ClientOnly>
+<!--@include: ../vpn/doc-top.md-->
 
 ## MiaoKo
 

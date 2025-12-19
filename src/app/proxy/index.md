@@ -4,10 +4,7 @@ giscus: false
 
 # 代理软件列表
 
-<p></p>
-<ClientOnly>
-    <AdsCarousel />
-</ClientOnly>
+<!--@include: ../../vpn/doc-top.md-->
 
 ## 推荐
 

@@ -4,10 +4,7 @@ giscus: false
 
 # 网址导航
 
-<p></p>
-<ClientOnly>
-    <AdsCarousel />
-</ClientOnly>
+<!--@include: ../vpn/doc-top.md-->
 
 ## AI
 

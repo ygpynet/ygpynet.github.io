@@ -36,7 +36,7 @@ export default {
         },
         {
             text: '免费机场',
-            link: '/vpn/free'
+            link: '/vpn/collections'
         },
         {
             text: '付费机场',

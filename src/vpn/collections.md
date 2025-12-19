@@ -1,9 +1,6 @@
 # 免费机场收集
 
-<p></p>
-<ClientOnly>
-    <AdsCarousel />
-</ClientOnly>
+<!--@include: ./doc-top.md-->
 <br>
 <hr>
 

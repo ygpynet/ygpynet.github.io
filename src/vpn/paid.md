@@ -4,10 +4,7 @@ next: false
 
 # 付费机场推荐
 
-<p></p>
-<ClientOnly>
-    <AdsCarousel />
-</ClientOnly>
+<!--@include: ./doc-top.md-->
 
 ## 红杏云 <Badge type="tip" text="中转机场" />
 

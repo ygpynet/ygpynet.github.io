@@ -4,7 +4,7 @@ export default [
         text: '机场推荐',
         items: [
             { text: '试用机场', link: '/vpn/free/', activeMatch: '/vpn/free/' },
-            { text: '免费机场', link: '/vpn/free' },
+            { text: '免费机场', link: '/vpn/collections' },
             { text: '付费机场', link: '/vpn/paid' }
         ]
     },

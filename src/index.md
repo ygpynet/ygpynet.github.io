@@ -16,7 +16,7 @@ hero:
       link: /vpn/free/
     - theme: alt
       text: 免费专栏
-      link: /vpn/free
+      link: /vpn/collections
     - theme: alt
       text: 付费专栏
       link: /vpn/paid
