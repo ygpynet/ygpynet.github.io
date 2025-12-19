@@ -6,10 +6,10 @@
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                         {{ subheading }}
                         <span v-if="status" class="ml-2 text-sm text-red-500 font-medium">
-                            [{{ statusTextMap[status] }}]
+                            [服务商失联]
                         </span>
                     </h5>
-                    <p class="font-normal text-gray-700 dark:text-gray-400">
+                    <p class="font-normal text-gray-700 dark:text-gray-400 truncate">
                         {{ description }}
                     </p>
                     <br>
@@ -32,12 +32,6 @@ defineProps<{
     subheading: string
     description: string
     date: Date
-    status?: 'code' | 'merge' | 'serve'
+    status?: boolean
 }>()
-
-const statusTextMap: Record<string, string> = {
-    code: '失效',
-    merge: '兼并',
-    serve: '失联'
-}
 </script>

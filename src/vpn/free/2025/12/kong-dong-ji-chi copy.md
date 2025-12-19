@@ -6,7 +6,7 @@ image:
   alt: FTClash
 subheading: FTClash
 description: 注册即送 100GB️/30 天套餐。
-hyperlink: https://f9vip.net/#/register?code=zw9DrClP
+hyperlink: https://dash.f9vip.net/#/register?code=zw9DrClP
 status: false
 head:
   - - meta
