@@ -7,7 +7,7 @@ image:
 subheading: 饺子机场
 description: 使用优惠券 0 元购买 300GB️/30 天套餐。
 hyperlink: https://饺子机场.shop/#/register?code=fWQsxw6D
-status: false
+status: true
 head:
   - - meta
     - property: og:title
