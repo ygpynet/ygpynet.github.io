@@ -56,5 +56,6 @@ head:
   <Img
     src="https://i.imgur.com/xwGz8WZ.png"
     alt="“FTClash”价格详情"
+    :status="$frontmatter.status"
   />
 </ClientOnly>

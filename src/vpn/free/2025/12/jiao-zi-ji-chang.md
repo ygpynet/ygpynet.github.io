@@ -56,6 +56,7 @@ head:
   <Img
     src="https://i.imgur.com/TrkKDU9.png"
     alt="“饺子机场”价格详情"
+    :status="$frontmatter.status"
   />
 </ClientOnly>
 <p></p>
@@ -63,5 +64,6 @@ head:
   <Img
     src="https://i.imgur.com/3ERKSaE.png"
     alt="“饺子机场”测试报告"
+    :status="$frontmatter.status"
   />
 </ClientOnly>

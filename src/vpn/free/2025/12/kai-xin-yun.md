@@ -56,6 +56,7 @@ head:
   <Img
     src="https://i.imgur.com/Co254w7.png"
     alt="“开心云”价格详情"
+    :status="$frontmatter.status"
   />
 </ClientOnly>
 <p></p>
@@ -63,5 +64,6 @@ head:
   <Img
     src="https://i.imgur.com/n4vS6AO.png"
     alt="“开心云”测试报告"
+    :status="$frontmatter.status"
   />
 </ClientOnly>

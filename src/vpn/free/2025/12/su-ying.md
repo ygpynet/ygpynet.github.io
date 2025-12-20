@@ -56,6 +56,7 @@ head:
   <Img
     src="https://i.imgur.com/AaPE2i7.png"
     alt="“速影”价格详情"
+    :status="$frontmatter.status"
   />
 </ClientOnly>
 <p></p>
@@ -63,5 +64,6 @@ head:
   <Img
     src="https://i.imgur.com/DmvIetM.png"
     alt="“速影”测试报告"
+    :status="$frontmatter.status"
   />
 </ClientOnly>

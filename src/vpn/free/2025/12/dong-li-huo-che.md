@@ -56,6 +56,7 @@ head:
   <Img
     src="https://i.imgur.com/xzjrXH4.png"
     alt="“动力火车”价格详情"
+    :status="$frontmatter.status"
   />
 </ClientOnly>
 <p></p>
@@ -63,5 +64,6 @@ head:
   <Img
     src="https://i.imgur.com/tYF0fCv.png"
     alt="“动力火车”测试报告"
+    :status="$frontmatter.status"
   />
 </ClientOnly>

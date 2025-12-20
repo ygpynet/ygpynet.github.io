@@ -56,6 +56,7 @@ head:
   <Img
     src="https://i.imgur.com/YJOD1uC.png"
     alt="“空洞疾驰”价格详情"
+    :status="$frontmatter.status"
   />
 </ClientOnly>
 <p></p>
@@ -63,5 +64,6 @@ head:
   <Img
     src="https://i.imgur.com/IRjOGhH.png"
     alt="“空洞疾驰”测试报告"
+    :status="$frontmatter.status"
   />
 </ClientOnly>

@@ -56,6 +56,7 @@ head:
   <Img
     src="https://i.imgur.com/lSLdYX9.png"
     alt="“大巴车”价格详情"
+    :status="$frontmatter.status"
   />
 </ClientOnly>
 <p></p>
@@ -63,5 +64,6 @@ head:
   <Img
     src="https://i.imgur.com/XGQGSHH.png"
     alt="“大巴车”测试报告"
+    :status="$frontmatter.status"
   />
 </ClientOnly>

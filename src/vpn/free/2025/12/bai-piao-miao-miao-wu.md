@@ -56,6 +56,7 @@ head:
   <Img
     src="https://i.imgur.com/LCMQafs.png"
     alt="“白嫖妙妙屋”价格详情"
+    :status="$frontmatter.status"
   />
 </ClientOnly>
 <p></p>
@@ -63,5 +64,6 @@ head:
   <Img
     src="https://i.imgur.com/yALaQCm.png"
     alt="“白嫖妙妙屋”测试报告"
+    :status="$frontmatter.status"
   />
 </ClientOnly>

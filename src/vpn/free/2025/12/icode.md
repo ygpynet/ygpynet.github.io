@@ -56,6 +56,7 @@ head:
   <Img
     src="https://i.imgur.com/ZqJ0sKO.png"
     alt="“Icode”价格详情"
+    :status="$frontmatter.status"
   />
 </ClientOnly>
 <p></p>
@@ -63,5 +64,6 @@ head:
   <Img
     src="https://i.imgur.com/CA0sMHO.png"
     alt="“Icode”测试报告"
+    :status="$frontmatter.status"
   />
 </ClientOnly>
