@@ -61,12 +61,12 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
         <Giscus id="comments" repo="ygpynet/ygpynet.github.io" repo-id="R_kgDOPaI41g" category="Announcements"
           category-id="DIC_kwDOPaI41s4Czw1Y" mapping="pathname" strict="0" reactions-enabled="1" emit-metadata="0"
           input-position="bottom" theme="preferred_color_scheme" lang="zh-CN" crossorigin="anonymous" async />
-        <p></p>
+        <!-- <p></p>
         <br>
         <ClientOnly>
           <AdsCarousel />
         </ClientOnly>
-        <br>
+        <br> -->
       </div>
     </template>
   </DefaultTheme.Layout>
