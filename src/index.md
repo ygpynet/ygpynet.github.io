@@ -30,7 +30,7 @@ features:
   - icon: 💾
     title: 软件列表
     details: 罗列常用软件，提升作业效率。
-    link: /app/proxy
+    link: /app/proxy/
     linkText: 前往阅读
   - icon: 🌐
     title: 网址导航
