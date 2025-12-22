@@ -6,7 +6,7 @@
                     <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                         {{ subheading }}
                         <span v-if="status" class="ml-2 text-sm text-red-500 font-medium">
-                            [服务商失联]
+                            [已失效]
                         </span>
                     </h5>
                     <p class="font-normal text-gray-700 dark:text-gray-400 truncate">

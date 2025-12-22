@@ -16,7 +16,7 @@ const props = defineProps<{
 
 const computedCaption = computed(() => {
     if (props.alt) return props.alt
-    if (props.status) return '[服务商失联]'
+    if (props.status) return '[已失效]'
     return ''
 })
 </script>
