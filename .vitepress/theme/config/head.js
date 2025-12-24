@@ -26,5 +26,10 @@ export default [
         function gtag(){dataLayer.push(arguments);}
         gtag('js', new Date());
         gtag('config', 'G-QCKBKDQ290');`
+    ],
+    [
+        'script',
+        {},
+        `(adsbygoogle = window.adsbygoogle || []).push({});`
     ]
 ]
