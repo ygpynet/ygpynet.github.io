@@ -3,12 +3,12 @@
         <a :href="link">
             <fwb-card :img-alt="alt" :img-src="src" variant="image" :class="status ? 'grayscale opacity-60' : ''">
                 <div class="p-5">
-                    <h5 class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+                    <h2 :id="subheading" class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                         {{ subheading }}
                         <span v-if="status" class="ml-2 text-sm text-red-500 font-medium">
                             [已失效]
                         </span>
-                    </h5>
+                    </h2>
                     <p class="font-normal text-gray-700 dark:text-gray-400 truncate">
                         {{ description }}
                     </p>
@@ -29,6 +29,7 @@ defineProps<{
     link: string
     alt: string
     src: string
+    id: string
     subheading: string
     description: string
     date: Date
