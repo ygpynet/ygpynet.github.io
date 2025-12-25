@@ -176,7 +176,7 @@ next: false
 
 ## 秒连云 <Badge type="tip" text="中转机场" />
 
-使用优惠券 <ClientOnly><Tooltip code="ygpy" /></ClientOnly> 享 7.8 折购买“秒连云系列”套餐。
+低至 8.00 元购买“秒连云系列”套餐。
 
 节点位置：香港、日本、新加坡、美国、台湾、土耳其、奥地利、以色列、荷兰、冰岛、瑞士……
 
