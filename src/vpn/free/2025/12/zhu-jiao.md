@@ -37,7 +37,7 @@ head:
   />
 </ClientOnly>
 
-使用优惠券 <ClientOnly><Tooltip code="tPi5rng0" /></ClientOnly> 0 元购买“主角·新星”100GB️/30 天套餐。
+使用优惠券 <ClientOnly><Tooltip code="NnNVusGV" /></ClientOnly> 0 元购买“主角·新星”100GB️/30 天套餐。
 
 节点位置：美国、香港、台湾、日本、德国、 法国、泰国
 
