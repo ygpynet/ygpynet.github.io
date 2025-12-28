@@ -245,7 +245,7 @@ next: false
 ::: details
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/eU4tUiC.png"
+        src="https://i.imgur.com/QhRnYTu.png"
         alt="“山海机场”价格详情"
     />
 </ClientOnly>
