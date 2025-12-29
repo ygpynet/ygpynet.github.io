@@ -7,7 +7,7 @@ image:
 subheading: 靠谱云
 description: 使用优惠券 0 元购买 50GB️/30 天套餐。
 hyperlink: https://kaopucloud.online/#/register?code=QvamSidi
-status: false
+status: true
 head:
   - - meta
     - property: og:title

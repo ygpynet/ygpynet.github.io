@@ -7,7 +7,7 @@ image:
 subheading: 十分机场
 description: 注册即送 100GB️/30 天套餐。
 hyperlink: https://十分机场.com/#/register?code=MbaMTsOQ
-status: false
+status: true
 head:
   - - meta
     - property: og:title

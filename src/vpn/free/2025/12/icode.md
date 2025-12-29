@@ -7,7 +7,7 @@ image:
 subheading: Icode
 description: 使用优惠券 0 元购买 30GB️/30 天套餐。
 hyperlink: https://icodejiasu.top/#/register?code=o1MhQCbY
-status: false
+status: true
 head:
   - - meta
     - property: og:title

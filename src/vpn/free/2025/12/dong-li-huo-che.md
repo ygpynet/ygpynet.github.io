@@ -7,7 +7,7 @@ image:
 subheading: 动力火车
 description: 使用优惠券 0 元购买 100GB️/30 天套餐。
 hyperlink: https://动力火车.site/#/register?code=Dn87S2ot
-status: false
+status: true
 head:
   - - meta
     - property: og:title

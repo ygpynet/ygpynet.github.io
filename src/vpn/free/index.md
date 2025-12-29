@@ -24,4 +24,11 @@ giscus: false
 
 <script setup>
 import { data as index } from '../../../.vitepress/theme/data/vpn/free.data.js'
+const hyperlinks = index
+  .map(item => item.frontmatter?.hyperlink)
+  .filter(Boolean)
+
+
+console.log(hyperlinks)
+
 </script>
