@@ -7,7 +7,7 @@ image:
 subheading: LinkHub
 description: 使用优惠券 0 元购买 150GB️/30 天套餐。
 hyperlink: https://link-hub.shop/#/register?code=tu7hhiWe
-status: false
+status: true
 head:
   - - meta
     - property: og:title
