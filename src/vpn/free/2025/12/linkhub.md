@@ -6,7 +6,7 @@ image:
   alt: LinkHub
 subheading: LinkHub
 description: 使用优惠券 0 元购买 150GB️/30 天套餐。
-hyperlink: https://link-hub.shop/#/register?code=tu7hhiWe
+hyperlink: 应机场主要求，已删除该链接
 status: true
 head:
   - - meta
