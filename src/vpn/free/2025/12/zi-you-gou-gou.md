@@ -14,7 +14,7 @@ head:
       content: 免费机场推荐：自由狗狗
   - - meta
     - property: og:description
-      content: 0 元购买 10GB️/30 天套餐。
+      content: 【可复购】0 元购买 10GB️/30 天套餐。
   - - meta
     - property: og:url
       content: https://ygpy.net/vpn/free/2025/12/zi-you-gou-gou.html
