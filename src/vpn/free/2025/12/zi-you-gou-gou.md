@@ -5,7 +5,7 @@ image:
   src: https://i.imgur.com/WDF58nU.png
   alt: 自由狗狗
 subheading: 自由狗狗
-description: 0 元购买 10GB️/30 天套餐。
+description: 【可复购】0 元购买 10GB️/30 天套餐。
 hyperlink: https://www.freedogdog.com/register?code=cd37026d
 status: false
 head:
@@ -44,6 +44,10 @@ head:
 协议类型：VMess
 
 <p>注册地址：<ClientOnly><Link :href="$frontmatter.hyperlink" /></ClientOnly></p>
+
+::: tip
+该套餐用完可重复购买。
+:::
 
 ## 联系方式
 
