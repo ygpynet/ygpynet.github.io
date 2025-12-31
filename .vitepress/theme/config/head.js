@@ -19,6 +19,7 @@ export default [
     ['script', { async: '', src: 'https://analytics.ahrefs.com/analytics.js', 'data-key': '/qP3TX4BRBR426HCC7gnkg' }],
     ['script', { async: '', src: 'https://www.googletagmanager.com/gtag/js?id=G-QCKBKDQ290' }],
     ['script', { async: '', src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4067183961394663', crossorigin: 'anonymous' }],
+    ['script', { async: '', src: 'https://fundingchoicesmessages.google.com/i/pub-4067183961394663?ers=1' }],
     [
         'script',
         {},
@@ -31,10 +32,6 @@ export default [
         'script',
         {},
         `(adsbygoogle = window.adsbygoogle || []).push({});`
-    ],
-    [
-        'script',
-        { async: '', src: 'https://fundingchoicesmessages.google.com/i/pub-4067183961394663?ers=1' }
     ],
     [
         'script',

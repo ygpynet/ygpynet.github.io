@@ -211,7 +211,7 @@ next: false
 
 协议类型：Trojan
 
-<p>注册地址：<ClientOnly><Link href="https://zero.thisgourl.xyz/#/register?code=iTtBwX8M" /></ClientOnly></p>
+<p>注册地址：<ClientOnly><Link href="https://8.134.107.77:23999/#/register?code=iTtBwX8M" /></ClientOnly></p>
 <p>官方频道：<ClientOnly><Link href="https://t.me/KooDogChannel" /></ClientOnly></p>
 <p>官方群组：<ClientOnly><Link href="https://t.me/KooDogGroup" /></ClientOnly></p>
 
