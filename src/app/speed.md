@@ -1,3 +1,7 @@
+---
+giscus: false
+---
+
 # 测速工具推荐
 
 <!--@include: ../vpn/doc-top.md-->

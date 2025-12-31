@@ -44,10 +44,33 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
 
 <template>
   <DefaultTheme.Layout>
+    <template #doc-footer-before>
+      <Giscus v-if="page.frontmatter.giscus !== false" id="comments" repo="ygpynet/ygpynet.github.io" repo-id="R_kgDOPaI41g" category="Announcements"
+        category-id="DIC_kwDOPaI41s4Czw1Y" mapping="pathname" strict="0" reactions-enabled="1" emit-metadata="0"
+        input-position="bottom" theme="preferred_color_scheme" lang="zh-CN" crossorigin="anonymous" async />
+    </template>
     <template #sidebar-nav-after>
       <ClientOnly>
         <AdsSidebar />
       </ClientOnly>
+    </template>
+    <template #aside-outline-after>
+      <br>
+      <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4067183961394663"
+     data-ad-slot="9581966572"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+    </template>
+    <template #aside-ads-after>
+      <br>
+      <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-4067183961394663"
+     data-ad-slot="9581966572"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
     </template>
     <template #aside-ads-before>
       <div class="doc-aside-ads">
@@ -55,27 +78,6 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
           <Ads />
         </ClientOnly>
       </div>
-    </template>
-    <template #doc-footer-before>
-      <div v-if="page.frontmatter.giscus !== false">
-        <Giscus id="comments" repo="ygpynet/ygpynet.github.io" repo-id="R_kgDOPaI41g" category="Announcements"
-          category-id="DIC_kwDOPaI41s4Czw1Y" mapping="pathname" strict="0" reactions-enabled="1" emit-metadata="0"
-          input-position="bottom" theme="preferred_color_scheme" lang="zh-CN" crossorigin="anonymous" async />
-        <!-- <p></p>
-        <br>
-        <ClientOnly>
-          <AdsCarousel />
-        </ClientOnly>
-        <br> -->
-      </div>
-    </template>
-    <template #aside-outline-after>
-      <ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-4067183961394663"
-     data-ad-slot="9581966572"
-     data-ad-format="auto"
-     data-full-width-responsive="true"></ins>
     </template>
   </DefaultTheme.Layout>
 </template>

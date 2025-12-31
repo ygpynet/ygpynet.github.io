@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/S1pfGDT.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 使用优惠券 <ClientOnly><Tooltip code="靠谱" /></ClientOnly> 0 元购买“防失联套餐”50GB️/30 天套餐。
 
 节点位置：美国、日本、新加坡、俄罗斯

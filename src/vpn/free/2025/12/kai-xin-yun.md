@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/rskM8Y4.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 使用优惠券 <ClientOnly><Tooltip code="kaixin" /></ClientOnly> 0 元购买“普通 vip1 套餐”100GB️/30 天套餐。
 
 节点位置：俄罗斯、美国、英国、新加坡、德国、日本

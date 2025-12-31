@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/3lFGl8X.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 注册即送“体验包”30GB️/30 天套餐。
 
 节点位置：香港、台湾、日本、韩国、新加坡、美国、德国、俄罗斯、印度、英国、加拿大……

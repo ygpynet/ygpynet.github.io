@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/tSX2ruK.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 注册即送“标准套餐”1000GB️/1 次性套餐。
 
 或使用优惠券 <ClientOnly><Tooltip code="TdtG9DcV" /></ClientOnly> 0 元购买“标准套餐”128GB️/30 天套餐。

@@ -34,12 +34,10 @@ export default {
   setup() {
     const route = useRoute()
 
-    // Medium Zoom
     const zoom = () => {
       mediumZoom('[data-zoomable]', { background: 'var(--vp-c-bg)' })
     }
 
-    // Clipboard
     const clip = () => {
       document.querySelectorAll('code').forEach(code => {
         code.addEventListener('click', async () => {

@@ -15,7 +15,7 @@
 import { getCurrentAd } from '../config/ads';
 import { onMounted, watchEffect } from 'vue';
 
-const adDoc = getCurrentAd(1, 'Doc')
+const adDoc: any = getCurrentAd(1, 'Doc')
 
 onMounted(() => {
     if (adDoc?.id) {

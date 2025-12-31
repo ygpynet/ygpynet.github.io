@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/25oF40y.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 使用优惠券 <ClientOnly><Tooltip code="oldLinkHub" /></ClientOnly> 0 元购买“VIP 套餐”150GB️/30 天套餐。
 
 节点位置：韩国、新加坡、香港、日本、美国、台湾、德国、英国、印度、瑞士、巴西、印尼……

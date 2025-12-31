@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/CoA8Yym.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 使用优惠券 <ClientOnly><Tooltip code="SyinXTy" /></ClientOnly> 0 元购买“Syin-体验（优惠码）”50GB️/30 天套餐。
 
 节点位置：香港、日本、台湾、新加坡、美国、越南、泰国、德国、法国、英国、加拿大……

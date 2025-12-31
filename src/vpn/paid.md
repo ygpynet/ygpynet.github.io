@@ -1,4 +1,5 @@
 ---
+giscus: false
 next: false
 ---
 

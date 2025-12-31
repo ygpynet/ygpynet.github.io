@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/YnnM9Lt.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 使用优惠券 <ClientOnly><Tooltip code="3iYhi4XP" /></ClientOnly> 0 元购买 200GB️/30 天套餐。
 
 节点位置：香港、日本、新加坡、美国

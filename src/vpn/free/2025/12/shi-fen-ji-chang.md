@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/qerJNn0.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 注册即送“售价 5”100GB️/30 天套餐。
 
 节点位置：香港、日本、新加坡、美国、澳大利亚、俄罗斯

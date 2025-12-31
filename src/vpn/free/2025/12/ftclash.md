@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/v2bQGI0.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 注册即送“T-免费”100GB️/30 天套餐。
 
 节点位置：美国、香港、日本、印度、俄罗斯、澳大利亚、德国、英国、泰国、印尼、意大利……

@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/WDF58nU.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 0 元购买“免费”10GB️/30 天套餐。
 
 节点位置：美国

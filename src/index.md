@@ -9,7 +9,7 @@ hero:
   tagline: 出海第一站，从这里开始
   image:
     src: /images/logo-light.webp
-    alt: 一个朋友
+    alt: 一个朋友 Logo
   actions:
     - theme: brand
       text: 开始阅读
@@ -137,6 +137,14 @@ features:
         <fwb-accordion-content>
           <p class="mb-2 text-gray-500 dark:text-gray-400">
             免费机场随时可能关闭或不稳定是常态，建议优先选择可靠付费机场，或分批试用多个免费机场备用。
+          </p>
+        </fwb-accordion-content>
+      </fwb-accordion-panel>
+      <fwb-accordion-panel>
+        <fwb-accordion-header>备注“已失效”的定义？</fwb-accordion-header>
+        <fwb-accordion-content>
+          <p class="mb-2 text-gray-500 dark:text-gray-400">
+            指代机场服务商重铸或兼并、失联等。
           </p>
         </fwb-accordion-content>
       </fwb-accordion-panel>

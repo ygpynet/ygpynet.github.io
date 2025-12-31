@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/8k7zDqJ.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 使用优惠券 <ClientOnly><Tooltip code="dabache" /></ClientOnly> 0 元购买“包月基础套餐”80GB️/30 天套餐。
 
 节点位置：英国、俄罗斯、加拿大、美国、德国、荷兰

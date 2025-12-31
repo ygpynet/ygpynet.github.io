@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/5W4UrZA.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 注册即送“免费试用”1000GB️/418 天套餐。
 
 节点位置：香港、台湾、日本、韩国

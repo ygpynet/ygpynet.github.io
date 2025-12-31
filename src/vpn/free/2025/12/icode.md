@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/6aKrV12.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 使用优惠券 <ClientOnly><Tooltip code="入门包" /></ClientOnly> 0 元购买“icode 入门包”30GB️/30 天套餐。
 
 节点位置：香港、韩国、美国、日本、新加坡、德国、马来西亚

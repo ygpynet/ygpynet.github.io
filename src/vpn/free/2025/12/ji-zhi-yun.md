@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/ZkQqUco.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 使用优惠券 <ClientOnly><Tooltip code="852VY8u0" /></ClientOnly> 0 元购买“试用节点·Trial Plan”100GB️/30 天套餐。
 
 节点位置：美国

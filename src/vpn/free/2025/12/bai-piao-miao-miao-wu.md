@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/R6cL9Gt.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 使用优惠券 <ClientOnly><Tooltip code="zsDSlfV6" /></ClientOnly> 0 元购买“白嫖”500GB️/30 天套餐。
 
 节点位置：香港、日本、新加坡、美国

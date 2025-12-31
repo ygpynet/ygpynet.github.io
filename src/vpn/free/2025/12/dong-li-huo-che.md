@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/nldSrx2.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 使用优惠券 <ClientOnly><Tooltip code="qwert" /></ClientOnly> 0 元购买“100GB 流量（1 元/月）”100GB️/30 天套餐。
 
 节点位置：美国、日本、香港、韩国、新加坡、菲律宾

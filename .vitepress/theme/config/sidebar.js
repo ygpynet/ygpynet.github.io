@@ -29,6 +29,7 @@ export default {
                     text: '归档',
                     collapsed: true,
                     items: [
+                        { text: '2025 年', link: '/vpn/archives/2025' },
                         { text: '2024 年', link: '/vpn/archives/2024' }
                     ]
                 }

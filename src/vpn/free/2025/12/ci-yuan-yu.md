@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/U8U2Vrj.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 使用优惠券 <ClientOnly><Tooltip code="@ciyuantupo" /></ClientOnly> 0 元购买“入门款”100GB️/30 天套餐。
 
 节点位置：香港、美国、日本、俄罗斯、加拿大

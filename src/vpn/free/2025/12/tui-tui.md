@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/oBv0WFM.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 注册即送“免费套餐”100GB️/10 天套餐。
 
 节点位置：美国、香港

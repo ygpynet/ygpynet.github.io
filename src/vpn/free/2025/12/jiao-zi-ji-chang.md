@@ -30,13 +30,6 @@ head:
 
 ## 介绍
 
-<ClientOnly>
-  <Img
-    src="https://i.imgur.com/lSBZKQf.png"
-    :status="$frontmatter.status"
-  />
-</ClientOnly>
-
 使用优惠券 <ClientOnly><Tooltip code="Fesf49lo" /></ClientOnly> 0 元购买“基础包”300GB️/30 天套餐。
 
 节点位置：新加坡、日本、香港、土耳其、美国、马来西亚
