@@ -11,18 +11,7 @@ export default {
                     text: '2025',
                     collapsed: false,
                     items: [
-                        { text: '12 月', link: '/vpn/free/' },
-                        { text: '11 月', link: '/vpn/2025/11' },
-                        { text: '10 月', link: '/vpn/2025/10' },
-                        { text: '9 月', link: '/vpn/2025/09' },
-                        { text: '8 月', link: '/vpn/2025/08' },
-                        { text: '7 月', link: '/vpn/2025/07' },
-                        { text: '6 月', link: '/vpn/2025/06' },
-                        { text: '5 月', link: '/vpn/2025/05' },
-                        { text: '4 月', link: '/vpn/2025/04' },
-                        { text: '3 月', link: '/vpn/2025/03' },
-                        { text: '2 月', link: '/vpn/2025/02' },
-                        { text: '1 月', link: '/vpn/2025/01' }
+                        { text: '12 月', link: '/vpn/free/' }
                     ]
                 },
                 {
@@ -41,7 +30,7 @@ export default {
         },
         {
             text: '付费机场',
-            link: '/vpn/paid'
+            link: '/vpn/paid/'
         }
     ],
     '/app/': [

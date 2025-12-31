@@ -19,7 +19,7 @@ hero:
       link: /vpn/collections
     - theme: alt
       text: 付费专栏
-      link: /vpn/paid
+      link: /vpn/paid/
 
 features:
   - icon: ✈️
