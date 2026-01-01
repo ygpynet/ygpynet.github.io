@@ -39,7 +39,7 @@ head:
 <p>注册地址：<ClientOnly><Link :href="$frontmatter.hyperlink" /></ClientOnly></p>
 
 ::: tip
-所有节点 0 倍率计费。
+所有节点 0 倍率。
 :::
 
 ## 联系方式
