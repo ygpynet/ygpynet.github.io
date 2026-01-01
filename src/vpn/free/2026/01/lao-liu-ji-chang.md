@@ -1,11 +1,11 @@
 ---
-date: 2026-01-01T20:30:36Z
+date: 2026-01-01T20:34:23Z
 title: 免费机场推荐：老六机场
 image:
-  src: https://i.imgur.com/WVFHyXG.png
+  src: https://i.imgur.com/zNThgcx.png
   alt: 老六机场
 subheading: 老六机场
-description: 使用优惠券 0 元购买 10x0GB️/1 次性套餐。
+description: 使用优惠券 0 元购买 10GB️/1 次性套餐。
 hyperlink: https://lao666.cc/#/register?code=QcDlMxI3
 status: false
 head:
@@ -14,13 +14,13 @@ head:
       content: 免费机场推荐：老六机场
   - - meta
     - property: og:description
-      content: 使用优惠券 0 元购买 10x0GB️/1 次性套餐。
+      content: 使用优惠券 0 元购买 10GB️/1 次性套餐。
   - - meta
     - property: og:url
       content: https://ygpy.net/vpn/free/2026/01/lao-liu-ji-chang.html
   - - meta
     - property: og:image
-      content: https://i.imgur.com/WVFHyXG.png
+      content: https://i.imgur.com/zNThgcx.png
   - - meta
     - property: og:image:alt
       content: 免费机场推荐：老六机场
@@ -30,7 +30,7 @@ head:
 
 ## 介绍
 
-使用优惠券 <ClientOnly><Tooltip code="LAO666" /></ClientOnly> 0 元购买“老六机场”10x0GB️/1 次性套餐。
+使用优惠券 <ClientOnly><Tooltip code="LAO666" /></ClientOnly> 0 元购买“老六机场”10GB️/1 次性套餐。
 
 节点位置：香港、台湾、新加坡、日本、美国、韩国、德国
 
