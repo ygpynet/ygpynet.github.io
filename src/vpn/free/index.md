@@ -2,7 +2,7 @@
 giscus: false
 ---
 
-# 免费机场推荐 2026 年 1 月
+# 免费机场推荐
 
 <!--@include: ../doc-top.md-->
 
