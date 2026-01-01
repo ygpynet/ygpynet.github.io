@@ -6,7 +6,7 @@ image:
   alt: 卷王机场
 subheading: 卷王机场
 description: 注册即送 954PB/1 次性套餐。
-hyperlink: https://jwjc520.top/register
+hyperlink: https://520.juanwangjc.top/
 status: false
 head:
   - - meta
