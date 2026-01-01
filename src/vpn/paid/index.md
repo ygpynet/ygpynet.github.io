@@ -15,14 +15,14 @@ next: false
 
 协议类型：Hysteria、Trojan
 
-<p>注册地址：<ClientOnly><Link href="https://hongxingdl.one/web/#/login?code=CPXZlpWz" /></ClientOnly></p>
+<p>注册地址：<ClientOnly><Link href="https://hongxingdl.cc/web/#/login?code=CPXZlpWz" /></ClientOnly></p>
 <p>官方频道：<ClientOnly><Link href="https://t.me/hongxingyun" /></ClientOnly></p>
 <p>官方群组：<ClientOnly><Link href="https://t.me/hongxingyuna" /></ClientOnly></p>
 
 ::: details
 <ClientOnly>
     <Img
-        src="https://i.imgur.com/zHO38tG.png"
+        src="https://i.imgur.com/c1Mkm1f.png"
         alt="“红杏云”价格详情"
     />
 </ClientOnly>
