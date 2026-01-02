@@ -8,8 +8,13 @@ export default {
       text: "试用机场",
       items: [
         {
-          text: "2025",
+          text: "2026",
           collapsed: false,
+          items: [{ text: "1 月", link: "/vpn/free/2026/01/" }],
+        },
+        {
+          text: "2025",
+          collapsed: true,
           items: [{ text: "12 月", link: "/vpn/free/2025/12/" }],
         },
         {
