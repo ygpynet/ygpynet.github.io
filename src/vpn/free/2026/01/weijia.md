@@ -40,8 +40,8 @@ head:
 
 ## 联系方式
 
-<p>频道：<ClientOnly><Link href="https://t.me/weijiapics" /></ClientOnly></p>
-<p>群组：无</p>
+<p>频道：无</p>
+<p>群组：<ClientOnly><Link href="https://t.me/weijiapics" /></ClientOnly></p>
 
 ## 详情信息
 
