@@ -51,6 +51,7 @@ const activeList = computed(() =>
 )
 
 const hyperlinks = index
+  .filter(item => item.frontmatter?.status === false)
   .map(item => item.frontmatter?.hyperlink)
   .filter(Boolean)
 
