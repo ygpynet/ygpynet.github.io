@@ -41,7 +41,8 @@ head:
 ## 联系方式
 
 <p>频道：无</p>
-<p>群组：<ClientOnly><Link href="https://discord.com/invite/BXnZ2WXmpv" /></ClientOnly></p>
+
+群组：[discord.com/invite/BXnZ2WXmpv](https://discord.com/invite/BXnZ2WXmpv)
 
 ## 详情信息
 
