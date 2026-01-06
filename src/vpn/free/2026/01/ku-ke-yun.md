@@ -55,7 +55,7 @@ head:
 <p></p>
 <ClientOnly>
   <Img
-    src="https://i.imgur.com/zOLuGRP.png"
+    src="https://i.imgur.com/4k01rHa.png"
     alt="“酷可云”测试报告"
     :status="$frontmatter.status"
   />
