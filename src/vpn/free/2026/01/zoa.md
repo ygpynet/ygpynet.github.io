@@ -40,7 +40,7 @@ head:
 
 ## 联系方式
 
-<p>频道：无</p>
+<p>频道：<ClientOnly><Link href="https://t.me/yunzoa" /></ClientOnly></p>
 
 群组：[discord.com/invite/BXnZ2WXmpv](https://discord.com/invite/BXnZ2WXmpv)
 
