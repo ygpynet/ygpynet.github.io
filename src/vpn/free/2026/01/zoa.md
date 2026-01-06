@@ -40,9 +40,9 @@ head:
 
 ## 联系方式
 
-<p>频道：<ClientOnly><Link href="https://t.me/yunzoa" /></ClientOnly></p>
+<p>频道：无</p>
 
-群组：[discord.com/invite/BXnZ2WXmpv](https://discord.com/invite/BXnZ2WXmpv)
+<p>群组：<ClientOnly><Link href="https://t.me/yunzoa" /></ClientOnly></p>
 
 ## 详情信息
 
