@@ -51,7 +51,7 @@ head:
 
 <ClientOnly>
   <Img
-    src="https://i.imgur.com/bkeQi4o.png"
+    src="https://i.imgur.com/wv7HNhy.png"
     alt="“永久免费云”价格详情"
     :status="$frontmatter.status"
   />
