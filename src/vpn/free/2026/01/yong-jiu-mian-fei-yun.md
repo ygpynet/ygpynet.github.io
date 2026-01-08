@@ -5,7 +5,7 @@ image:
   src: https://i.imgur.com/c1Z9gPo.png
   alt: 永久免费云
 subheading: 永久免费云
-description: 0 元购买 800GB/30 天套餐。
+description: 使用优惠券 0 元购买 800GB/30 天套餐。
 hyperlink: https://freegangkou.top/#/register?code=glQpWipp
 status: false
 head:
@@ -14,7 +14,7 @@ head:
       content: 免费机场推荐：永久免费云
   - - meta
     - property: og:description
-      content: 0 元购买 800GB/30 天套餐。
+      content: 使用优惠券 0 元购买 800GB/30 天套餐。
   - - meta
     - property: og:url
       content: https://ygpy.net/vpn/free/2026/01/yong-jiu-mian-fei-yun.html
@@ -30,7 +30,7 @@ head:
 
 ## 介绍
 
-0 元购买“永久免费套餐”800GB/30 天套餐。
+使用优惠券 <ClientOnly><Tooltip code="muKnJjwV" /></ClientOnly> 0 元购买“永久免费套餐”800GB/30 天套餐。
 
 节点位置：台湾、香港、韩国、日本
 
