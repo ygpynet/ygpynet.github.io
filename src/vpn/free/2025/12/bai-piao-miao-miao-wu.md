@@ -7,7 +7,7 @@ image:
 subheading: 白嫖妙妙屋
 description: 使用优惠券 0 元购买 500GB️/30 天套餐。
 hyperlink: https://baipiao.buzz/#/register?code=o23Sc9GN
-status: false
+status: true
 head:
   - - meta
     - property: og:title

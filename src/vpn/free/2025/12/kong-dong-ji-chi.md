@@ -7,7 +7,7 @@ image:
 subheading: 空洞疾驰
 description: 使用优惠券 0 元购买 200GB️/30 天套餐。
 hyperlink: https://kdjc.pics/#/register?code=0ZsDVwoq
-status: false
+status: true
 head:
   - - meta
     - property: og:title
