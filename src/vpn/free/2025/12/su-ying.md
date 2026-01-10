@@ -6,7 +6,7 @@ image:
   alt: 速影
 subheading: 速影
 description: 使用优惠券 0 元购买 50GB️/30 天套餐。
-hyperlink: https://www.suyin.space/#/register?code=X81JNKXV
+hyperlink: https://www.suyinx.xyz/#/register?code=X81JNKXV
 status: false
 head:
   - - meta

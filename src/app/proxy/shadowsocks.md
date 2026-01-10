@@ -3,14 +3,14 @@ icon: /images/app/proxy/shadowsocks/favicon.ico
 title: 代理软件：Shadowsocks
 shortdesc: 跨平台
 subheading: Shadowsocks
-description: Shadowsocks 的客户端实现。支持将所有系统流量重定向到 Shadowsocks，而不仅仅是那些已显式配置的应用程序，这使得 Shadowsocks 的使用方式类似于VPN。
+description: Shadowsocks 的客户端实现。支持将所有系统流量重定向到 Shadowsocks，而不仅仅是那些已显式配置的应用程序，这使得 Shadowsocks 的使用方式类似于 VPN。
 head:
   - - meta
     - property: og:title
       content: 代理软件：Shadowsocks
   - - meta
     - property: og:description
-      content: Shadowsocks 的客户端实现。支持将所有系统流量重定向到 Shadowsocks，而不仅仅是那些已显式配置的应用程序，这使得 Shadowsocks 的使用方式类似于VPN。
+      content: Shadowsocks 的客户端实现。支持将所有系统流量重定向到 Shadowsocks，而不仅仅是那些已显式配置的应用程序，这使得 Shadowsocks 的使用方式类似于 VPN。
   - - meta
     - property: og:url
       content: https://xszn.org/app/proxy/shadowsocks.html
@@ -28,7 +28,7 @@ head:
 
 <Img alt="“Shadowsocks”屏幕截图" src="/images/app/proxy/shadowsocks/screenshot.webp" />
 
-Shadowsocks 的客户端实现。支持将所有系统流量重定向到 Shadowsocks，而不仅仅是那些已显式配置的应用程序，这使得 Shadowsocks 的使用方式类似于VPN。
+Shadowsocks 的客户端实现。支持将所有系统流量重定向到 Shadowsocks，而不仅仅是那些已显式配置的应用程序，这使得 Shadowsocks 的使用方式类似于 VPN。
 
 ## 系统平台
 
