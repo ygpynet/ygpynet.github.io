@@ -47,7 +47,7 @@ head:
 
 <ClientOnly>
   <Img
-    src="https://i.imgur.com/YO2f1qO.png"
+    src="https://i.imgur.com/kOQWVyL.png"
     alt="“零际”价格详情"
     :status="$frontmatter.status"
   />
