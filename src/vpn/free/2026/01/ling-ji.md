@@ -55,7 +55,7 @@ head:
 <p></p>
 <ClientOnly>
   <Img
-    src="https://i.imgur.com/PoIeWGh.png"
+    src="https://i.imgur.com/WzpwOhh.png"
     alt="“零际”测试报告"
     :status="$frontmatter.status"
   />
