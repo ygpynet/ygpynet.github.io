@@ -2,7 +2,7 @@
 date: 2026-01-11T20:35:14Z
 title: 试用机场推荐：来不及机场
 image:
-  src: https://i.imgur.com/UaamXLu.png
+  src: https://i.imgur.com/Vc3atGE.png
   alt: 来不及机场
 subheading: 来不及机场
 description: 使用优惠券 0 元购买 100GB️/30 天套餐。
@@ -20,7 +20,7 @@ head:
       content: https://ygpy.net/vpn/free/2026/01/lai-bu-ji-ji-chang.html
   - - meta
     - property: og:image
-      content: https://i.imgur.com/UaamXLu.png
+      content: https://i.imgur.com/Vc3atGE.png
   - - meta
     - property: og:image:alt
       content: 试用机场推荐：来不及机场
