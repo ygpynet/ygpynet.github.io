@@ -1,0 +1,64 @@
+---
+date: 2026-01-15T16:19:13Z
+title: 试用机场推荐：GGB
+image:
+  src: https://i.imgur.com/fiaKr1K.png
+  alt: GGB
+subheading: GGB
+description: 使用优惠券 0 元购买 100GB️/30 天套餐。
+hyperlink: https://qd1.8811334.xyz/#/register?code=8yFY8oSz
+status: false
+head:
+  - - meta
+    - property: og:title
+      content: 试用机场推荐：GGB
+  - - meta
+    - property: og:description
+      content: 使用优惠券 0 元购买 100GB️/30 天套餐。
+  - - meta
+    - property: og:url
+      content: https://ygpy.net/vpn/free/2026/01/ggb.html
+  - - meta
+    - property: og:image
+      content: https://i.imgur.com/fiaKr1K.png
+  - - meta
+    - property: og:image:alt
+      content: 试用机场推荐：GGB
+---
+
+# GGB <Badge type="info" text="试用机场" />
+
+## 介绍
+
+使用优惠券 <ClientOnly><Tooltip code="ggbnb" /></ClientOnly> 0 元购买“小套”100GB️/30 天套餐。
+
+节点位置：美国、德国、越南
+
+协议类型：AnyTLS、Hysteria
+
+<p>注册地址：<ClientOnly><Link :href="$frontmatter.hyperlink" /></ClientOnly></p>
+
+## 联系方式
+
+<p>频道：<ClientOnly><Link href="https://t.me/+HkUHNebO5ldlMjNk" /></ClientOnly></p>
+<p>群组：无</p>
+
+## 详情信息
+
+<ClientOnly>
+  <Img
+    src="https://i.imgur.com/VGDNap9.png"
+    alt="“GGB”价格详情"
+    :status="$frontmatter.status"
+  />
+</ClientOnly>
+<p></p>
+<ClientOnly>
+  <Img
+    src="https://i.imgur.com/sAV84GZ.png"
+    alt="“GGB”测试报告"
+    :status="$frontmatter.status"
+  />
+</ClientOnly>
+
+## 评论
