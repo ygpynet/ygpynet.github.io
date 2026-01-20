@@ -20,7 +20,7 @@ giscus: false
                 <fwb-table-head-cell>机场名称</fwb-table-head-cell>
                 <fwb-table-head-cell>购买方式</fwb-table-head-cell>
                 <fwb-table-head-cell>套餐规格</fwb-table-head-cell>
-                <fwb-table-head-cell>复购支持</fwb-table-head-cell>
+                <fwb-table-head-cell>续费支持</fwb-table-head-cell>
             </fwb-table-head>
             <fwb-table-body>
                 <fwb-table-row><fwb-table-cell>2025/12</fwb-table-cell><fwb-table-cell><fwb-a href="/vpn/free/2025/12/zi-you-gou-gou">自由狗狗</fwb-a></fwb-table-cell><fwb-table-cell>0 元购买</fwb-table-cell><fwb-table-cell>10GB/30 天</fwb-table-cell><fwb-table-cell>可复购</fwb-table-cell></fwb-table-row>
