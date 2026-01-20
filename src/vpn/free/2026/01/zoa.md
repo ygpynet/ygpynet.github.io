@@ -7,7 +7,7 @@ image:
 subheading: ZOA
 description: 注册即送 50GB️/30 天套餐。
 hyperlink: https://www.yunzoa.com/#/register?code=z1th6jtD
-status: false
+status: true
 head:
   - - meta
     - property: og:title

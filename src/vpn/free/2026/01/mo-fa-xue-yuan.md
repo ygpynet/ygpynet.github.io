@@ -7,7 +7,7 @@ image:
 subheading: 魔法学院
 description: 使用优惠券 0 元购买 100GB️/30 天套餐。
 hyperlink: https://魔法学院.shop/#/register?code=ZiID0FvC
-status: false
+status: true
 head:
   - - meta
     - property: og:title

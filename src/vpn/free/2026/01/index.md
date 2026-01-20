@@ -48,7 +48,6 @@ const isDec2026 = (item) =>
 
 const inactiveList = computed(() =>
   index.filter(item => item.frontmatter.status === false && isDec2026(item))
-  
 )
 
 const activeList = computed(() =>

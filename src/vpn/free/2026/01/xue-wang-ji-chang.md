@@ -7,7 +7,7 @@ image:
 subheading: 雪王机场
 description: 使用优惠券 0 元购买 1000GB️/30 天套餐。
 hyperlink: https://雪王机场.shop/#/register?code=xyF2PJqR
-status: false
+status: true
 head:
   - - meta
     - property: og:title

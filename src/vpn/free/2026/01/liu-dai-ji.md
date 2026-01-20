@@ -7,7 +7,7 @@ image:
 subheading: 六代机
 description: 使用优惠券 0 元购买 100GB️/30 天套餐。
 hyperlink: https://六代机.site/#/register?code=vzmwRX2K
-status: false
+status: true
 head:
   - - meta
     - property: og:title

@@ -7,7 +7,7 @@ image:
 subheading: LRT
 description: 使用优惠券 0 元购买 100GB️/30 天套餐。
 hyperlink: https://lrtjc.xyz/#/register?code=zIIdErDC
-status: false
+status: true
 head:
   - - meta
     - property: og:title

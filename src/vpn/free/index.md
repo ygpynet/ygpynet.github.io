@@ -43,11 +43,11 @@ import { computed } from 'vue'
 import { data as index } from '../../../.vitepress/theme/data/vpn/free.data.js'
 
 const inactiveList = computed(() =>
-  index.filter(item => item.frontmatter.status === false)
+  index.slice(0,30).filter(item => item.frontmatter.status === false)
 )
 
 const activeList = computed(() =>
-  index.filter(item => item.frontmatter.status === true)
+  index.slice(0,30).filter(item => item.frontmatter.status === true)
 )
 
 const hyperlinks = index
