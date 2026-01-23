@@ -18,4 +18,6 @@ giscus: false
         description="分享科学上网教程的优质博客" /></ClientOnly>
     <ClientOnly><Card link="https://xszn.org/" target="_blank" icon="https://xszn.org/favicon.ico" subheading="行书指南"
         description="免费和开源软件列表" /></ClientOnly>
+    <ClientOnly><Card link="https://proxygo.org/" target="_blank" icon="http://proxygo.org/wp-content/uploads/2025/09/180010bmj05z4r1j95m5v1.icon" subheading="ProxyGo 出海工具导航"
+        description="免费科学上网节点、小火箭账号、小火箭代理、苹果 ID 与电商资源合集" /></ClientOnly>
 </div>
