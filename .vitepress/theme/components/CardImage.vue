@@ -5,6 +5,7 @@
                 <div class="p-5">
                     <h2 :id="subheading" class="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
                         {{ subheading }}
+                        <Badge :type="title === '试用机场' ? 'tip' : 'warning'" :text="title" />
                         <span v-if="status" class="ml-2 text-sm text-red-500 font-medium">
                             [已失效]
                         </span>
@@ -34,5 +35,6 @@ defineProps<{
     description: string
     date: Date
     status?: boolean
+    title: string
 }>()
 </script>

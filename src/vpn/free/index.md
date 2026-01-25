@@ -18,6 +18,7 @@ giscus: false
             :description="ind.frontmatter.description"
             :date="ind.frontmatter.date.slice(0, 10)"
             :status="ind.frontmatter.status"
+            :title="ind.frontmatter.title.slice(0, 4)"
         />
     </ClientOnly>
 </div>
@@ -34,6 +35,7 @@ giscus: false
             :description="ind.frontmatter.description"
             :date="ind.frontmatter.date.slice(0, 10)"
             :status="ind.frontmatter.status"
+            :title="ind.frontmatter.title.slice(0, 4)"
         />
     </ClientOnly>
 </div>
