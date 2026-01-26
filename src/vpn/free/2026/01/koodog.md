@@ -39,7 +39,7 @@ head:
 <p>注册地址：<ClientOnly><Link :href="$frontmatter.hyperlink" /></ClientOnly></p>
 
 ::: tip
-需要下载机场提供的专属客户端，否则节点无法使用。
+机场公告：需要下载机场提供的专属客户端，否则节点无法使用。
 :::
 
 ## 联系方式
