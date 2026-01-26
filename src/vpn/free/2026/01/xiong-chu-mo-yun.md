@@ -52,5 +52,13 @@ head:
     :status="$frontmatter.status"
   />
 </ClientOnly>
+<p></p>
+<ClientOnly>
+  <Img
+    src="https://i.imgur.com/QVBriJi.png"
+    alt="“熊出没云”测试报告"
+    :status="$frontmatter.status"
+  />
+</ClientOnly>
 
 ## 评论
