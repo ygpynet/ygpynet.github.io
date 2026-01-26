@@ -6,7 +6,7 @@ image:
   alt: KooDog
 subheading: KooDog
 description: 注册即送 200GB️/30 天套餐。
-hyperlink: https://8.134.107.77:23999/#/register?code=iTtBwX8M
+hyperlink: https://www.kdcloud.uk//#/register?code=iTtBwX8M
 status: false
 head:
   - - meta
