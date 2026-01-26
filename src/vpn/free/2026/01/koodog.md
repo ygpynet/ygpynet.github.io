@@ -6,7 +6,7 @@ image:
   alt: KooDog
 subheading: KooDog
 description: 注册即送 200GB️/30 天套餐。
-hyperlink: https://www.kdcloud.uk//#/register?code=iTtBwX8M
+hyperlink: https://www.kdcloud.uk/#/register?code=iTtBwX8M
 status: false
 head:
   - - meta
@@ -37,6 +37,10 @@ head:
 协议类型：Trojan
 
 <p>注册地址：<ClientOnly><Link :href="$frontmatter.hyperlink" /></ClientOnly></p>
+
+::: tip
+需要下载机场提供的专属客户端，否则节点无法使用。
+:::
 
 ## 联系方式
 
