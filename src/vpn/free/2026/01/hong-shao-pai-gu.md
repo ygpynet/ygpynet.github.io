@@ -6,7 +6,7 @@ image:
   alt: 红烧排骨
 subheading: 红烧排骨
 description: 使用优惠券 0 元购买 500GB️/30 天套餐。
-hyperlink: https://hk.hongshao-paipai.top/#/register?code=jGk8Mfcr
+hyperlink: https://letsgo.hongshao-paipai.top/#/register?code=jGk8Mfcr
 status: false
 head:
   - - meta
