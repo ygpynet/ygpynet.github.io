@@ -1,6 +1,6 @@
 ---
 date: 2026-01-27T21:23:52Z
-title: 试用机场推荐：茶盏云
+title: 免费机场推荐：茶盏云
 image:
   src: https://i.imgur.com/u4oJPDc.png
   alt: 茶盏云
@@ -11,7 +11,7 @@ status: false
 head:
   - - meta
     - property: og:title
-      content: 试用机场推荐：茶盏云
+      content: 免费机场推荐：茶盏云
   - - meta
     - property: og:description
       content: 使用优惠券 0 元购买 800GB️/30 天套餐。
@@ -23,10 +23,10 @@ head:
       content: https://i.imgur.com/u4oJPDc.png
   - - meta
     - property: og:image:alt
-      content: 试用机场推荐：茶盏云
+      content: 免费机场推荐：茶盏云
 ---
 
-# 茶盏云 <Badge type="info" text="试用机场" />
+# 茶盏云 <Badge type="warning" text="免费机场" />
 
 ## 介绍
 
