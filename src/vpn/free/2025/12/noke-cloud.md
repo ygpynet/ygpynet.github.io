@@ -1,6 +1,6 @@
 ---
 date: 2025-12-30T20:47:48Z
-title: 试用机场推荐：NoKe Cloud
+title: 免费机场推荐：NoKe Cloud
 image:
   src: https://i.imgur.com/tSX2ruK.png
   alt: NoKe Cloud
@@ -11,7 +11,7 @@ status: false
 head:
   - - meta
     - property: og:title
-      content: 试用机场推荐：NoKe Cloud
+      content: 免费机场推荐：NoKe Cloud
   - - meta
     - property: og:description
       content: 注册即送 1000GB️/1 次性套餐。
@@ -23,10 +23,10 @@ head:
       content: https://i.imgur.com/tSX2ruK.png
   - - meta
     - property: og:image:alt
-      content: 试用机场推荐：NoKe Cloud
+      content: 免费机场推荐：NoKe Cloud
 ---
 
-# NoKe Cloud <Badge type="info" text="试用机场" />
+# NoKe Cloud <Badge type="warning" text="免费机场" />
 
 ## 介绍
 

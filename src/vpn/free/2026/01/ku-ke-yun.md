@@ -7,7 +7,7 @@ image:
 subheading: 酷可云
 description: 注册即送 100GB️/30 天套餐。
 hyperlink: https://kukeyun.cc/#/register?code=vfnXnikC
-status: false
+status: true
 head:
   - - meta
     - property: og:title
