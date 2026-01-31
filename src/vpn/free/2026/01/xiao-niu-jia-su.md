@@ -38,6 +38,10 @@ head:
 
 <p>注册地址：<ClientOnly><Link :href="$frontmatter.hyperlink" /></ClientOnly></p>
 
+::: tip
+前往 `更多` > `用户中心` > `礼品卡兑换` 输入兑换卡代码 `兑换`。
+:::
+
 ## 联系方式
 
 <p>频道：<ClientOnly><Link href="https://t.me/usdt0908" /></ClientOnly></p>
