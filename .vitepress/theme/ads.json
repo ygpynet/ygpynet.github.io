@@ -26,7 +26,7 @@
     "link": "https://yyds2-doraemon.site/login/register?invite_code=7j3dYEtw"
   },
   {
-    "id": "ad2",
+    "id": "ad3",
     "title": "糖果云 | 定制 IEPL 专线",
     "descHome": "✅ 不限制设备 ✅ 赠送 Emby 影视库<br>✅ 解锁流媒体 ✅ 最高宽带 1000Mbps",
     "descDoc": "糖果云 | 使用优惠券 ygpy 享 6 折",
@@ -39,7 +39,7 @@
     "link": "https://candytally.diy/web/#/login?code=foHbXFgg"
   },
   {
-    "id": "ad3",
+    "id": "ad4",
     "title": "BiuBiu | IPLC 中转专线",
     "descHome": "✅ 三网传输网络 ✅ 多种流媒体解锁<br>✅ 50+ 全球节点 ✅ 不限个人设备使用",
     "descDoc": "BiuBiu | 使用优惠券 ygpy 享 9 折",
@@ -52,7 +52,7 @@
     "link": "https://biubiux.online/#/register?code=KH6xv0ou"
   },
   {
-    "id": "ad4",
+    "id": "ad5",
     "title": "雪山机场 | 稳定、高速直连",
     "descHome": "✅ 解锁海外流媒体 ✅ 多线接入<br>✅ 支持多地区节点 ✅ 不限客户端连接数量",
     "descDoc": "雪山机场 | 使用优惠券 ygpy 享 9 折",
@@ -63,19 +63,6 @@
     "imgSidebar": "/images/vpn/xueshan/xueshan-vertical-banner.webp",
     "imgAside": "/images/vpn/xueshan/xueshan-small-banner.gif",
     "link": "https://x2.xueshan.shop/#/register?code=pq7dmt6E"
-  },
-  {
-    "id": "ad5",
-    "title": "布丁猫 | 优质专线",
-    "descHome": "✅ 设备不限制 ✅ 流媒体原生解锁<br>✅ 优质专线线路 ✅ 带宽上限 1500 Mbps",
-    "descDoc": "布丁猫 | 使用优惠券 ygpy 享 8 折",
-    "descSidebar": "8 折优惠券 ygpy",
-    "descAside": "布丁猫<br>使用优惠券 ygpy 享 8 折",
-    "imgHome": "/images/vpn/budingmao/budingmao-vertical-banner.webp",
-    "imgDoc": "/images/vpn/budingmao/budingmao-big-banner.webp",
-    "imgSidebar": "/images/vpn/budingmao/budingmao-vertical-banner.webp",
-    "imgAside": "/images/vpn/budingmao/budingmao-small-banner.gif",
-    "link": "https://intl.budingcat.xyz/#/register?code=Z9QwjAp7"
   },
   {
     "id": "ad6",
