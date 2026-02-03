@@ -10,7 +10,10 @@ export default {
         {
           text: "2026",
           collapsed: false,
-          items: [{ text: "1 月", link: "/vpn/free/2026/01/" }],
+          items: [
+            { text: "2 月", link: "/vpn/free/2026/02/" },
+            { text: "1 月", link: "/vpn/free/2026/01/" },
+          ],
         },
         {
           text: "2025",

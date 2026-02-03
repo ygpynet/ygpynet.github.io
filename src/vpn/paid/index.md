@@ -22,7 +22,7 @@ next: false
 ::: details
 <ClientOnly>
 <Img
-        src="https://i.imgur.com/c1Mkm1f.png"
+        src="https://i.imgur.com/PL5fwEu.png"
         alt="“红杏云”价格详情"
     />
 </ClientOnly>
