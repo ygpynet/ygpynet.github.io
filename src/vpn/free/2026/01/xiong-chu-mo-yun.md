@@ -7,7 +7,7 @@ image:
 subheading: 熊出没云
 description: 使用优惠券 0 元购买 500GB️/30 天套餐。
 hyperlink: https://xiongchumo.shop/#/register?code=pnoJLxAV
-status: false
+status: true
 head:
   - - meta
     - property: og:title

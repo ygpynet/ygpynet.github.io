@@ -7,7 +7,7 @@ image:
 subheading: 绒爪云
 description: 使用优惠券 0 元购买 100GB️/30 天套餐。
 hyperlink: https://www.furclaw.top/#/register?code=eA4L9tZh
-status: false
+status: true
 head:
   - - meta
     - property: og:title
