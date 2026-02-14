@@ -50,23 +50,23 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
         reactions-enabled="1" emit-metadata="0" input-position="bottom" theme="preferred_color_scheme" lang="zh-CN"
         crossorigin="anonymous" async />
     </template>
-    <!-- <template #sidebar-nav-after>
+    <template #sidebar-nav-after>
       <ClientOnly>
         <AdsSidebar />
       </ClientOnly>
-    </template> -->
+    </template>
     <template #aside-outline-after>
       <br>
       <ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-4067183961394663" data-ad-slot="9581966572"
         data-ad-format="auto" data-full-width-responsive="true"></ins>
     </template>
-    <!-- <template #aside-ads-before>
+    <template #aside-ads-before>
       <div class="doc-aside-ads">
         <ClientOnly>
           <Ads />
         </ClientOnly>
       </div>
-    </template> -->
+    </template>
   </DefaultTheme.Layout>
 </template>
 

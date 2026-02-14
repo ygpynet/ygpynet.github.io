@@ -40,9 +40,9 @@ features:
 ---
 
 <p></p>
-<!-- <ClientOnly>
+<ClientOnly>
   <CardHorizontal />
-</ClientOnly> -->
+</ClientOnly>
 
 ## 使用指南
 
