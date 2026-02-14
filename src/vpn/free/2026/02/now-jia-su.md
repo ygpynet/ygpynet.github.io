@@ -1,12 +1,12 @@
 ---
-date: 2026-02-12T10:40:43Z
+date: 2026-02-12T10:41:24Z
 title: 试用机场推荐：Now 加速
 image:
   src: https://i.imgur.com/kiPm80S.png
   alt: Now 加速
 subheading: Now 加速
 description: 使用优惠券 0 元购买 30GB️/30 天套餐。
-hyperlink: https://www.nowjiasu.cc/
+hyperlink: https://www.nowjiasu.cc/#/register?code=Xurhzwof
 status: false
 head:
   - - meta
