@@ -7,7 +7,7 @@ image:
 subheading: 看片云
 description: 使用优惠券 0 元购买 100GB️/30 天套餐。
 hyperlink: https://看片云.shop/#/register?code=Jb2rYbtx
-status: false
+status: true
 head:
   - - meta
     - property: og:title

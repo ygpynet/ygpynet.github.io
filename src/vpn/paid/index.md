@@ -109,7 +109,7 @@ next: false
 ::: details
 <ClientOnly>
 <Img
-        src="https://i.imgur.com/gh14JaL.png"
+        src="https://i.imgur.com/uO1G8IR.png"
         alt="“BiuBiu”价格详情"
     />
 </ClientOnly>
