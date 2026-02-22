@@ -6,7 +6,7 @@ image:
   alt: 嘻游记
 subheading: 嘻游记
 description: 使用优惠券 0 元购买 1000GB️/30 天套餐。
-hyperlink: https://woai68.386208.xyz/#/?code=my8HbvHZ
+hyperlink: https://xiyouji.tk/
 status: false
 head:
   - - meta
@@ -40,7 +40,7 @@ head:
 
 ## 联系方式
 
-<p>频道：无</p>
+<p>频道：<ClientOnly><Link href="https://t.me/xiyoujiyun1" /></ClientOnly></p>
 <p>群组：<ClientOnly><Link href="https://t.me/xiyoujiyun" /></ClientOnly></p>
 
 ## 详情信息

@@ -7,7 +7,7 @@ image:
 subheading: 充电站
 description: 使用优惠券 0 元购买 666GB️/30 天套餐。
 hyperlink: https://cdz.asia/#/register?code=6Yn55vFx
-status: false
+status: true
 head:
   - - meta
     - property: og:title

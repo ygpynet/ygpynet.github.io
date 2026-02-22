@@ -7,7 +7,7 @@ image:
 subheading: WeiJia
 description: 使用优惠券 0 元购买 100GB️/30 天套餐。
 hyperlink: https://weijia.pics/#/register?code=BgQPSS9f
-status: false
+status: true
 head:
   - - meta
     - property: og:title
@@ -40,7 +40,7 @@ head:
 
 ## 联系方式
 
-<p>频道：无</p>
+<p>频道：<ClientOnly><Link href="https://t.me/weijiapd" /></ClientOnly></p>
 <p>群组：<ClientOnly><Link href="https://t.me/weijiapics" /></ClientOnly></p>
 
 ## 详情信息

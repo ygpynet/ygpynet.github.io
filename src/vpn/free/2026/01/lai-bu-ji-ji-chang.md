@@ -7,7 +7,7 @@ image:
 subheading: 来不及机场
 description: 使用优惠券 0 元购买 100GB️/30 天套餐。
 hyperlink: https://laibuji.pics/#/register?code=2Mj4rSDe
-status: false
+status: true
 head:
   - - meta
     - property: og:title

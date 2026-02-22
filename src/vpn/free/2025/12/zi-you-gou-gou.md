@@ -7,7 +7,7 @@ image:
 subheading: 自由狗狗
 description: 0 元购买 10GB️/30 天套餐。
 hyperlink: https://www.freedogdog.com/register?code=cd37026d
-status: false
+status: true
 head:
   - - meta
     - property: og:title

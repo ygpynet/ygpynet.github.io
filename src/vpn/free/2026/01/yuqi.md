@@ -7,7 +7,7 @@ image:
 subheading: YUQI
 description: 使用优惠券 0 元购买 500GB️/30 天套餐。
 hyperlink: https://yuqi.best/#/register?code=3sLSlorD
-status: false
+status: true
 head:
   - - meta
     - property: og:title
