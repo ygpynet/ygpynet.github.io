@@ -2,7 +2,7 @@
 giscus: false
 ---
 
-# 免费机场推荐
+# 免费机场推荐 2025 年 12 月
 
 <!--@include: ../doc-top.md-->
 
@@ -44,16 +44,20 @@ giscus: false
 import { computed } from 'vue'
 import { data as index } from '../../../.vitepress/theme/data/vpn/free.data.js'
 
+const isDec2025 = (item) =>
+  typeof item.frontmatter.date === 'string' &&
+  item.frontmatter.date.startsWith('2026-02')
+
 const inactiveList = computed(() =>
-  index.slice(0,30).filter(item => item.frontmatter.status === false)
+  index.filter(item => item.frontmatter.status === false && isDec2025(item))
+  
 )
 
 const activeList = computed(() =>
-  index.slice(0,30).filter(item => item.frontmatter.status === true)
+  index.filter(item => item.frontmatter.status === true && isDec2025(item))
 )
 
 const hyperlinks = index
-  .filter(item => item.frontmatter?.status === false)
   .map(item => item.frontmatter?.hyperlink)
   .filter(Boolean)
 
