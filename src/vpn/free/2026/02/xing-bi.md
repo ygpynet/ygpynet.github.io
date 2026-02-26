@@ -5,7 +5,7 @@ image:
   src: https://i.imgur.com/iYyWPXr.png
   alt: 星币
 subheading: 星币
-description: 使用优惠券 0 元购买 200GB️/3 天套餐。
+description: 使用优惠券 0 元购买 200GB️/3 年套餐。
 hyperlink: https://星币.com/#/register?code=oYwfgTmr
 status: false
 head:
@@ -14,7 +14,7 @@ head:
       content: 免费机场推荐：星币
   - - meta
     - property: og:description
-      content: 使用优惠券 0 元购买 200GB️/3 天套餐。
+      content: 使用优惠券 0 元购买 200GB️/3 年套餐。
   - - meta
     - property: og:url
       content: https://ygpy.net/vpn/free/2026/02/xing-bi.html
