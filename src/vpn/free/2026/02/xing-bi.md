@@ -30,7 +30,7 @@ head:
 
 ## 介绍
 
-使用优惠券 <ClientOnly><Tooltip code="8888" /></ClientOnly> 0 元购买“免费套餐”200GB️/3 天套餐。
+使用优惠券 <ClientOnly><Tooltip code="8888" /></ClientOnly> 0 元购买“免费套餐”200GB️/3 年套餐。
 
 节点位置：美国、日本、香港
 
