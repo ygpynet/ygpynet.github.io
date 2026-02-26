@@ -7,7 +7,7 @@ image:
 subheading: 老六机场
 description: 使用优惠券 0 元购买 10GB️/1 次性套餐。
 hyperlink: https://lao666.cc/#/register?code=QcDlMxI3
-status: false
+status: true
 head:
   - - meta
     - property: og:title
