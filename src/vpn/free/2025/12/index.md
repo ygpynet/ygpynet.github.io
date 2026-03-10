@@ -4,7 +4,7 @@ giscus: false
 
 # 免费机场推荐 2025 年 12 月
 
-<!--@include: ../doc-top.md-->
+<!--@include: ../../../doc-top.md-->
 
 ## 最新
 
