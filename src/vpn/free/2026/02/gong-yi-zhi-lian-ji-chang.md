@@ -6,7 +6,7 @@ image:
   alt: 公益直连机场
 subheading: 公益直连机场
 description: 0 元购买 10TB/30 天套餐。
-hyperlink: https://myp.dpenly.org/#/register?code=eoqjIzHq
+hyperlink: https://myp.dpenly.org/#/register?code=pvc6MZf0
 status: false
 head:
   - - meta

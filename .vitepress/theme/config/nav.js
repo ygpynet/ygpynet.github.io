@@ -1,20 +1,24 @@
 export default [
-    { text: '首页', link: '/' },
-    {
-        text: '机场推荐',
-        items: [
-            { text: '试用机场', link: '/vpn/free/', activeMatch: '/vpn/free/' },
-            { text: '免费机场', link: '/vpn/collections' },
-            { text: '付费机场', link: '/vpn/paid' }
-        ]
-    },
-    {
-        text: '软件列表',
-        activeMatch: '/app/',
-        items: [
-            { text: '代理软件', link: '/app/proxy/', activeMatch: '/app/proxy/' },
-            { text: '测速工具', link: '/app/speed' }
-        ]
-    },
-    { text: '网址导航', link: '/nav/' }
-]
+  { text: "首页", link: "/" },
+  {
+    text: "机场推荐",
+    items: [
+      {
+        text: "试用机场",
+        link: "/vpn/free/2026/03/",
+        activeMatch: "/vpn/free/2026/03",
+      },
+      { text: "免费机场", link: "/vpn/collections" },
+      { text: "付费机场", link: "/vpn/paid" },
+    ],
+  },
+  {
+    text: "软件列表",
+    activeMatch: "/app/",
+    items: [
+      { text: "代理软件", link: "/app/proxy/", activeMatch: "/app/proxy/" },
+      { text: "测速工具", link: "/app/speed" },
+    ],
+  },
+  { text: "网址导航", link: "/nav/" },
+];

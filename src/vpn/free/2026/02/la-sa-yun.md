@@ -7,7 +7,7 @@ image:
 subheading: 拉萨云
 description: 使用优惠券 0 元购买 100GB️/30 天套餐。
 hyperlink: https://拉萨云.shop/#/register?code=6ccZ3Kk4
-status: false
+status: true
 head:
   - - meta
     - property: og:title
