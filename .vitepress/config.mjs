@@ -1,0 +1,52 @@
+import { defineConfig } from "vitepress";
+import tailwindcss from "@tailwindcss/vite";
+import themeConfig from "./config/themeConfig";
+import head from "./config/headConfig";
+
+// 不要“/”结尾
+const siteUrl = "https://ygpy.net";
+
+// https://vitepress.dev/zh/reference/site-config
+export default defineConfig({
+  title: "一个朋友",
+  description:
+    "出海工具推荐网站。涵盖机场推荐、软件列表、网址导航。一站式解决你的出海难题。",
+  head,
+  lang: "zh-CN",
+  srcDir: "./src",
+  lastUpdated: true,
+  markdown: {
+    container: {
+      tipLabel: "提示",
+      warningLabel: "警告",
+      dangerLabel: "危险",
+      infoLabel: "信息",
+      detailsLabel: "详细信息",
+      image: {
+        lazyLoading: true,
+      },
+    },
+  },
+  vite: {
+    plugins: [tailwindcss()],
+    server: {
+      host: "0.0.0.0",
+    },
+  },
+  sitemap: {
+    hostname: siteUrl,
+    lastmodDateOnly: true,
+  },
+  transformPageData(pageData) {
+    const canonicalUrl = `${siteUrl}/${pageData.relativePath}`
+      .replace(/index\.md$/, "")
+      .replace(/\.md$/, ".html");
+
+    pageData.frontmatter.head ??= [];
+    pageData.frontmatter.head.push([
+      "link",
+      { rel: "canonical", href: canonicalUrl },
+    ]);
+  },
+  themeConfig,
+});
