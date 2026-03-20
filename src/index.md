@@ -93,26 +93,21 @@ features:
   <div class="vp-raw">
     <fwb-accordion flushed>
       <fwb-accordion-panel>
+        <fwb-accordion-header>机场被 Chrome 标记“危险网站”？</fwb-accordion-header>
+        <fwb-accordion-content>
+          <p class="mb-2 text-gray-500 dark:text-gray-400">
+            主要原因是 Google 安全浏览检测到潜在钓鱼风险、证书不规范及用户投诉，常因其非官方性质而误判。
+          </p>
+          <p class="text-gray-500 dark:text-gray-400">
+            可通过（点击“详情”> 访问“这个不安全的网站”）绕过警告。
+          </p>
+        </fwb-accordion-content>
+      </fwb-accordion-panel>
+      <fwb-accordion-panel>
         <fwb-accordion-header>为什么我注册不了？提示“本网站已关闭注册”？</fwb-accordion-header>
         <fwb-accordion-content>
           <p class="mb-2 text-gray-500 dark:text-gray-400">
             许多机场会不定时关闭免费注册，建议关注官方公告或加入机场群组获取最新邀请码。
-          </p>
-        </fwb-accordion-content>
-      </fwb-accordion-panel>
-      <fwb-accordion-panel>
-        <fwb-accordion-header>优惠劵在哪里？为什么有时显示失效？</fwb-accordion-header>
-        <fwb-accordion-content>
-          <p class="mb-2 text-gray-500 dark:text-gray-400">
-            优惠劵一般发布在机场简介、群组或频道说明中。免费劵数量有限，用完即失效，需及时领取或购买。
-          </p>
-        </fwb-accordion-content>
-      </fwb-accordion-panel>
-      <fwb-accordion-panel>
-        <fwb-accordion-header>提示“邀请码无效”或“邀请次数为 0”怎么办？</fwb-accordion-header>
-        <fwb-accordion-content>
-          <p class="mb-2 text-gray-500 dark:text-gray-400">
-            说明邀请码已失效或使用完毕，可换其他邀请码或加入机场群组获取新入口。 
           </p>
         </fwb-accordion-content>
       </fwb-accordion-panel>
@@ -125,10 +120,34 @@ features:
         </fwb-accordion-content>
       </fwb-accordion-panel>
       <fwb-accordion-panel>
+        <fwb-accordion-header>提示“邀请码无效”或“邀请次数为 0”怎么办？</fwb-accordion-header>
+        <fwb-accordion-content>
+          <p class="mb-2 text-gray-500 dark:text-gray-400">
+            说明邀请码已失效或使用完毕，可换其他邀请码或加入机场群组获取新入口。 
+          </p>
+        </fwb-accordion-content>
+      </fwb-accordion-panel>
+      <fwb-accordion-panel>
+        <fwb-accordion-header>优惠劵在哪里？为什么有时显示失效？</fwb-accordion-header>
+        <fwb-accordion-content>
+          <p class="mb-2 text-gray-500 dark:text-gray-400">
+            优惠劵一般发布在机场简介、群组或频道说明中。免费劵数量有限，用完即失效，需及时领取或购买。
+          </p>
+        </fwb-accordion-content>
+      </fwb-accordion-panel>
+      <fwb-accordion-panel>
         <fwb-accordion-header>免费机场会跑路吗？安全吗？</fwb-accordion-header>
         <fwb-accordion-content>
           <p class="mb-2 text-gray-500 dark:text-gray-400">
             免费机场随时可能关闭或不稳定是常态，建议优先选择可靠付费机场，或分批试用多个免费机场备用。
+          </p>
+        </fwb-accordion-content>
+      </fwb-accordion-panel>
+      <fwb-accordion-panel>
+        <fwb-accordion-header>备注“已失效”的定义？</fwb-accordion-header>
+        <fwb-accordion-content>
+          <p class="mb-2 text-gray-500 dark:text-gray-400">
+            多种含义，指机场服务提供商重铸、兼并和失联等。
           </p>
         </fwb-accordion-content>
       </fwb-accordion-panel>
