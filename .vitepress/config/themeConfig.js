@@ -13,8 +13,8 @@ export default {
     label: "页面导航",
   },
   footer: {
-    message: `<a href="/about">关于我们</a> | <a href="/link-exchange">友情链接</a> | <a href="/privacy-policy">隐私权政策</a>`,
-    copyright: `© ${new Date().getFullYear()} 一个朋友`,
+    message: `<a href="/about">关于我们</a> | <a href="/link-exchange">友情链接</a> | <a href="/disclaimer">免责声明</a> | <a href="/privacy-policy">隐私权政策</a>`,
+    copyright: `© ${new Date().getFullYear()} 一个朋友 CC BY-NC-ND 4.0`,
   },
   lastUpdated: {
     text: "最后更新于",
