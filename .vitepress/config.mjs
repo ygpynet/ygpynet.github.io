@@ -1,7 +1,7 @@
 import { defineConfig } from "vitepress";
 import tailwindcss from "@tailwindcss/vite";
-import themeConfig from "./config/themeConfig";
-import head from "./config/headConfig";
+import themeConfig from "./config/theme";
+import head from "./config/head";
 
 // 不要“/”结尾
 const siteUrl = "https://ygpy.net";

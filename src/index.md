@@ -4,11 +4,11 @@ titleTemplate: 免费机场推荐
 layout: home
 
 hero:
-  name: "一个朋友"
-  text: "出海工具推荐"
+  name: 一个朋友
+  text: 出海工具推荐
   tagline: 出海第一站，从这里开始
   image:
-    src: /images/logo-light.webp
+    src: /images/hero-image.webp
     alt: 一个朋友
   actions:
     - theme: brand

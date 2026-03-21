@@ -1,4 +1,4 @@
-import nav from "./navItem";
+import nav from "./nav";
 import sidebar from "./sidebar";
 
 export default {
