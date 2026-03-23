@@ -6,7 +6,7 @@ import runPlugins from "./plugins"
 import Ads from "./components/Ads.vue"
 import AdSense from './components/AdSense.vue'
 
-const { isDark } = useData()
+const { isDark, page } = useData()
 const route = useRoute()
 
 const init = () => {
@@ -66,7 +66,7 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
             <Ads slot="Sidebar" :position="1" />
         </template>
         <template #doc-before>
-            <Ads slot="Doc" :position="2" />
+            <Ads v-if="page.frontmatter.ads !== false" slot="Doc" :position="2" />
             <br>
         </template>
         <template #doc-after>

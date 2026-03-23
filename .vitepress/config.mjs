@@ -1,7 +1,7 @@
 import { defineConfig } from "vitepress";
 import tailwindcss from "@tailwindcss/vite";
-import themeConfig from "./config/theme";
 import head from "./config/head";
+import themeConfig from "./config/theme";
 
 // 不要“/”结尾
 const siteUrl = "https://ygpy.net";
@@ -22,9 +22,9 @@ export default defineConfig({
       dangerLabel: "危险",
       infoLabel: "信息",
       detailsLabel: "详细信息",
-      image: {
-        lazyLoading: true,
-      },
+    },
+    image: {
+      lazyLoading: true,
     },
   },
   vite: {
