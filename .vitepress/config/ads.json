@@ -24,12 +24,12 @@
   },
   {
     "id": 2,
-    "title": "哆啦 A 梦",
+    "title": "哆啦 A 梦 VPN",
     "link": "https://yyds2-doraemon.site/login/register?invite_code=7j3dYEtw",
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/doraemon/home.webp",
-        "details": "哆啦 A 梦"
+        "details": "哆啦 A 梦 VPN"
       },
       "Doc": {
         "image": "/images/vpn/paid/doraemon/doc.webp",
@@ -93,12 +93,12 @@
   },
   {
     "id": 5,
-    "title": "雪山",
+    "title": "雪山机场",
     "link": "https://x2.xueshan.shop/#/register?code=pq7dmt6E",
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/xueshan/home.webp",
-        "details": "雪山"
+        "details": "雪山机场"
       },
       "Doc": {
         "image": "/images/vpn/paid/xueshan/doc.webp",
@@ -162,12 +162,12 @@
   },
   {
     "id": 8,
-    "title": "山海",
+    "title": "山海机场",
     "link": "https://shanhai.cfd/#/register?code=t6LtRJem",
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/shanhai/home.webp",
-        "details": "山海"
+        "details": "山海机场"
       },
       "Doc": {
         "image": "/images/vpn/paid/shanhai/doc.webp",
