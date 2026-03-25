@@ -30,6 +30,13 @@ export default [
   [
     "script",
     {
+      defer: "",
+      src: "https://www.unpkg.com/@feelback/js/dist/browser-auto.js",
+    },
+  ],
+  [
+    "script",
+    {
       async: "",
       src: "https://www.googletagmanager.com/gtag/js?id=G-QCKBKDQ290",
     },

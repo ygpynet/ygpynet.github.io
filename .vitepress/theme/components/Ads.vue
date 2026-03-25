@@ -64,42 +64,36 @@ onMounted(() => {
 
 @media (min-width: 1440px) {
   .ads.doc {
-    width: 688px;
     height: 462px;
   }
 }
 
 @media (max-width: 1024px) and (min-width: 769px) {
   .ads.doc {
-    width: 624px;
     height: 426px;
   }
 }
 
 @media (max-width: 768px) and (min-width: 426px) {
   .ads.doc {
-    width: 688px;
     height: 462px;
   }
 }
 
 @media (max-width: 425px) and (min-width: 376px) {
   .ads.doc {
-    width: 377px;
     height: 287.06px;
   }
 }
 
 @media (max-width: 375px) and (min-width: 321px) {
   .ads.doc {
-    width: 327px;
     height: 258.94px;
   }
 }
 
 @media (max-width: 320px) {
   .ads.doc {
-    width: 272px;
     height: 256px;
   }
 }
