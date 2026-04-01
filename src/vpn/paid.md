@@ -142,30 +142,6 @@
 />
 :::
 
-## KooDog <Badge type="warning" text="专线机场" />
-
-使用优惠券 `ygpy` 享 8.8 折购买“KooDog 系列”套餐。
-
-- 节点：香港、新加坡、日本、美国、台湾、韩国、印度尼西亚、泰国、澳大利亚、越南……
-- 协议：Trojan
-- 网站：<Link href="https://www.kdcloud.uk//#/register?code=iTtBwX8M" />
-- 频道：<Link href="https://t.me/KooDogChannel" />
-- 群组：<Link href="https://t.me/KooDogGroup" />
-
-::: details
-
-<Img
-    src="https://i.imgur.com/DWHLO7m.png"
-    alt="“KooDog”价格详情"
-/>
-
-<p></p>
-<Img
-    src="https://i.imgur.com/cgmX7dZ.png"
-    alt="“KooDog”测试报告"
-/>
-:::
-
 ## 山海机场 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" /> <Badge type="warning" text="专线机场" />
 
 使用优惠券 `ygpy` 享 8 折购买“山海机场系列”套餐。

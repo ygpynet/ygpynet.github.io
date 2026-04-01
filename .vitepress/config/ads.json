@@ -139,29 +139,6 @@
   },
   {
     "id": 7,
-    "title": "KooDog",
-    "link": "https://www.kdcloud.uk/#/register?code=iTtBwX8M",
-    "slots": {
-      "Home": {
-        "image": "/images/vpn/paid/koodog/home.webp",
-        "details": "KooDog"
-      },
-      "Doc": {
-        "image": "/images/vpn/paid/koodog/doc.webp",
-        "details": "输入 ygpy 优惠 -12%"
-      },
-      "Sidebar": {
-        "image": "/images/vpn/paid/koodog/sidebar.webp",
-        "details": "中转 + 专线线路<br>低至 10.00 元 200GB"
-      },
-      "Aside": {
-        "image": "/images/vpn/paid/koodog/aside.webp",
-        "details": "让生活省心<br>让工作提速"
-      }
-    }
-  },
-  {
-    "id": 8,
     "title": "山海机场",
     "link": "https://shanhai.cfd/#/register?code=t6LtRJem",
     "slots": {
@@ -184,7 +161,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 8,
     "title": "乌龟加速",
     "link": "https://wuguijiasu.com/#/login?code=UZEMrWwE",
     "slots": {
