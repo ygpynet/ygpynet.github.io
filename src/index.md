@@ -151,6 +151,14 @@ features:
           </p>
         </fwb-accordion-content>
       </fwb-accordion-panel>
+      <fwb-accordion-panel>
+        <fwb-accordion-header>站内所有图片均无法显示？</fwb-accordion-header>
+        <fwb-accordion-content>
+          <p class="mb-2 text-gray-500 dark:text-gray-400">
+            尝试切换网络节点（或使用其他网络环境）。更换节点后通常可以恢复图片显示。
+          </p>
+        </fwb-accordion-content>
+      </fwb-accordion-panel>
     </fwb-accordion>
   </div>
 </ClientOnly>
