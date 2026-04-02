@@ -92,29 +92,6 @@
     }
   },
   {
-    "id": 5,
-    "title": "雪山机场",
-    "link": "https://x2.xueshan.shop/#/register?code=pq7dmt6E",
-    "slots": {
-      "Home": {
-        "image": "/images/vpn/paid/xueshan/home.webp",
-        "details": "雪山机场"
-      },
-      "Doc": {
-        "image": "/images/vpn/paid/xueshan/doc.webp",
-        "details": "输入 ygpy 优惠 -10%"
-      },
-      "Sidebar": {
-        "image": "/images/vpn/paid/xueshan/sidebar.webp",
-        "details": "直连线路<br>低至 9.90 元 500GB"
-      },
-      "Aside": {
-        "image": "/images/vpn/paid/xueshan/aside.webp",
-        "details": "从这开始连接世界<br>畅享全球网络加速"
-      }
-    }
-  },
-  {
     "id": 6,
     "title": "秒连云",
     "link": "https://mly518.com/login/?code=wZdobGPq",

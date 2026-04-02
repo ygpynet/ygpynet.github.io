@@ -96,7 +96,7 @@
 />
 :::
 
-## 雪山机场 <Badge type="info" text="直连机场" />
+<!-- ## 雪山机场 <Badge type="info" text="直连机场" />
 
 使用优惠券 `ygpy` 享 9 折购买“雪山机场非一次性”套餐。
 
@@ -117,7 +117,7 @@
     src="https://i.imgur.com/2cefrO1.png"
     alt="“雪山机场”测试报告"
 />
-:::
+::: -->
 
 ## 秒连云 <Badge type="tip" text="中转机场" />
 
