@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /vpn/test/2026/03
+      link: /vpn/test/2026/04
     - theme: alt
       text: 更新日志
       link: /changelog/
@@ -21,7 +21,7 @@ features:
   - icon: ✈️
     title: 机场推荐
     details: 推荐试用机场，解决上网难题。
-    link: /vpn/test/2026/03
+    link: /vpn/test/2026/04
     linkText: 了解更多
   - icon: 💻
     title: 软件列表

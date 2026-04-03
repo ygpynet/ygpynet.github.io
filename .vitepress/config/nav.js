@@ -3,7 +3,7 @@ export default [
   {
     text: "机场推荐",
     items: [
-      { text: "试用机场", link: "/vpn/test/2026/03" },
+      { text: "试用机场", link: "/vpn/test/2026/04" },
       { text: "免费机场", link: "/vpn/free" },
       { text: "付费机场", link: "/vpn/paid" },
     ],
