@@ -92,7 +92,7 @@
     }
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "秒连云",
     "link": "https://mly518.com/login/?code=wZdobGPq",
     "slots": {
@@ -115,7 +115,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "山海机场",
     "link": "https://shanhai.cfd/#/register?code=t6LtRJem",
     "slots": {
@@ -138,7 +138,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 7,
     "title": "乌龟加速",
     "link": "https://wuguijiasu.com/#/login?code=UZEMrWwE",
     "slots": {
@@ -157,6 +157,29 @@
       "Aside": {
         "image": "/images/vpn/paid/wuguijiasu/aside.webp",
         "details": "跑的快的<br>不一定是兔子"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "title": "Airpipi",
+    "link": "https://airpipi.com/login/register?invite_code=CX0hAqcC",
+    "slots": {
+      "Home": {
+        "image": "/images/vpn/paid/airpipi/home.webp",
+        "details": "Airpipi"
+      },
+      "Doc": {
+        "image": "/images/vpn/paid/airpipi/doc.webp",
+        "details": "输入 airpipi8 优惠 -10%"
+      },
+      "Sidebar": {
+        "image": "/images/vpn/paid/airpipi/sidebar.webp",
+        "details": "专线线路<br>低至 20.00 元 135GB"
+      },
+      "Aside": {
+        "image": "/images/vpn/paid/airpipi/aside.webp",
+        "details": "一键畅享全球<br>速度超出你想象"
       }
     }
   }
