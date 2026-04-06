@@ -92,29 +92,6 @@
     }
   },
   {
-    "id": 5,
-    "title": "秒连云",
-    "link": "https://mly518.com/login/?code=wZdobGPq",
-    "slots": {
-      "Home": {
-        "image": "/images/vpn/paid/miaolianyun/home.webp",
-        "details": "秒连云"
-      },
-      "Doc": {
-        "image": "/images/vpn/paid/miaolianyun/doc.webp",
-        "details": "低至 8.00 元 160GB"
-      },
-      "Sidebar": {
-        "image": "/images/vpn/paid/miaolianyun/sidebar.webp",
-        "details": "中转线路<br>低至 8.00 元 160GB"
-      },
-      "Aside": {
-        "image": "/images/vpn/paid/miaolianyun/aside.webp",
-        "details": "全球加速节点<br>中转加密线路"
-      }
-    }
-  },
-  {
     "id": 6,
     "title": "山海机场",
     "link": "https://shanhai.cfd/#/register?code=t6LtRJem",

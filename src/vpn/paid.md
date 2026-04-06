@@ -129,6 +129,10 @@
 - 频道：<Link href="https://t.me/mly_yyds" />
 - 群组：<Link href="https://t.me/miaolianyun" />
 
+::: tip
+谨慎付款，该机场出现短期内节点无法使用，待机场主维护。后续请关注该群群组信息。
+:::
+
 ::: details
 <Img
     src="https://i.imgur.com/PH5jvwz.png"
