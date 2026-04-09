@@ -119,7 +119,7 @@
 />
 ::: -->
 
-## 秒连云 <Badge type="tip" text="中转机场" />
+## 秒连云 [维护中] <Badge type="tip" text="中转机场" />
 
 低至 8.00 元购买“秒连云系列”套餐。
 
@@ -129,7 +129,7 @@
 - 频道：<Link href="https://t.me/mly_yyds" />
 - 群组：<Link href="https://t.me/miaolianyun" />
 
-::: tip
+::: danger
 谨慎付款，该机场出现短期内节点无法使用，待机场主维护。后续请关注该群群组信息。
 :::
 
