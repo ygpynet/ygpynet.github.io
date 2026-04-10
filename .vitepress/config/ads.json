@@ -92,7 +92,7 @@
     }
   },
   {
-    "id": 6,
+    "id": 5,
     "title": "山海机场",
     "link": "https://shanhai.cfd/#/register?code=t6LtRJem",
     "slots": {
@@ -115,7 +115,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "乌龟加速",
     "link": "https://wuguijiasu.com/#/login?code=UZEMrWwE",
     "slots": {
@@ -138,7 +138,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 7,
     "title": "Airpipi",
     "link": "https://airpipi.com/login/register?invite_code=CX0hAqcC",
     "slots": {
@@ -157,6 +157,29 @@
       "Aside": {
         "image": "/images/vpn/paid/airpipi/aside.webp",
         "details": "一键畅享全球<br>速度超出你想象"
+      }
+    }
+  },
+  {
+    "id": 8,
+    "title": "星驰加速",
+    "link": "https://k.jsq88.net/",
+    "slots": {
+      "Home": {
+        "image": "/images/vpn/paid/xingch/home.webp",
+        "details": "星驰加速"
+      },
+      "Doc": {
+        "image": "/images/vpn/paid/xingch/doc.webp",
+        "details": "低至 9.00 元无限流量"
+      },
+      "Sidebar": {
+        "image": "/images/vpn/paid/xingch/sidebar.webp",
+        "details": "专线线路<br>低至 9.00 元无限流量"
+      },
+      "Aside": {
+        "image": "/images/vpn/paid/xingch/aside.webp",
+        "details": "覆盖全球的高质量网络<br>最稳定可靠的 VPN"
       }
     }
   }

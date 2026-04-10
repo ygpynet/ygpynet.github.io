@@ -216,3 +216,26 @@
     alt="“Airpipi”测试报告"
 />
 :::
+
+## 星驰加速 <Badge type="warning" text="专线机场" />
+
+低至 9.90 元购买“VIP 会员”套餐。
+
+- 节点：香港、台湾、美国、日本、新加坡、韩国、德国、英国、波兰、俄罗斯、荷兰……
+- 协议：VMess
+- 网站：<Link href="https://k.jsq88.net/" />
+- 频道：<Link href="https://t.me/xcvpnpd2" />
+- 群组：<Link href="https://t.me/xcvpn_official" />
+
+::: details
+<Img
+    src="https://i.imgur.com/Mc4yINi.png"
+    alt="“星驰加速”价格详情"
+/>
+
+<p></p>
+<Img
+    src="https://i.imgur.com/zfk3JwT.png"
+    alt="“星驰加速”测试报告"
+/>
+:::
