@@ -27,10 +27,10 @@ ads: false
 ## 社交媒体
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-    <Card link="https://www.instagram.com/" icon="../images/nav/instagram.ico" title="Instagram" details="在线图片及视频分享的社群应用程序" />
-    <Card link="https://x.com/" icon="../images/nav/x.ico" title="X" details="全球顶尖的社交媒体平台之一" />
-    <Card link="https://www.reddit.com/" icon="../images/nav/reddit.ico" title="Reddit" details="娱乐、社交及新闻网站" />
-    <Card link="https://web.telegram.org/" icon="../images/nav/telegram.ico" title="Telegram" details="跨平台的即时通信软件" />
+    <Card link="https://www.instagram.com/" icon="../images/nav/instagram.ico" title="Instagram" details="在线图片及视频分享的社群应用程序。" />
+    <Card link="https://x.com/" icon="../images/nav/x.ico" title="X" details="全球顶尖的社交媒体平台之一。" />
+    <Card link="https://www.reddit.com/" icon="../images/nav/reddit.ico" title="Reddit" details="娱乐、社交及新闻网站。" />
+    <Card link="https://web.telegram.org/" icon="../images/nav/telegram.ico" title="Telegram" details="跨平台的即时通信软件。" />
 </div>
 
 ## 电子邮件
