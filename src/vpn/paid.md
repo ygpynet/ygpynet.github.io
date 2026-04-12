@@ -119,33 +119,6 @@
 />
 ::: -->
 
-## 秒连云 [维护中] <Badge type="tip" text="中转机场" />
-
-低至 8.00 元购买“秒连云系列”套餐。
-
-- 节点：香港、日本、新加坡、美国、台湾、土耳其、奥地利、以色列、荷兰、冰岛、瑞士……
-- 协议：Shadowsocks
-- 网站：<Link href="https://mly518.com/login/?code=wZdobGPq" />
-- 频道：<Link href="https://t.me/mly_yyds" />
-- 群组：<Link href="https://t.me/miaolianyun" />
-
-::: danger
-谨慎付款，该机场出现短期内节点无法使用，待机场主维护。后续请关注该群群组信息。
-:::
-
-::: details
-<Img
-    src="https://i.imgur.com/PH5jvwz.png"
-    alt="“秒连云”价格详情"
-/>
-
-<p></p>
-<Img
-    src="https://i.imgur.com/kVSAwcc.png"
-    alt="“秒连云”测试报告"
-/>
-:::
-
 ## 山海机场 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" /> <Badge type="warning" text="专线机场" />
 
 使用优惠券 `ygpy` 享 8 折购买“山海机场系列”套餐。
