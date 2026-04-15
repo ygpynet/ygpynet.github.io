@@ -93,6 +93,29 @@
   },
   {
     "id": 5,
+    "title": "秒连云",
+    "link": "https://mly518.com/#/register?code=rsIZCMBM",
+    "slots": {
+      "Home": {
+        "image": "/images/vpn/paid/miaolianyun/home.webp",
+        "details": "秒连云"
+      },
+      "Doc": {
+        "image": "/images/vpn/paid/miaolianyun/doc.webp",
+        "details": "低至 8.00 元 160GB"
+      },
+      "Sidebar": {
+        "image": "/images/vpn/paid/miaolianyun/sidebar.webp",
+        "details": "中转线路<br>低至 8.00 元 160GB"
+      },
+      "Aside": {
+        "image": "/images/vpn/paid/miaolianyun/aside.webp",
+        "details": "全球加速节点<br>中转加密线路"
+      }
+    }
+  },
+  {
+    "id": 6,
     "title": "山海机场",
     "link": "https://shanhai.cfd/#/register?code=t6LtRJem",
     "slots": {
@@ -115,7 +138,7 @@
     }
   },
   {
-    "id": 6,
+    "id": 7,
     "title": "乌龟加速",
     "link": "https://wuguijiasu.com/#/login?code=UZEMrWwE",
     "slots": {
@@ -138,7 +161,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 8,
     "title": "Airpipi",
     "link": "https://airpipi.com/login/register?invite_code=CX0hAqcC",
     "slots": {
@@ -161,7 +184,7 @@
     }
   },
   {
-    "id": 8,
+    "id": 9,
     "title": "星驰加速",
     "link": "https://k.jsq88.net/",
     "slots": {
