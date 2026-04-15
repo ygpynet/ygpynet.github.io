@@ -98,10 +98,10 @@
 
 ## 秒连云 <Badge type="tip" text="中转机场" />
 
-低至 8.00 元购买“秒连云系列”套餐。
+低至 8.00 元购买“120GB”套餐。
 
-- 节点：香港、日本、新加坡、美国、台湾、土耳其、奥地利、以色列、荷兰、冰岛、瑞士……
-- 协议：Shadowsocks
+- 节点：美国、新加坡、香港、日本、台湾
+- 协议：AnyTLS
 - 网站：<Link href="https://mly518.com/#/register?code=rsIZCMBM" />
 - 频道：<Link href="https://t.me/mly_yyds" />
 - 群组：<Link href="https://t.me/miaolianyun" />
@@ -114,7 +114,7 @@
 
 <p></p>
 <Img
-    src="https://i.imgur.com/kVSAwcc.png"
+    src="https://i.imgur.com/BCKq3i2.png"
     alt="“秒连云”测试报告"
 />
 :::
@@ -233,5 +233,28 @@
 <Img
     src="https://i.imgur.com/zfk3JwT.png"
     alt="“星驰加速”测试报告"
+/>
+:::
+
+## 云安云 <Badge type="tip" text="中转机场" />
+
+低至 7.00 元购买“120GB”套餐。
+
+- 节点：美国、新加坡、香港、日本、台湾
+- 协议：AnyTLS
+- 网站：<Link href="https://www.yay520.com/#/register?code=BQmlbNWw" />
+- 频道：<Link href="https://t.me/yunanyu" />
+- 群组：<Link href="https://t.me/yunanyun138" />
+
+::: details
+<Img
+    src="https://i.imgur.com/P4qf8js.png"
+    alt="“云安云”价格详情"
+/>
+
+<p></p>
+<Img
+    src="https://i.imgur.com/BCKq3i2.png"
+    alt="“云安云”测试报告"
 />
 :::

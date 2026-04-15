@@ -205,5 +205,28 @@
         "details": "覆盖全球的高质量网络<br>最稳定可靠的 VPN"
       }
     }
+  },
+  {
+    "id": 10,
+    "title": "云安云",
+    "link": "https://www.yay520.com/#/register?code=BQmlbNWw",
+    "slots": {
+      "Home": {
+        "image": "/images/vpn/paid/yunanyun/home.webp",
+        "details": "云安云"
+      },
+      "Doc": {
+        "image": "/images/vpn/paid/yunanyun/doc.webp",
+        "details": "低至 7.00 元 120GB"
+      },
+      "Sidebar": {
+        "image": "/images/vpn/paid/yunanyun/sidebar.webp",
+        "details": "中转线路<br>低至 7.00 元 120GB"
+      },
+      "Aside": {
+        "image": "/images/vpn/paid/yunanyun/aside.webp",
+        "details": "定位高质量机场<br>万兆网络极速连接"
+      }
+    }
   }
 ]
