@@ -138,29 +138,6 @@
     }
   },
   {
-    "id": 7,
-    "title": "乌龟加速",
-    "link": "https://wuguijiasu.com/#/login?code=UZEMrWwE",
-    "slots": {
-      "Home": {
-        "image": "/images/vpn/paid/wuguijiasu/home.webp",
-        "details": "乌龟加速"
-      },
-      "Doc": {
-        "image": "/images/vpn/paid/wuguijiasu/doc.webp",
-        "details": "输入 wgjsq 优惠 -30%"
-      },
-      "Sidebar": {
-        "image": "/images/vpn/paid/wuguijiasu/sidebar.webp",
-        "details": "专线线路<br>低至 18.00 元 200GB"
-      },
-      "Aside": {
-        "image": "/images/vpn/paid/wuguijiasu/aside.webp",
-        "details": "跑的快的<br>不一定是兔子"
-      }
-    }
-  },
-  {
     "id": 8,
     "title": "Airpipi",
     "link": "https://airpipi.com/login/register?invite_code=CX0hAqcC",
