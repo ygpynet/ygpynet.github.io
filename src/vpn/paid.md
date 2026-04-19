@@ -33,7 +33,7 @@
 
 - 节点：香港、新加坡、日本、台湾、韩国、印度、阿联酋、德国、美国、荷兰
 - 协议：Trojan、VLESS、Shadowsocks
-- 网站：<Link href="https://yyds2-doraemon.site/login/register?invite_code=7j3dYEtw" />
+- 网站：<Link href="https://store.yyds2-doraemon.site/login/register?invite_code=7j3dYEtw" />
 - 频道：<Link href="https://t.me/VPNong" />
 - 群组：<Link href="https://t.me/VPNONGoo" />
 
