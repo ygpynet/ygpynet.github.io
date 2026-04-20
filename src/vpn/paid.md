@@ -165,7 +165,7 @@
 />
 :::
 
-## 乌龟加速 [维护中] <Badge type="tip" text="中转机场" />
+## 乌龟加速 <Badge type="tip" text="中转机场" />
 
 使用优惠券 `wgjsq` 享 7 折购买“乌龟加速系列”套餐。
 
@@ -174,10 +174,6 @@
 - 网站：<Link href="https://wuguijiasu.com/#/login?code=UZEMrWwE" />
 - 频道：<Link href="https://t.me/wuguijiasu" />
 - 群组：<Link href="https://t.me/wuguijiasuqi" />
-
-::: warning
-节点短期内无法使用，官方正在维护中，请实时关注群组动态。
-:::
 
 ::: details
 <Img
