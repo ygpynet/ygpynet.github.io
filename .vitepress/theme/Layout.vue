@@ -60,12 +60,6 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
 
 <template>
     <DefaultTheme.Layout>
-        <template #aside-ads-after>
-            <Ads slot="Aside" :position="0" />
-        </template>
-        <template #sidebar-nav-after>
-            <Ads slot="Sidebar" :position="1" />
-        </template>
         <template #doc-before>
             <Ads v-if="page.frontmatter.ads !== false" slot="Doc" :position="2" />
             <FeedBack v-if="page.frontmatter.feedback !== false" />
@@ -74,6 +68,12 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
         <template #doc-after>
             <br>
             <AdSense />
+        </template>
+        <template #sidebar-nav-after>
+            <Ads slot="Sidebar" :position="1" />
+        </template>
+        <template #aside-ads-after>
+            <Ads slot="Aside" :position="0" />
         </template>
     </DefaultTheme.Layout>
 </template>
