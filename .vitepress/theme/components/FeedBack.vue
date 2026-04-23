@@ -53,7 +53,6 @@ function openFeedbackForm(h2) {
     const fullUrl = `${pageUrl}#${id}`
 
     const params = new URLSearchParams({
-        'entry.85171959': safeValue(titleText),
         'entry.1640741368': safeValue(titleText),
         'entry.288305631': safeValue(fullUrl),
         t: Date.now(),
