@@ -1,5 +1,6 @@
 ---
 ads: false
+feedback: false
 ---
 
 # 测速工具推荐

@@ -5,6 +5,7 @@ import DefaultTheme from 'vitepress/theme'
 import runPlugins from "./plugins"
 import Ads from "./components/Ads.vue"
 import AdSense from './components/AdSense.vue'
+import FeedBack from './components/FeedBack.vue'
 
 const { isDark, page } = useData()
 const route = useRoute()
@@ -67,6 +68,7 @@ provide('toggle-appearance', async ({ clientX: x, clientY: y }: MouseEvent) => {
         </template>
         <template #doc-before>
             <Ads v-if="page.frontmatter.ads !== false" slot="Doc" :position="2" />
+            <FeedBack v-if="page.frontmatter.feedback !== false" />
             <br>
         </template>
         <template #doc-after>

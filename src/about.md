@@ -1,5 +1,6 @@
 ---
 ads: false
+feedback: false
 ---
 
 # 关于我们

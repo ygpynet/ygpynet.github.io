@@ -1,5 +1,6 @@
 ---
 ads: false
+feedback: false
 ---
 
 # 隐私权政策

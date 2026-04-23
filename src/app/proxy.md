@@ -1,5 +1,6 @@
 ---
 ads: false
+feedback: false
 ---
 
 # 代理软件软件
