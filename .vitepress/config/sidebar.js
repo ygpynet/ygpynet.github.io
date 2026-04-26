@@ -7,7 +7,7 @@ export default {
           text: "试用机场",
           items: [
             {
-              text: "2026",
+              text: "2026 年",
               collapsed: false,
               items: [
                 {
