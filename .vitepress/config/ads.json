@@ -228,5 +228,28 @@
         "details": "定位高质量机场<br>万兆网络极速连接"
       }
     }
+  },
+  {
+    "id": 11,
+    "title": "小白机场",
+    "link": "https://dad.xiaobaivpn.cyou/#/register?code=KSTSXNSG",
+    "slots": {
+      "Home": {
+        "image": "/images/vpn/paid/xiaobai/home.webp",
+        "details": "小白机场"
+      },
+      "Doc": {
+        "image": "/images/vpn/paid/xiaobai/doc.webp",
+        "details": "低至 5.00 元 1200GB"
+      },
+      "Sidebar": {
+        "image": "/images/vpn/paid/xiaobai/sidebar.webp",
+        "details": "直连线路<br>低至 5.00 元 1200GB"
+      },
+      "Aside": {
+        "image": "/images/vpn/paid/xiaobai/aside.webp",
+        "details": "高速体验<br>畅快无比"
+      }
+    }
   }
 ]

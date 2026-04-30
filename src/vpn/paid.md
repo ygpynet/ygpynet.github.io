@@ -258,3 +258,26 @@
     alt="“云安云”测试报告"
 />
 :::
+
+## 小白机场 <Badge type="info" text="直连机场" />
+
+低至 5.00 元购买“1200GB”套餐。
+
+- 节点：韩国、新加坡、美国、泰国、日本
+- 协议：Trojan
+- 网站：<Link href="https://dad.xiaobaivpn.cyou/#/register?code=KSTSXNSG" />
+- 频道：<Link href="https://t.me/jiuxinhaoshang" />
+- 群组：<Link href="https://t.me/jcjdhjq" />
+
+::: details
+<Img
+    src="https://i.imgur.com/8y6DE12.png"
+    alt="“小白机场”价格详情"
+/>
+
+<p></p>
+<Img
+    src="https://i.imgur.com/EVcQCxm.png"
+    alt="“小白机场”测试报告"
+/>
+:::
