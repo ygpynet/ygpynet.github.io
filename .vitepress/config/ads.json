@@ -115,29 +115,6 @@
     }
   },
   {
-    "id": 6,
-    "title": "山海机场",
-    "link": "https://shanhai.cfd/#/register?code=t6LtRJem",
-    "slots": {
-      "Home": {
-        "image": "/images/vpn/paid/shanhai/home.webp",
-        "details": "山海机场"
-      },
-      "Doc": {
-        "image": "/images/vpn/paid/shanhai/doc.webp",
-        "details": "输入 ygpy 优惠 -20%"
-      },
-      "Sidebar": {
-        "image": "/images/vpn/paid/shanhai/sidebar.webp",
-        "details": "直连 + 中转 + 专线线路<br>低至 6.00 元 128GB"
-      },
-      "Aside": {
-        "image": "/images/vpn/paid/shanhai/aside.webp",
-        "details": "高速稳定的网络体验<br>解锁各类流媒体服务"
-      }
-    }
-  },
-  {
     "id": 7,
     "title": "乌龟加速",
     "link": "https://wuguijiasu.com/#/login?code=UZEMrWwE",
