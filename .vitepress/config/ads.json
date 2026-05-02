@@ -232,7 +232,7 @@
   {
     "id": 12,
     "title": "爱连加速器",
-    "link": "http://45.125.45.59:9999?invitecode=s3NZ1M85",
+    "link": "http://45.125.45.59:9999/?invitecode=s3NZ1M85",
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/ailian/home.webp",
