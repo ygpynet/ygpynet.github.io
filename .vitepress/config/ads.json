@@ -228,5 +228,28 @@
         "details": "高速体验<br>畅快无比"
       }
     }
+  },
+  {
+    "id": 12,
+    "title": "爱连加速器",
+    "link": "http://45.125.45.59:9999?invitecode=s3NZ1M85",
+    "slots": {
+      "Home": {
+        "image": "/images/vpn/paid/ailian/home.webp",
+        "details": "爱连加速器"
+      },
+      "Doc": {
+        "image": "/images/vpn/paid/ailian/doc.webp",
+        "details": "注册即送 999TB"
+      },
+      "Sidebar": {
+        "image": "/images/vpn/paid/ailian/sidebar.webp",
+        "details": "专线线路<br>注册即送 999TB"
+      },
+      "Aside": {
+        "image": "/images/vpn/paid/ailian/aside.webp",
+        "details": "终身免费<br>无限流量"
+      }
+    }
   }
 ]
