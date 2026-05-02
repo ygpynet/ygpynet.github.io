@@ -287,7 +287,7 @@
 注册即送 999TB。
 
 - 节点：香港、台湾、日本、美国
-- 协议：Trojan
+- 协议：-
 - 网站：<Link href="http://45.125.45.59:9999?invitecode=s3NZ1M85" />
 - 频道：<Link href="https://t.me/ailianjiasuqipd" />
 - 群组：<Link href="https://t.me/ailianvpnchat" />
