@@ -16,7 +16,7 @@ hero:
       link: /vpn/test/2026/04
     - theme: alt
       text: 更新日志
-      link: /changelog/2026
+      link: /changelog/
 features:
   - icon: ✈️
     title: 机场推荐
