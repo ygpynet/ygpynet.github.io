@@ -291,3 +291,26 @@
 - 网站：<Link href="http://45.125.45.59:9999/?invitecode=s3NZ1M85" />
 - 频道：<Link href="https://t.me/ailianjiasuqipd" />
 - 群组：<Link href="https://t.me/ailianvpnchat" />
+
+## 极速云 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" />
+
+使用优惠券 `ygpy` 享 7 折购买“极速云系列”套餐。
+
+- 节点：香港、日本、新加坡、台湾、美国、韩国、泰国、越南、印度、菲律宾、法国……
+- 协议：AnyTLS、Hysteria、VLESS
+- 网站：<Link href="https://ow1.rouhe88.com:8888/#/register?code=VjCo9Bwk" />
+- 频道：<Link href="https://t.me/jisuyun" />
+- 群组：<Link href="https://t.me/jisuyunchat8" />
+
+::: details
+<Img
+    src="https://i.imgur.com/D5wMCsZ.png"
+    alt="“极速云”价格详情"
+/>
+
+<p></p>
+<Img
+    src="https://i.imgur.com/W5ekayq.png"
+    alt="“极速云”测试报告"
+/>
+:::

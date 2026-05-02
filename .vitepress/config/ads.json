@@ -251,5 +251,28 @@
         "details": "终身免费<br>无限流量"
       }
     }
+  },
+  {
+    "id": 13,
+    "title": "极速云",
+    "link": "https://ow1.rouhe88.com:8888/#/register?code=VjCo9Bwk",
+    "slots": {
+      "Home": {
+        "image": "/images/vpn/paid/jisu/home.webp",
+        "details": "极速云"
+      },
+      "Doc": {
+        "image": "/images/vpn/paid/jisu/doc.webp",
+        "details": "输入 ygpy 优惠 -30%"
+      },
+      "Sidebar": {
+        "image": "/images/vpn/paid/jisu/sidebar.webp",
+        "details": "专线线路<br>低至 15.99 元 1200GB"
+      },
+      "Aside": {
+        "image": "/images/vpn/paid/jisu/aside.webp",
+        "details": "三网优化<br>老牌机场"
+      }
+    }
   }
 ]
