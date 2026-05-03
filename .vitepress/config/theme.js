@@ -5,7 +5,7 @@ export default {
   // https://vitepress.dev/zh/reference/default-theme-config
   logo: {
     src: "/images/logo.webp",
-    alt: "一个朋友 Logo",
+    alt: "一个朋友图标",
   },
   nav,
   sidebar,
