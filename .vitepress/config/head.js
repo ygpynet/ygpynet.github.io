@@ -19,7 +19,7 @@ export default [
     "meta",
     {
       property: "og:og:image:alt",
-      content: "一个朋友：一个免费机场推荐网站。",
+      content: "一个朋友开放图。",
     },
   ],
   ["meta", { property: "og:locale", content: "zh_CN" }],

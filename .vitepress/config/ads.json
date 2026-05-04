@@ -6,7 +6,7 @@
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/hongxingyun/home.webp",
-        "details": "红杏云"
+        "details": "红保持迅速，保持安全杏云"
       },
       "Doc": {
         "image": "/images/vpn/paid/hongxingyun/doc.webp",
@@ -29,7 +29,7 @@
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/doraemon/home.webp",
-        "details": "哆啦 A 梦 VPN"
+        "details": "IEPL 高速专线，全部解锁主流网站"
       },
       "Doc": {
         "image": "/images/vpn/paid/doraemon/doc.webp",
@@ -52,7 +52,7 @@
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/candytally/home.webp",
-        "details": "糖果云"
+        "details": "畅游糖果缤纷世界，独家定制 IEPL 专线"
       },
       "Doc": {
         "image": "/images/vpn/paid/candytally/doc.webp",
@@ -75,7 +75,7 @@
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/biubiu/home.webp",
-        "details": "BiuBiu"
+        "details": "畅游糖果缤纷世界，独家定制 IEPL 专线"
       },
       "Doc": {
         "image": "/images/vpn/paid/biubiu/doc.webp",
@@ -98,7 +98,7 @@
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/miaolianyun/home.webp",
-        "details": "秒连云"
+        "details": "全球加速节点，中转加密线路"
       },
       "Doc": {
         "image": "/images/vpn/paid/miaolianyun/doc.webp",
@@ -121,7 +121,7 @@
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/shanhai/home.webp",
-        "details": "山海机场"
+        "details": "高速稳定的网络体验，解锁各类流媒体服务"
       },
       "Doc": {
         "image": "/images/vpn/paid/shanhai/doc.webp",
@@ -144,7 +144,7 @@
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/wuguijiasu/home.webp",
-        "details": "乌龟加速"
+        "details": "跑的快的，不一定是兔子"
       },
       "Doc": {
         "image": "/images/vpn/paid/wuguijiasu/doc.webp",
@@ -162,35 +162,12 @@
   },
   {
     "id": 8,
-    "title": "Airpipi",
-    "link": "https://airpipi.com/login/register?invite_code=CX0hAqcC",
-    "slots": {
-      "Home": {
-        "image": "/images/vpn/paid/airpipi/home.webp",
-        "details": "Airpipi"
-      },
-      "Doc": {
-        "image": "/images/vpn/paid/airpipi/doc.webp",
-        "details": "输入 airpipi8 优惠 -10%"
-      },
-      "Sidebar": {
-        "image": "/images/vpn/paid/airpipi/sidebar.webp",
-        "details": "专线线路<br>低至 20.00 元 135GB"
-      },
-      "Aside": {
-        "image": "/images/vpn/paid/airpipi/aside.webp",
-        "details": "一键畅享全球<br>速度超出你想象"
-      }
-    }
-  },
-  {
-    "id": 9,
     "title": "星驰加速",
     "link": "https://k.jsq88.net/",
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/xingch/home.webp",
-        "details": "星驰加速"
+        "details": "全球的高质量网络，稳定可靠的 VPN"
       },
       "Doc": {
         "image": "/images/vpn/paid/xingch/doc.webp",
@@ -207,13 +184,13 @@
     }
   },
   {
-    "id": 10,
+    "id": 9,
     "title": "云安云",
     "link": "https://www.yay520.com/#/register?code=BQmlbNWw",
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/yunanyun/home.webp",
-        "details": "云安云"
+        "details": "定位高质量机场，万兆网络极速连接"
       },
       "Doc": {
         "image": "/images/vpn/paid/yunanyun/doc.webp",
@@ -230,13 +207,13 @@
     }
   },
   {
-    "id": 11,
+    "id": 10,
     "title": "小白机场",
     "link": "https://dad.xiaobaivpn.cyou/#/register?code=KSTSXNSG",
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/xiaobai/home.webp",
-        "details": "小白机场"
+        "details": "高速体验，畅快无比"
       },
       "Doc": {
         "image": "/images/vpn/paid/xiaobai/doc.webp",
@@ -253,13 +230,13 @@
     }
   },
   {
-    "id": 12,
+    "id": 11,
     "title": "爱连加速器",
     "link": "http://45.125.45.59:9999/?invitecode=s3NZ1M85",
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/ailian/home.webp",
-        "details": "永久免费，无限流量"
+        "details": "终身免费，无限流量"
       },
       "Doc": {
         "image": "/images/vpn/paid/ailian/doc.webp",
@@ -276,13 +253,13 @@
     }
   },
   {
-    "id": 13,
+    "id": 12,
     "title": "极速云",
     "link": "https://ow1.rouhe88.com:8888/#/register?code=VjCo9Bwk",
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/jisu/home.webp",
-        "details": "极速云"
+        "details": "三网优化，老牌机场"
       },
       "Doc": {
         "image": "/images/vpn/paid/jisu/doc.webp",
