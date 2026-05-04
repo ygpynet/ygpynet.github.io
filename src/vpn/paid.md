@@ -188,7 +188,7 @@
 />
 :::
 
-<!-- ## Airpipi <Badge type="warning" text="专线机场" />
+## Airpipi <Badge type="warning" text="专线机场" />
 
 使用优惠券 `airpipi8` 享 9 折购买“airpipi 系列”套餐。
 
@@ -211,7 +211,7 @@
     src="https://i.imgur.com/YPdIEoj.png"
     alt="“Airpipi”测试报告"
 />
-::: -->
+:::
 
 ## 星驰加速 <Badge type="warning" text="专线机场" />
 
