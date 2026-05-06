@@ -98,9 +98,6 @@ features:
           <p class="mb-2 text-gray-500 dark:text-gray-400">
             主要原因是 Google 安全浏览检测到潜在钓鱼风险、证书不规范及用户投诉，常因其非官方性质而误判。
           </p>
-          <p class="text-gray-500 dark:text-gray-400">
-            可通过（点击“详情”> 访问“这个不安全的网站”）绕过警告。
-          </p>
         </fwb-accordion-content>
       </fwb-accordion-panel>
       <fwb-accordion-panel>
