@@ -236,7 +236,7 @@
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/xiaobai/home.webp",
-        "details": "高速体验，畅快无比"
+        "details": "高速体验，住宅 IP"
       },
       "Doc": {
         "image": "/images/vpn/paid/xiaobai/doc.webp",
@@ -248,7 +248,7 @@
       },
       "Aside": {
         "image": "/images/vpn/paid/xiaobai/aside.webp",
-        "details": "高速体验<br>畅快无比"
+        "details": "高速体验<br>住宅 IP"
       }
     }
   },
