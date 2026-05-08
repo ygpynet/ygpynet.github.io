@@ -314,3 +314,26 @@
     alt="“极速云”测试报告"
 />
 :::
+
+## 寰宇云 <Badge type="warning" text="专线机场" />
+
+低至 18.00 元购买“150GB”套餐。
+
+- 节点：香港、日本、台湾、美国、日本、新加坡
+- 协议：AnyTLS
+- 网站：<Link href="https://huanyuyunvip.com/#/register?code=aneefzL7" />
+- 频道：无
+- 群组：<Link href="https://t.me/huanyuyunvip" />
+
+::: details
+<Img
+    src="https://i.imgur.com/eCbjHGV.png"
+    alt="“寰宇云”价格详情"
+/>
+
+<p></p>
+<Img
+    src="https://i.imgur.com/fulasAH.jpeg"
+    alt="“寰宇云”测试报告"
+/>
+:::

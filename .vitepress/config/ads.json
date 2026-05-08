@@ -297,5 +297,28 @@
         "details": "三网优化<br>老牌机场"
       }
     }
+  },
+  {
+    "id": 14,
+    "title": "寰宇云",
+    "link": "https://huanyuyunvip.com/#/register?code=aneefzL7",
+    "slots": {
+      "Home": {
+        "image": "/images/vpn/paid/huanyu/home.webp",
+        "details": "优质跨境路由，精选高速节点"
+      },
+      "Doc": {
+        "image": "/images/vpn/paid/huanyu/doc.webp",
+        "details": "低至 18.00 元 150GB"
+      },
+      "Sidebar": {
+        "image": "/images/vpn/paid/huanyu/sidebar.webp",
+        "details": "专线线路<br>低至 18.00 元 150GB"
+      },
+      "Aside": {
+        "image": "/images/vpn/paid/huanyu/aside.webp",
+        "details": "优质跨境路由<br>精选高速节点"
+      }
+    }
   }
 ]
