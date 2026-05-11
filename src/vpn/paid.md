@@ -213,7 +213,7 @@
 />
 :::
 
-## 星驰加速 <Badge type="warning" text="专线机场" />
+<!-- ## 星驰加速 <Badge type="warning" text="专线机场" />
 
 低至 9.90 元购买“VIP 会员”套餐。
 
@@ -234,7 +234,7 @@
     src="https://i.imgur.com/zfk3JwT.png"
     alt="“星驰加速”测试报告"
 />
-:::
+::: -->
 
 ## 云安云 <Badge type="tip" text="中转机场" />
 
