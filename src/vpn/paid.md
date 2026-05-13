@@ -196,7 +196,7 @@
 
 - 节点：美国、新加坡、台湾、日本、韩国、香港
 - 协议：Shadowsocks
-- 网站：<Link href="https://airpipi.com/login/register?invite_code=CX0hAqcC" />
+- 网站：<Link href="https://屁屁.com/?invite_code=CX0hAqcC" />
 - 频道：<Link href="https://t.me/airpipi" />
 - 群组：<Link href="https://t.me/airpipiGC" />
 
