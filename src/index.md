@@ -18,17 +18,17 @@ hero:
       text: 更新日志
       link: /changelog/
 features:
-  - icon: ✈️
+  - icon: <i class="bi bi-airplane"></i>
     title: 机场推荐
     details: 推荐试用机场，解决上网难题。
     link: /vpn/test/2026/05
     linkText: 了解更多
-  - icon: 💻
+  - icon: <i class="bi bi-laptop"></i>
     title: 软件列表
     details: 罗列常用软件，提升作业效率。
     link: /app/proxy
     linkText: 了解更多
-  - icon: 🌏
+  - icon: <i class="bi bi-globe2"></i>
     title: 网址导航
     details: 导航热门网站，扩展业务视野。
     link: /nav/
