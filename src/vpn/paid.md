@@ -277,7 +277,7 @@
 
 <p></p>
 <Img
-    src="https://i.imgur.com/EVcQCxm.png"
+    src="https://i.imgur.com/RchtKVO.png"
     alt="“小白机场”测试报告"
 />
 :::
