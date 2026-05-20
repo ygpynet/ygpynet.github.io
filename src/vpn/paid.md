@@ -263,7 +263,7 @@
 
 低至 5.00 元购买“1200GB”套餐。
 
-- 节点：韩国、新加坡、美国、泰国、日本
+- 节点：日本、新加坡、韩国、美国、越南
 - 协议：Trojan
 - 网站：<Link href="https://bxburl.xiaobaivpn.one/#/register?code=KSTSXNSG" />
 - 频道：<Link href="https://t.me/jiuxinhaoshang" />
