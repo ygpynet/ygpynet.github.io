@@ -265,7 +265,7 @@
 
 - 节点：日本、新加坡、韩国、美国、越南
 - 协议：Trojan
-- 网站：<Link href="https://bxburl.xiaobaivpn.one/#/register?code=KSTSXNSG" />
+- 网站：<Link href="https://axburl.xiaobaivpn.one/#/register?code=KSTSXNSG" />
 - 频道：<Link href="https://t.me/jiuxinhaoshang" />
 - 群组：<Link href="https://t.me/jcjdhjq" />
 
