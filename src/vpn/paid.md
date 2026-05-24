@@ -271,7 +271,7 @@
 
 ::: details
 <Img
-    src="https://i.imgur.com/8y6DE12.png"
+    src="https://i.imgur.com/sRl5oRc.png"
     alt="“小白机场”价格详情"
 />
 
