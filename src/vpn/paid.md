@@ -33,7 +33,7 @@
 
 - 节点：香港、新加坡、日本、台湾、韩国、印度、阿联酋、德国、美国、荷兰
 - 协议：Trojan、VLESS、Shadowsocks
-- 网站：<Link href="https://home.yyds2-doraemon.site/login/register?invite_code=7j3dYEtw" />
+- 网站：<Link href="https://web1.yyds2-doraemon.site/login/register?invite_code=7j3dYEtw" />
 - 频道：<Link href="https://t.me/VPNong" />
 - 群组：<Link href="https://t.me/VPNONGoo" />
 
@@ -119,29 +119,6 @@
 />
 :::
 
-<!-- ## 雪山机场 <Badge type="info" text="直连机场" />
-
-使用优惠券 `ygpy` 享 9 折购买“雪山机场非一次性”套餐。
-
-- 节点：美国、香港、台湾、韩国、日本、新加坡、俄罗斯、泰国、英国、德国、法国、印度
-- 协议：Hysteria、VLESS
-- 网站：<Link href="https://x2.xueshan.shop/#/register?code=pq7dmt6E" />
-- 频道：<Link href="https://t.me/xueshan0002" />
-- 群组：<Link href="https://t.me/xueshan0001" />
-
-::: details
-<Img
-    src="https://i.imgur.com/zea6Rkl.png"
-    alt="“雪山机场”价格详情"
-/>
-
-<p></p>
-<Img
-    src="https://i.imgur.com/2cefrO1.png"
-    alt="“雪山机场”测试报告"
-/>
-::: -->
-
 ## 山海机场 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" /> <Badge type="warning" text="专线机场" />
 
 使用优惠券 `ygpy` 享 8 折购买“山海机场系列”套餐。
@@ -212,29 +189,6 @@
     alt="“Airpipi”测试报告"
 />
 :::
-
-<!-- ## 星驰加速 <Badge type="warning" text="专线机场" />
-
-低至 9.90 元购买“VIP 会员”套餐。
-
-- 节点：香港、台湾、美国、日本、新加坡、韩国、德国、英国、波兰、俄罗斯、荷兰……
-- 协议：VMess
-- 网站：<Link href="https://k.jsq88.net/" />
-- 频道：<Link href="https://t.me/xcvpnpd2" />
-- 群组：<Link href="https://t.me/xcvpn_official" />
-
-::: details
-<Img
-    src="https://i.imgur.com/Mc4yINi.png"
-    alt="“星驰加速”价格详情"
-/>
-
-<p></p>
-<Img
-    src="https://i.imgur.com/zfk3JwT.png"
-    alt="“星驰加速”测试报告"
-/>
-::: -->
 
 ## 云安云 <Badge type="tip" text="中转机场" />
 
