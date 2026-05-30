@@ -310,7 +310,7 @@
 
 <p></p>
 <Img
-    src="c:\Users\lzl22\Downloads\Compressed\tportable-x64.5.4.0\Telegram\tdata\temp_data#3\2026-05-30T19-57-52.515-com.png"
+    src="https://i.imgur.com/eVRufF4.png"
     alt="“山水云”测试报告"
 />
 :::

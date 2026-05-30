@@ -297,5 +297,28 @@
         "details": "优质跨境路由<br>精选高速节点"
       }
     }
+  },
+  {
+    "id": 14,
+    "title": "山水云",
+    "link": "https://sldm.ssyylf.com/#/register?code=Jm3U3EkE",
+    "slots": {
+      "Home": {
+        "image": "/images/vpn/paid/ssy/home.webp",
+        "details": "轻松连接，无限可能"
+      },
+      "Doc": {
+        "image": "/images/vpn/paid/ssy/doc.webp",
+        "details": "输入 2026888 优惠 -20%"
+      },
+      "Sidebar": {
+        "image": "/images/vpn/paid/ssy/sidebar.webp",
+        "details": "直连 + 中转线路<br>低至 14.99 元 100GB"
+      },
+      "Aside": {
+        "image": "/images/vpn/paid/ssy/aside.webp",
+        "details": "高速稳定<br>触达全球"
+      }
+    }
   }
 ]
