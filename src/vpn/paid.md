@@ -297,7 +297,7 @@
 使用优惠劵 `2026888` 享 8 折购买“山水云系列”套餐。
 
 - 节点：香港、日本、新加坡、台湾、美国、法国、德国、加拿大、英国、泰国、越南……
-- 协议：AnyTLS
+- 协议：AnyTLS、VLESS
 - 网站：<Link href="https://sldm.ssyylf.com/#/register?code=Jm3U3EkE" />
 - 频道：<Link href="https://t.me/ssyun999" />
 - 群组：<Link href="https://t.me/ssy5999" />
@@ -312,5 +312,28 @@
 <Img
     src="https://i.imgur.com/eVRufF4.png"
     alt="“山水云”测试报告"
+/>
+:::
+
+## 秒秒云 <Badge type="tip" text="中转机场" />
+
+使用优惠劵 `2026888` 享 8 折购买“秒秒云系列”套餐。
+
+- 节点：香港、日本、新加坡、美国、台湾、法国、德国、加拿大、英国、泰国、越南……
+- 协议：AnyTLS、VLESS
+- 网站：<Link href="https://m2.mmfjeifje.com/#/register?code=yrgta66O" />
+- 频道：<Link href="https://t.me/mmyun9" />
+- 群组：<Link href="https://t.me/mmy7777" />
+
+::: details
+<Img
+    src="https://i.imgur.com/Ytj0HlM.png"
+    alt="“秒秒云”价格详情"
+/>
+
+<p></p>
+<Img
+    src="https://i.imgur.com/Fk9Bfi9.png"
+    alt="“秒秒云”测试报告"
 />
 :::
