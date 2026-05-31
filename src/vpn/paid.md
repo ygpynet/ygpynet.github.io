@@ -321,7 +321,7 @@
 
 - 节点：香港、日本、新加坡、美国、台湾、法国、德国、加拿大、英国、泰国、越南……
 - 协议：AnyTLS、VLESS
-- 网站：<Link href="https://m2.mmfjeifje.com/#/register?code=yrgta66O" />
+- 网站：<Link href="https://dl2.mmy8.com/#/register?code=yrgta66O" />
 - 频道：<Link href="https://t.me/mmyun9" />
 - 群组：<Link href="https://t.me/mmy7777" />
 
