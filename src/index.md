@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: 开始阅读
-      link: /vpn/test/2026/05
+      link: /vpn/test/2026/06
     - theme: alt
       text: 更新日志
       link: /changelog/
@@ -21,7 +21,7 @@ features:
   - icon: <i class="bi bi-airplane"></i>
     title: 机场推荐
     details: 推荐试用机场，解决上网难题。
-    link: /vpn/test/2026/05
+    link: /vpn/test/2026/06
     linkText: 了解更多
   - icon: <i class="bi bi-laptop"></i>
     title: 软件列表
