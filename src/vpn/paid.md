@@ -236,16 +236,6 @@
 />
 :::
 
-## 爱连加速器 <Badge type="warning" text="专线机场" />
-
-注册即送 999TB。
-
-- 节点：香港、台湾、日本、美国
-- 协议：-
-- 网站：<Link href="http://45.125.45.59:9999/?invitecode=s3NZ1M85" />
-- 频道：<Link href="https://t.me/ailianjiasuqipd" />
-- 群组：<Link href="https://t.me/ailianvpnchat" />
-
 ## 极速云 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" />
 
 使用优惠券 `ygpy` 享 7 折购买“极速云系列”套餐。

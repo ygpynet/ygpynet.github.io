@@ -231,29 +231,6 @@
   },
   {
     "id": 11,
-    "title": "爱连加速器",
-    "link": "http://45.125.45.59:9999/?invitecode=s3NZ1M85",
-    "slots": {
-      "Home": {
-        "image": "/images/vpn/paid/ailian/home.webp",
-        "details": "终身免费，无限流量"
-      },
-      "Doc": {
-        "image": "/images/vpn/paid/ailian/doc.webp",
-        "details": "注册即送 999TB"
-      },
-      "Sidebar": {
-        "image": "/images/vpn/paid/ailian/sidebar.webp",
-        "details": "专线线路<br>注册即送 999TB"
-      },
-      "Aside": {
-        "image": "/images/vpn/paid/ailian/aside.webp",
-        "details": "终身免费<br>无限流量"
-      }
-    }
-  },
-  {
-    "id": 12,
     "title": "极速云",
     "link": "https://ow1.rouhe88.com:8888/#/register?code=VjCo9Bwk",
     "slots": {
@@ -276,7 +253,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 12,
     "title": "寰宇云",
     "link": "https://huanyuyunvip.com/#/register?code=aneefzL7",
     "slots": {
@@ -299,7 +276,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "title": "山水云",
     "link": "https://sldm.ssyylf.com/#/register?code=Jm3U3EkE",
     "slots": {
@@ -322,7 +299,7 @@
     }
   },
   {
-    "id": 15,
+    "id": 14,
     "title": "秒秒云",
     "link": "https://dl2.mmy8.com/#/register?code=yrgta66O",
     "slots": {
