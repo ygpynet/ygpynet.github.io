@@ -271,7 +271,7 @@
 
 ::: details
 <Img
-    src="https://i.imgur.com/eCbjHGV.png"
+    src="https://i.imgur.com/ii9gMgR.png"
     alt="“寰宇云”价格详情"
 />
 
