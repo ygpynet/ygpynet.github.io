@@ -57,5 +57,6 @@ feedback: false
     <Card title="Fast" details="奈飞的简单网速测试。" link="https://fast.com/" icon="../images/nav/fast.ico" />
     <Card title="Whoer" details="IP 伪装度检测。" link="https://whoer.net/zh" icon="../images/nav/whoer.ico" />
     <Card title="PING0" details="IP 纯净度检测。" link="https://ping0.cc/" icon="../images/nav/ping0.ico" />
+    <Card title="BrowserLeaks" details="DNS 泄露检测。" link="https://browserleaks.com/dns" icon="../images/nav/browserleaks.ico" />
     <Card title="IPCheck" details="好用和开源的全能 IP 工具箱。" link="https://ipcheck.ing/" icon="../images/nav/ip-check.ico" />
 </div>
