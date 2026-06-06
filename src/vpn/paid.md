@@ -109,6 +109,23 @@
 <Img src="https://i.imgur.com/2qzHx4T.png" alt="“乌龟加速”测试报告" />
 :::
 
+## Airpipi <Badge type="warning" text="专线机场" />
+
+使用优惠券 `airpipi8` 享 9 折购买“airpipi 系列”套餐。
+
+或使用 `airpipi5` 享 7 折购买“airpipi 年付系列”套餐。
+
+- 节点：美国、新加坡、台湾、日本、韩国、香港
+- 协议：Shadowsocks
+- 网站：<Link href="https://home.airpipi.com/login/register?invite_code=CX0hAqcC" />
+- 频道：<Link href="https://t.me/airpipi" />
+- 群组：<Link href="https://t.me/airpipiGC" />
+
+::: details
+<Img src="https://i.imgur.com/ICvrL1K.png" alt="“Airpipi”价格详情" />
+<Img src="https://i.imgur.com/YPdIEoj.png" alt="“Airpipi”测试报告" />
+:::
+
 ## 云安云 <Badge type="tip" text="中转机场" />
 
 低至 7.00 元购买“120GB”套餐。
