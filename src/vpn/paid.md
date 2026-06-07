@@ -81,13 +81,17 @@
 
 ## 山海机场 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" /> <Badge type="warning" text="专线机场" />
 
-使用优惠券 `ygpy` 享 8 折购买“山海机场系列”套餐。
+使用优惠券 `ygpy` 享 9.5 折购买“山海机场系列”套餐。
 
 - 节点：香港、台湾、澳门、日本、美国、英国、越南、德国、泰国、新加坡、澳大利亚、韩国
 - 协议：AnyTLS、Shadowsocks
 - 网站：<Link href="https://shanhai.cfd/#/register?code=t6LtRJem" />
 - 频道：<Link href="https://t.me/shanhai_1" />
 - 群组：<Link href="https://t.me/shanhai_2" />
+
+::: tip
+本优惠劵可用于“迷你套餐”之外的套餐。
+:::
 
 ::: details
 <Img src="https://i.imgur.com/QhRnYTu.png" alt="“山海机场”价格详情" />
