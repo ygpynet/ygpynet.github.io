@@ -151,7 +151,7 @@
 
 - 节点：日本、新加坡、美国、越南
 - 协议：Trojan
-- 网站：<Link href="http://120.79.227.62:8881/#/register?code=KSTSXNSG" />
+- 网站：<Link href="https://xb-0609.xiaobaivpn.cyou/#/register?code=KSTSXNSG" />
 - 频道：<Link href="https://t.me/jiuxinhaoshang" />
 - 群组：<Link href="https://t.me/jcjdhjq" />
 
