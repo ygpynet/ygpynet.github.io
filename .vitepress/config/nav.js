@@ -13,6 +13,7 @@ export default [
     items: [
       { text: "代理软件", link: "/app/proxy" },
       { text: "测速工具", link: "/app/speed" },
+      { text: "开源软件", link: "https://xszn.org/zh/" },
     ],
   },
   { text: "网址导航", link: "/nav/" },
