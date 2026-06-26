@@ -29,8 +29,14 @@
 - 频道：<Link href="https://t.me/VPNong" />
 - 群组：<Link href="https://t.me/VPNONGoo" />
 
+::: tip
+『半年付』7.5 折优惠券：`BN2026`，
+
+『年付』6 折优惠券：`NF2026`。
+:::
+
 ::: details
-<Img src="https://i.imgur.com/5LuRppY.png" alt="“哆啦 A 梦”价格详情" />
+<Img src="https://i.imgur.com/o2pgwYb.png" alt="“哆啦 A 梦”价格详情" />
 <Img src="https://i.imgur.com/1sPNXUK.png" alt="“哆啦 A 梦”测试报告" />
 :::
 
