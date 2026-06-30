@@ -181,7 +181,7 @@
 <Img src="https://i.imgur.com/W5ekayq.png" alt="“极速云”测试报告" />
 :::
 
-## 寰宇云 <Badge type="warning" text="专线机场" />
+<!-- ## 寰宇云 <Badge type="warning" text="专线机场" />
 
 低至 18.00 元购买“150GB”套餐。
 
@@ -194,7 +194,7 @@
 ::: details
 <Img src="https://i.imgur.com/ii9gMgR.png" alt="“寰宇云”价格详情" />
 <Img src="https://i.imgur.com/fulasAH.jpeg" alt="“寰宇云”测试报告" />
-:::
+::: -->
 
 ## 山水云 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" />
 

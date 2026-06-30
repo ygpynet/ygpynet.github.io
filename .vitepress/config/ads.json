@@ -254,29 +254,6 @@
   },
   {
     "id": 12,
-    "title": "寰宇云",
-    "link": "https://huanyuyunvip.com/#/register?code=aneefzL7",
-    "slots": {
-      "Home": {
-        "image": "/images/vpn/paid/huanyu/home.webp",
-        "details": "优质跨境路由，精选高速节点"
-      },
-      "Doc": {
-        "image": "/images/vpn/paid/huanyu/doc.webp",
-        "details": "低至 18.00 元 150GB"
-      },
-      "Sidebar": {
-        "image": "/images/vpn/paid/huanyu/sidebar.webp",
-        "details": "专线线路<br>低至 18.00 元 150GB"
-      },
-      "Aside": {
-        "image": "/images/vpn/paid/huanyu/aside.webp",
-        "details": "优质跨境路由<br>精选高速节点"
-      }
-    }
-  },
-  {
-    "id": 13,
     "title": "山水云",
     "link": "https://sldm.ssyylf.com/#/register?code=Jm3U3EkE",
     "slots": {
@@ -299,7 +276,7 @@
     }
   },
   {
-    "id": 14,
+    "id": 13,
     "title": "秒秒云",
     "link": "https://dl2.mmy8.com/#/register?code=yrgta66O",
     "slots": {
