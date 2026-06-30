@@ -46,7 +46,7 @@
 
 - 节点：香港、台湾、新加坡、日本、美国、德国、韩国、泰国、阿根廷、土耳其、英国……
 - 协议：Trojan
-- 网站：<Link href="https://candytally.diy/web/#/login?code=foHbXFgg" />
+- 网站：<Link href="https://candytally.vip/web/#/login?code=foHbXFgg" />
 - 频道：<Link href="https://t.me/Candytally" />
 - 群组：<Link href="https://t.me/candytallyvip" />
 
