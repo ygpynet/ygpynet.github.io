@@ -11,6 +11,10 @@ export default {
               collapsed: false,
               items: [
                 {
+                  text: "7 月",
+                  link: "/vpn/test/2026/07",
+                },
+                {
                   text: "6 月",
                   link: "/vpn/test/2026/06",
                 },
