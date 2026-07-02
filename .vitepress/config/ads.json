@@ -115,7 +115,7 @@
     }
   },
   {
-    "id": 7,
+    "id": 6,
     "title": "乌龟加速",
     "link": "https://wuguijiasu.com/#/login?code=UZEMrWwE",
     "slots": {
@@ -138,7 +138,7 @@
     }
   },
   {
-    "id": 9,
+    "id": 7,
     "title": "云安云",
     "link": "https://www.yay520.com/#/register?code=BQmlbNWw",
     "slots": {
@@ -161,7 +161,7 @@
     }
   },
   {
-    "id": 11,
+    "id": 8,
     "title": "极速云",
     "link": "https://ow1.rouhe88.com:8888/#/register?code=VjCo9Bwk",
     "slots": {
@@ -184,7 +184,30 @@
     }
   },
   {
-    "id": 12,
+    "id": 9,
+    "title": "寰宇云",
+    "link": "https://huanyuyunvip.com/#/register?code=aneefzL7",
+    "slots": {
+      "Home": {
+        "image": "/images/vpn/paid/huanyu/home.webp",
+        "details": "优质跨境路由，精选高速节点"
+      },
+      "Doc": {
+        "image": "/images/vpn/paid/huanyu/doc.webp",
+        "details": "低至 18.00 元 150GB"
+      },
+      "Sidebar": {
+        "image": "/images/vpn/paid/huanyu/sidebar.webp",
+        "details": "专线线路<br>低至 18.00 元 150GB"
+      },
+      "Aside": {
+        "image": "/images/vpn/paid/huanyu/aside.webp",
+        "details": "优质跨境路由<br>精选高速节点"
+      }
+    }
+  },
+  {
+    "id": 10,
     "title": "山水云",
     "link": "https://sldm.ssyylf.com/#/register?code=Jm3U3EkE",
     "slots": {
@@ -207,7 +230,7 @@
     }
   },
   {
-    "id": 13,
+    "id": 11,
     "title": "秒秒云",
     "link": "https://dl2.mmy8.com/#/register?code=yrgta66O",
     "slots": {
