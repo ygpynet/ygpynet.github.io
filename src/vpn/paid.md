@@ -85,7 +85,7 @@
 <Img src="https://i.imgur.com/BCKq3i2.png" alt="“秒连云”测试报告" />
 :::
 
-<!-- ## 山海机场 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" /> <Badge type="warning" text="专线机场" />
+## 山海机场 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" /> <Badge type="warning" text="专线机场" />
 
 使用优惠券 `ygpy` 享 9.5 折购买“山海机场系列”套餐。
 
@@ -102,7 +102,7 @@
 ::: details
 <Img src="https://i.imgur.com/QhRnYTu.png" alt="“山海机场”价格详情" />
 <Img src="https://i.imgur.com/WGiC8uO.png" alt="“山海机场”测试报告" />
-::: -->
+:::
 
 ## 乌龟加速 <Badge type="tip" text="中转机场" />
 
