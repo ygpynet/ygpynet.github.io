@@ -115,29 +115,6 @@
     }
   },
   {
-    "id": 6,
-    "title": "山海机场",
-    "link": "https://shanhai.cfd/#/register?code=t6LtRJem",
-    "slots": {
-      "Home": {
-        "image": "/images/vpn/paid/shanhai/home.webp",
-        "details": "高速稳定的网络体验，解锁各类流媒体服务"
-      },
-      "Doc": {
-        "image": "/images/vpn/paid/shanhai/doc.webp",
-        "details": "输入 ygpy 优惠 -20%"
-      },
-      "Sidebar": {
-        "image": "/images/vpn/paid/shanhai/sidebar.webp",
-        "details": "直连 + 中转 + 专线线路<br>低至 6.00 元 128GB"
-      },
-      "Aside": {
-        "image": "/images/vpn/paid/shanhai/aside.webp",
-        "details": "高速稳定的网络体验<br>解锁各类流媒体服务"
-      }
-    }
-  },
-  {
     "id": 7,
     "title": "乌龟加速",
     "link": "https://wuguijiasu.com/#/login?code=UZEMrWwE",
@@ -161,29 +138,6 @@
     }
   },
   {
-    "id": 8,
-    "title": "Airpipi",
-    "link": "https://home.airpipi.com/login/register?invite_code=CX0hAqcC",
-    "slots": {
-      "Home": {
-        "image": "/images/vpn/paid/airpipi/home.webp",
-        "details": "一键畅享全球，速度超出你想象"
-      },
-      "Doc": {
-        "image": "/images/vpn/paid/airpipi/doc.webp",
-        "details": "输入 airpipi8 优惠 -10%"
-      },
-      "Sidebar": {
-        "image": "/images/vpn/paid/airpipi/sidebar.webp",
-        "details": "专线线路<br>低至 20.00 元 135GB"
-      },
-      "Aside": {
-        "image": "/images/vpn/paid/airpipi/aside.webp",
-        "details": "一键畅享全球<br>速度超出你想象"
-      }
-    }
-  },
-  {
     "id": 9,
     "title": "云安云",
     "link": "https://www.yay520.com/#/register?code=BQmlbNWw",
@@ -203,29 +157,6 @@
       "Aside": {
         "image": "/images/vpn/paid/yunanyun/aside.webp",
         "details": "定位高质量机场<br>万兆网络极速连接"
-      }
-    }
-  },
-  {
-    "id": 10,
-    "title": "小白机场",
-    "link": "https://xb-0609.xiaobaivpn.cyou/#/register?code=KSTSXNSG",
-    "slots": {
-      "Home": {
-        "image": "/images/vpn/paid/xiaobai/home.webp",
-        "details": "高速体验，住宅 IP"
-      },
-      "Doc": {
-        "image": "/images/vpn/paid/xiaobai/doc.webp",
-        "details": "低至 5.00 元 1200GB"
-      },
-      "Sidebar": {
-        "image": "/images/vpn/paid/xiaobai/sidebar.webp",
-        "details": "直连线路<br>低至 5.00 元 1200GB"
-      },
-      "Aside": {
-        "image": "/images/vpn/paid/xiaobai/aside.webp",
-        "details": "高速体验<br>住宅 IP"
       }
     }
   },
