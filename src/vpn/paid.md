@@ -151,21 +151,6 @@
 <Img src="https://i.imgur.com/3z2Of48.png" alt="“云安云”测试报告" />
 :::
 
-<!-- ## 小白机场 <Badge type="info" text="直连机场" />
-
-低至 5.00 元购买“1200GB”套餐。
-
-- 节点：日本、新加坡、美国、越南
-- 协议：Trojan
-- 网站：<Link href="https://xb-0609.xiaobaivpn.cyou/#/register?code=KSTSXNSG" />
-- 频道：<Link href="https://t.me/jiuxinhaoshang" />
-- 群组：<Link href="https://t.me/jcjdhjq" />
-
-::: details
-<Img src="https://i.imgur.com/sRl5oRc.png" alt="“小白机场”价格详情" />
-<Img src="https://i.imgur.com/RchtKVO.png" alt="“小白机场”测试报告" />
-::: -->
-
 ## 极速云 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" />
 
 使用优惠券 `ygpy` 享 7 折购买“极速云系列”套餐。
@@ -180,21 +165,6 @@
 <Img src="https://i.imgur.com/D5wMCsZ.png" alt="“极速云”价格详情" />
 <Img src="https://i.imgur.com/W5ekayq.png" alt="“极速云”测试报告" />
 :::
-
-<!-- ## 寰宇云 <Badge type="warning" text="专线机场" />
-
-低至 18.00 元购买“150GB”套餐。
-
-- 节点：香港、日本、台湾、美国、日本、新加坡
-- 协议：AnyTLS
-- 网站：<Link href="https://huanyuyunvip.com/#/register?code=aneefzL7" />
-- 频道：-
-- 群组：<Link href="https://t.me/huanyuyunvip" />
-
-::: details
-<Img src="https://i.imgur.com/ii9gMgR.png" alt="“寰宇云”价格详情" />
-<Img src="https://i.imgur.com/fulasAH.jpeg" alt="“寰宇云”测试报告" />
-::: -->
 
 ## 山水云 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" />
 
