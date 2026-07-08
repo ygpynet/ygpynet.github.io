@@ -17,6 +17,9 @@ hero:
     - theme: alt
       text: 更新日志
       link: /changelog/
+    - theme: alt
+      text: 社区 [beta]
+      link: https://ygpy.rf.gd
 features:
   - icon: <i class="bi bi-airplane"></i>
     title: 机场推荐
