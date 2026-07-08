@@ -18,4 +18,5 @@ export default [
   },
   { text: "网址导航", link: "/nav/" },
   { text: "更新日志", link: "/changelog/" },
+  { text: "社区 <sup>beta</sup>", link: "https://ygpy.rf.gd/" },
 ];
