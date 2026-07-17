@@ -100,7 +100,7 @@
 :::
 
 ::: details
-<Img src="https://i.imgur.com/QhRnYTu.png" alt="“山海机场”价格详情" />
+<Img src="https://i.imgur.com/xUYjbao.png" alt="“山海机场”价格详情" />
 <Img src="https://i.imgur.com/WGiC8uO.png" alt="“山海机场”测试报告" />
 :::
 
