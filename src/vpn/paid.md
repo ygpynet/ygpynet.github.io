@@ -70,7 +70,7 @@
 <Img src="https://i.imgur.com/D2ihlwP.png" alt="“BiuBiu”测试报告" />
 :::
 
-## 秒连云 <Badge type="tip" text="中转机场" />
+<!-- ## 秒连云 <Badge type="tip" text="中转机场" />
 
 低至 8.00 元购买“120GB”套餐。
 
@@ -83,7 +83,7 @@
 ::: details
 <Img src="https://i.imgur.com/PH5jvwz.png" alt="“秒连云”价格详情" />
 <Img src="https://i.imgur.com/BCKq3i2.png" alt="“秒连云”测试报告" />
-:::
+::: -->
 
 ## 山海机场 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" /> <Badge type="warning" text="专线机场" />
 
@@ -136,7 +136,7 @@
 <Img src="https://i.imgur.com/YPdIEoj.png" alt="“Airpipi”测试报告" />
 :::
 
-## 云安云 <Badge type="tip" text="中转机场" />
+<!-- ## 云安云 <Badge type="tip" text="中转机场" />
 
 低至 7.00 元购买“120GB”套餐。
 
@@ -149,7 +149,7 @@
 ::: details
 <Img src="https://i.imgur.com/P4qf8js.png" alt="“云安云”价格详情" />
 <Img src="https://i.imgur.com/3z2Of48.png" alt="“云安云”测试报告" />
-:::
+::: -->
 
 ## 极速云 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" />
 
