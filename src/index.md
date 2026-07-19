@@ -15,12 +15,12 @@ hero:
       text: 开始阅读
       link: /vpn/test/2026/07
     - theme: alt
+      text: 社区 [beta]
+      link: https://ygpy.org/
+      target: _blank
+    - theme: alt
       text: 更新日志
       link: /changelog/
-    # - theme: alt
-    #   text: 社区 [beta]
-    #   link: https://ygpy.rf.gd
-    #   target: _blank
 features:
   - icon: <i class="bi bi-airplane"></i>
     title: 机场推荐
