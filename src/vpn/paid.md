@@ -11,8 +11,8 @@
 - 节点：香港、台湾、新加坡、日本、美国、韩国、德国、法国、英国、荷兰、印度、智利……
 - 协议：Hysteria、Trojan
 - 网站：<Link href="https://hongxingdl.cc/web/#/login?code=CPXZlpWz" />
-- 频道：<Link href="https://telegram.me/hongxingyun" />
-- 群组：<Link href="https://telegram.me/hongxingyuna" />
+- 频道：<Link href="https://t.me/hongxingyun" />
+- 群组：<Link href="https://t.me/hongxingyuna" />
 
 ::: details
 <Img src="https://i.imgur.com/PL5fwEu.png" alt="“红杏云”价格详情" />
@@ -26,8 +26,8 @@
 - 节点：香港、新加坡、日本、台湾、韩国、印度、阿联酋、德国、美国、荷兰
 - 协议：Trojan、VLESS、Shadowsocks
 - 网站：<Link href="https://web1.yyds2-doraemon.site/login/register?invite_code=7j3dYEtw" />
-- 频道：<Link href="https://telegram.me/VPNong" />
-- 群组：<Link href="https://telegram.me/VPNONGoo" />
+- 频道：<Link href="https://t.me/VPNong" />
+- 群组：<Link href="https://t.me/VPNONGoo" />
 
 ::: tip
 『半年付』7.5 折优惠券：`BN2026`，
@@ -47,8 +47,8 @@
 - 节点：香港、台湾、新加坡、日本、美国、德国、韩国、泰国、阿根廷、土耳其、英国……
 - 协议：Trojan
 - 网站：<Link href="https://candytally.vip/web/#/login?code=foHbXFgg" />
-- 频道：<Link href="https://telegram.me/Candytally" />
-- 群组：<Link href="https://telegram.me/candytallyvip" />
+- 频道：<Link href="https://t.me/Candytally" />
+- 群组：<Link href="https://t.me/candytallyvip" />
 
 ::: details
 <Img src="https://i.imgur.com/4KNjBd8.png" alt="“糖果云”价格详情" />
@@ -62,8 +62,8 @@
 - 节点：香港、日本、韩国、台湾、美国、泰国、新加坡、澳大利亚、荷兰、德国……
 - 协议：VMess
 - 网站：<Link href="https://biubiux.online/#/register?code=KH6xv0ou" />
-- 频道：<Link href="https://telegram.me/biubiugroup" />
-- 群组：<Link href="https://telegram.me/superbiu888" />
+- 频道：<Link href="https://t.me/biubiugroup" />
+- 群组：<Link href="https://t.me/superbiu888" />
 
 ::: details
 <Img src="https://i.imgur.com/uO1G8IR.png" alt="“BiuBiu”价格详情" />
@@ -77,8 +77,8 @@
 - 节点：美国、新加坡、香港、日本、台湾
 - 协议：AnyTLS
 - 网站：<Link href="https://mly518.com/#/register?code=rsIZCMBM" />
-- 频道：<Link href="https://telegram.me/mly_yyds" />
-- 群组：<Link href="https://telegram.me/miaolianyun" />
+- 频道：<Link href="https://t.me/mly_yyds" />
+- 群组：<Link href="https://t.me/miaolianyun" />
 
 ::: details
 <Img src="https://i.imgur.com/PH5jvwz.png" alt="“秒连云”价格详情" />
@@ -92,8 +92,8 @@
 - 节点：香港、台湾、澳门、日本、美国、英国、越南、德国、泰国、新加坡、澳大利亚、韩国
 - 协议：AnyTLS、Shadowsocks
 - 网站：<Link href="https://shanhai.cfd/#/register?code=t6LtRJem" />
-- 频道：<Link href="https://telegram.me/shanhai_1" />
-- 群组：<Link href="https://telegram.me/shanhai_2" />
+- 频道：<Link href="https://t.me/shanhai_1" />
+- 群组：<Link href="https://t.me/shanhai_2" />
 
 ::: tip
 该优惠劵仅用于“迷你套餐”除外的其他套餐。
@@ -111,8 +111,8 @@
 - 节点：香港、日本、新加坡、台湾、美国、韩国、英国、法国、德国、泰国、菲律宾……
 - 协议：Trojan
 - 网站：<Link href="https://wuguijiasu.com/#/login?code=UZEMrWwE" />
-- 频道：<Link href="https://telegram.me/wuguijiasu" />
-- 群组：<Link href="https://telegram.me/wuguijiasuqi" />
+- 频道：<Link href="https://t.me/wuguijiasu" />
+- 群组：<Link href="https://t.me/wuguijiasuqi" />
 
 ::: details
 <Img src="https://i.imgur.com/VjjwhbN.png" alt="“乌龟加速”价格详情" />
@@ -128,8 +128,8 @@
 - 节点：美国、新加坡、台湾、日本、韩国、香港
 - 协议：Shadowsocks
 - 网站：<Link href="https://home.airpipi.com/login/register?invite_code=CX0hAqcC" />
-- 频道：<Link href="https://telegram.me/airpipi" />
-- 群组：<Link href="https://telegram.me/airpipiGC" />
+- 频道：<Link href="https://t.me/airpipi" />
+- 群组：<Link href="https://t.me/airpipiGC" />
 
 ::: details
 <Img src="https://i.imgur.com/ICvrL1K.png" alt="“Airpipi”价格详情" />
@@ -143,8 +143,8 @@
 - 节点：美国、新加坡、香港、日本、台湾
 - 协议：AnyTLS
 - 网站：<Link href="https://www.yay520.com/#/register?code=BQmlbNWw" />
-- 频道：<Link href="https://telegram.me/yunanyu" />
-- 群组：<Link href="https://telegram.me/yunanyun138" />
+- 频道：<Link href="https://t.me/yunanyu" />
+- 群组：<Link href="https://t.me/yunanyun138" />
 
 ::: details
 <Img src="https://i.imgur.com/P4qf8js.png" alt="“云安云”价格详情" />
@@ -158,8 +158,8 @@
 - 节点：香港、日本、新加坡、台湾、美国、韩国、泰国、越南、印度、菲律宾、法国……
 - 协议：AnyTLS、Hysteria、VLESS
 - 网站：<Link href="https://ow1.rouhe88.com:8888/#/register?code=VjCo9Bwk" />
-- 频道：<Link href="https://telegram.me/jisuyun" />
-- 群组：<Link href="https://telegram.me/jisuyunchat8" />
+- 频道：<Link href="https://t.me/jisuyun" />
+- 群组：<Link href="https://t.me/jisuyunchat8" />
 
 ::: details
 <Img src="https://i.imgur.com/D5wMCsZ.png" alt="“极速云”价格详情" />
@@ -173,8 +173,8 @@
 - 节点：香港、日本、新加坡、台湾、美国、法国、德国、加拿大、英国、泰国、越南……
 - 协议：AnyTLS、VLESS
 - 网站：<Link href="https://sldm.ssyylf.com/#/register?code=Jm3U3EkE" />
-- 频道：<Link href="https://telegram.me/ssyun999" />
-- 群组：<Link href="https://telegram.me/ssy5999" />
+- 频道：<Link href="https://t.me/ssyun999" />
+- 群组：<Link href="https://t.me/ssy5999" />
 
 ::: details
 <Img src="https://i.imgur.com/KvArQNQ.png" alt="“山水云”价格详情" />
@@ -188,8 +188,8 @@
 - 节点：香港、日本、新加坡、美国、台湾、法国、德国、加拿大、英国、泰国、越南……
 - 协议：AnyTLS、VLESS
 - 网站：<Link href="https://dl2.mmy8.com/#/register?code=yrgta66O" />
-- 频道：<Link href="https://telegram.me/mmyun9" />
-- 群组：<Link href="https://telegram.me/mmy7777" />
+- 频道：<Link href="https://t.me/mmyun9" />
+- 群组：<Link href="https://t.me/mmy7777" />
 
 ::: details
 <Img src="https://i.imgur.com/Ytj0HlM.png" alt="“秒秒云”价格详情" />

@@ -18,7 +18,7 @@ const props = defineProps({
 
 /* 可扩展域名规则 */
 const DOMAIN_RULES = {
-    'telegram.me': (url) => url.hostname + url.pathname + url.search
+    't.me': (url) => url.hostname + url.pathname + url.search
 }
 
 /* URL 标准化 */
