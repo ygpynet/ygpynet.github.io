@@ -10,7 +10,7 @@
 
 - 节点：香港、台湾、新加坡、日本、美国、韩国、德国、法国、英国、荷兰、印度、智利……
 - 协议：Hysteria、Trojan
-- 网站：<Link href="https://hongxingdl.cc/web/#/login?code=CPXZlpWz" />
+- 网站：<Link href="https://hongxingdl.one/web/#/login?code=CPXZlpWz" />
 - 频道：<Link href="https://t.me/hongxingyun" />
 - 群组：<Link href="https://t.me/hongxingyuna" />
 
