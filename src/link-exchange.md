@@ -13,5 +13,5 @@ feedback: false
     <Card icon="https://xszn.org/favicon.ico" title="行书指南" details="免费和开源软件列表。" link="https://xszn.org/" />
     <Card icon="http://proxygo.org/wp-content/uploads/2025/09/180010bmj05z4r1j95m5v1.icon" title="ProxyGo" details="出海工具导航。" link="https://proxygo.org/" />
     <Card icon="https://ygpy.org/assets/favicon-p7pu7klx.png" title="YGPY 社区" details="出海人的交流社区。" link="https://ygpy.org/" />
-    <Card icon="https://1024proxy.com/static/img/favicon.ico" title="1024proxy" details="全球最专业的代理服务商。" link="https://1024proxy.com/" />
+    <!-- <Card icon="https://1024proxy.com/static/img/favicon.ico" title="1024proxy" details="全球最专业的代理服务商。" link="https://1024proxy.com/" /> -->
 </div>
