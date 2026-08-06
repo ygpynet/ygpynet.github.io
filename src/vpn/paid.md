@@ -172,7 +172,7 @@
 
 - 节点：美国、香港、日本、新加坡、台湾、澳门、韩国、泰国、越南、阿联酋、马来西亚……
 - 协议：VLESS
-- 网站：<Link href="https://ygpy.jsjc456789.com" />
+- 网站：<Link href="https://ygpy.jsjc456789.com/#/register?code=dM6cvR2w" />
 - 频道：<Link href="https://t.me/jisucloudpd" />
 - 群组：-
 
