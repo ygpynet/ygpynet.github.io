@@ -127,7 +127,7 @@
 
 - 节点：香港、日本、新加坡、台湾、美国、韩国、泰国、越南、印度、菲律宾、法国……
 - 协议：AnyTLS、Hysteria、VLESS
-- 网站：<Link href="https://ow1.rouhe88.com:8888/#/register?code=VjCo9Bwk" />
+- 网站：<Link href="https://905.jsy902.xyz/#/register?code=VjCo9Bwk" />
 - 频道：<Link href="https://t.me/jisuyun" />
 - 群组：<Link href="https://t.me/jisuyunchat8" />
 
@@ -164,4 +164,26 @@
 ::: details
 <Img src="https://i.imgur.com/Ytj0HlM.png" alt="“秒秒云”价格详情" />
 <Img src="https://i.imgur.com/Fk9Bfi9.png" alt="“秒秒云”测试报告" />
+:::
+
+## 极速 Cloud <Badge type="warning" text="专线机场" />
+
+使用优惠劵 `ikds88` 享 9 折购买“极速 Cloud 系列”套餐。
+
+- 节点：美国、香港、日本、新加坡、台湾、澳门、韩国、泰国、越南、阿联酋、马来西亚……
+- 协议：VLESS
+- 网站：<Link href="https://ygpy.jsjc456789.com" />
+- 频道：<Link href="https://t.me/jisucloudpd" />
+- 群组：-
+
+::: tip 机场线路
+
+- 电信 CN2GIA
+- 联通 AS9929/10099
+- 移动 CMIN2
+  :::
+
+::: details
+<Img src="https://i.imgur.com/s5qFrk0.png" alt="“极速 Cloud”价格详情" />
+<Img src="https://i.imgur.com/AY5dIbq.jpeg" alt="“极速 Cloud”测试报告" />
 :::

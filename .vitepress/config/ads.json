@@ -140,7 +140,7 @@
   {
     "id": 7,
     "title": "极速云",
-    "link": "https://ow1.rouhe88.com:8888/#/register?code=VjCo9Bwk",
+    "link": "https://905.jsy902.xyz/#/register?code=VjCo9Bwk",
     "slots": {
       "Home": {
         "image": "/images/vpn/paid/jisu/home.webp",
@@ -203,6 +203,29 @@
       "Aside": {
         "image": "/images/vpn/paid/mmy/aside.webp",
         "details": "高速连接<br>触达全球"
+      }
+    }
+  },
+  {
+    "id": 10,
+    "title": "极速 Cloud",
+    "link": "https://ygpy.jsjc456789.com",
+    "slots": {
+      "Home": {
+        "image": "/images/vpn/paid/jisucloud/home.webp",
+        "details": "原生节点，纯净家宽"
+      },
+      "Doc": {
+        "image": "/images/vpn/paid/jisucloud/doc.webp",
+        "details": "输入 ikds88 优惠 -10%"
+      },
+      "Sidebar": {
+        "image": "/images/vpn/paid/jisucloud/sidebar.webp",
+        "details": "专线线路<br>低至 15 元 100GB"
+      },
+      "Aside": {
+        "image": "/images/vpn/paid/jisucloud/aside.webp",
+        "details": "三网优化<br>流畅体验"
       }
     }
   }
