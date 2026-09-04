@@ -104,23 +104,6 @@
 <Img src="https://i.imgur.com/2qzHx4T.png" alt="“乌龟加速”测试报告" />
 :::
 
-<!-- ## Airpipi <Badge type="warning" text="专线机场" />
-
-使用优惠券 `airpipi8` 享 9 折购买“airpipi 系列”套餐。
-
-或使用 `airpipi5` 享 7 折购买“airpipi 年付系列”套餐。
-
-- 节点：美国、新加坡、台湾、日本、韩国、香港
-- 协议：Shadowsocks
-- 网站：<Link href="https://home.airpipi.com/login/register?invite_code=CX0hAqcC" />
-- 频道：<Link href="https://t.me/airpipi" />
-- 群组：<Link href="https://t.me/airpipiGC" />
-
-::: details
-<Img src="https://i.imgur.com/ICvrL1K.png" alt="“Airpipi”价格详情" />
-<Img src="https://i.imgur.com/YPdIEoj.png" alt="“Airpipi”测试报告" />
-::: -->
-
 ## 极速云 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" />
 
 使用优惠券 `ygpy` 享 7 折购买“极速云系列”套餐。
@@ -134,36 +117,6 @@
 ::: details
 <Img src="https://i.imgur.com/D5wMCsZ.png" alt="“极速云”价格详情" />
 <Img src="https://i.imgur.com/W5ekayq.png" alt="“极速云”测试报告" />
-:::
-
-## 山水云 <Badge type="info" text="直连机场" /> <Badge type="tip" text="中转机场" />
-
-使用优惠劵 `2026888` 享 8 折购买“山水云系列”套餐。
-
-- 节点：香港、日本、新加坡、台湾、美国、法国、德国、加拿大、英国、泰国、越南……
-- 协议：AnyTLS、VLESS
-- 网站：<Link href="https://sldm.ssyylf.com/#/register?code=Jm3U3EkE" />
-- 频道：<Link href="https://t.me/ssyun999" />
-- 群组：<Link href="https://t.me/ssy5999" />
-
-::: details
-<Img src="https://i.imgur.com/KvArQNQ.png" alt="“山水云”价格详情" />
-<Img src="https://i.imgur.com/eVRufF4.png" alt="“山水云”测试报告" />
-:::
-
-## 秒秒云 <Badge type="tip" text="中转机场" />
-
-使用优惠劵 `2026888` 享 8 折购买“秒秒云系列”套餐。
-
-- 节点：香港、日本、新加坡、美国、台湾、法国、德国、加拿大、英国、泰国、越南……
-- 协议：AnyTLS、VLESS
-- 网站：<Link href="https://dl2.mmy8.com/#/register?code=yrgta66O" />
-- 频道：<Link href="https://t.me/mmyun9" />
-- 群组：<Link href="https://t.me/mmy7777" />
-
-::: details
-<Img src="https://i.imgur.com/Ytj0HlM.png" alt="“秒秒云”价格详情" />
-<Img src="https://i.imgur.com/Fk9Bfi9.png" alt="“秒秒云”测试报告" />
 :::
 
 ## 极速 Cloud <Badge type="warning" text="专线机场" />

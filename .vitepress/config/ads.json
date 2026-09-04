@@ -161,52 +161,6 @@
     }
   },
   {
-    "id": 8,
-    "title": "山水云",
-    "link": "https://sldm.ssyylf.com/#/register?code=Jm3U3EkE",
-    "slots": {
-      "Home": {
-        "image": "/images/vpn/paid/ssy/home.webp",
-        "details": "轻松连接，无限可能"
-      },
-      "Doc": {
-        "image": "/images/vpn/paid/ssy/doc.webp",
-        "details": "输入 2026888 优惠 -20%"
-      },
-      "Sidebar": {
-        "image": "/images/vpn/paid/ssy/sidebar.webp",
-        "details": "直连 + 中转线路<br>低至 14.99 元 100GB"
-      },
-      "Aside": {
-        "image": "/images/vpn/paid/ssy/aside.webp",
-        "details": "高速稳定<br>触达全球"
-      }
-    }
-  },
-  {
-    "id": 9,
-    "title": "秒秒云",
-    "link": "https://dl2.mmy8.com/#/register?code=yrgta66O",
-    "slots": {
-      "Home": {
-        "image": "/images/vpn/paid/mmy/home.webp",
-        "details": "简单选择，稳定陪伴"
-      },
-      "Doc": {
-        "image": "/images/vpn/paid/mmy/doc.webp",
-        "details": "输入 2026888 优惠 -20%"
-      },
-      "Sidebar": {
-        "image": "/images/vpn/paid/mmy/sidebar.webp",
-        "details": "中转线路<br>低至 14 元 128GB"
-      },
-      "Aside": {
-        "image": "/images/vpn/paid/mmy/aside.webp",
-        "details": "高速连接<br>触达全球"
-      }
-    }
-  },
-  {
     "id": 10,
     "title": "极速 Cloud",
     "link": "https://ygpy.jsjc456789.com/#/register?code=dM6cvR2w",
