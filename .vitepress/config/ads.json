@@ -161,7 +161,7 @@
     }
   },
   {
-    "id": 10,
+    "id": 8,
     "title": "极速 Cloud",
     "link": "https://ygpy.jsjc456789.com/#/register?code=dM6cvR2w",
     "slots": {
@@ -180,6 +180,29 @@
       "Aside": {
         "image": "/images/vpn/paid/jisucloud/aside.webp",
         "details": "三网优化<br>流畅体验"
+      }
+    }
+  },
+  {
+    "id": 9,
+    "title": "云帆",
+    "link": "https://a.yfgo.cc/#/register?code=tBotdrfU",
+    "slots": {
+      "Home": {
+        "image": "/images/vpn/paid/yunfan/home.webp",
+        "details": "畅享原生画质，隐私安全无忧"
+      },
+      "Doc": {
+        "image": "/images/vpn/paid/yunfan/doc.webp",
+        "details": "输入 YUNFAN 优惠 -20%"
+      },
+      "Sidebar": {
+        "image": "/images/vpn/paid/yunfan/sidebar.webp",
+        "details": "中转 + 专线线路<br>低至 9 元 100GB"
+      },
+      "Aside": {
+        "image": "/images/vpn/paid/yunfan/aside.webp",
+        "details": "全球多地节点<br>港/台/美家宽节点"
       }
     }
   }

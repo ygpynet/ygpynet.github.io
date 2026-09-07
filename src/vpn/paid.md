@@ -140,3 +140,18 @@
 <Img src="https://i.imgur.com/s5qFrk0.png" alt="“极速 Cloud”价格详情" />
 <Img src="https://i.imgur.com/AY5dIbq.jpeg" alt="“极速 Cloud”测试报告" />
 :::
+
+## 云帆 <Badge type="tip" text="中转机场" /> <Badge type="warning" text="专线机场" />
+
+使用优惠劵 `YUNFAN` 享 8 折购买“云帆 系列”套餐。
+
+- 节点：香港、新加坡、台湾、越南、日本、美国、德国、英国、巴西、阿根廷、加拿大……
+- 协议：Hysteria、VLESS
+- 网站：<Link href="https://a.yfgo.cc/#/register?code=tBotdrfU" />
+- 频道：<Link href="https://t.me/yunfanplus_notify" />
+- 群组：<Link href="https://t.me/yunfanplus" />
+
+::: details
+<Img src="https://i.imgur.com/0xABjAX.png" alt="“云帆”价格详情" />
+<Img src="https://i.imgur.com/rV2J2ys.jpeg" alt="“云帆”测试报告" />
+:::
