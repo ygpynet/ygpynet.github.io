@@ -205,5 +205,28 @@
         "details": "全球多地节点<br>港/台/美家宽节点"
       }
     }
+  },
+  {
+    "id": 10,
+    "title": "星维",
+    "link": "https://xinweicloud.com/?mode=register&invite=IXXzBBaN",
+    "slots": {
+      "Home": {
+        "image": "/images/vpn/paid/xingwei/home.webp",
+        "details": "流媒体全解锁，三网高速线路"
+      },
+      "Doc": {
+        "image": "/images/vpn/paid/xingwei/doc.webp",
+        "details": "低至 8.00 元 160GB"
+      },
+      "Sidebar": {
+        "image": "/images/vpn/paid/xingwei/sidebar.webp",
+        "details": "中转线路<br>低至 8 元 160GB"
+      },
+      "Aside": {
+        "image": "/images/vpn/paid/xingwei/aside.webp",
+        "details": "可靠抗封协议<br>全年无惧失联"
+      }
+    }
   }
 ]

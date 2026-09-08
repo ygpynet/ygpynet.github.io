@@ -155,3 +155,18 @@
 <Img src="https://i.imgur.com/0xABjAX.png" alt="“云帆”价格详情" />
 <Img src="https://i.imgur.com/rV2J2ys.jpeg" alt="“云帆”测试报告" />
 :::
+
+## 星维 <Badge type="tip" text="中转机场" />
+
+低至 8 元购买 160GB/30 天套餐。
+
+- 节点：美国、日本、新加坡、韩国、香港、马来西亚、英国……
+- 协议：VLESS
+- 网站：<Link href="https://xinweicloud.com/?mode=register&invite=IXXzBBaN" />
+- 频道：-
+- 群组：<Link href="https://t.me/xinweicloud" />
+
+::: details
+<Img src="https://i.imgur.com/ObWEsZW.png" alt="“云帆”价格详情" />
+<Img src="https://i.imgur.com/O1ynyIm.png" alt="“云帆”测试报告" />
+:::
