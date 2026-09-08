@@ -170,3 +170,7 @@
 <Img src="https://i.imgur.com/ObWEsZW.png" alt="“云帆”价格详情" />
 <Img src="https://i.imgur.com/O1ynyIm.png" alt="“云帆”测试报告" />
 :::
+
+::: tip
+双人成行邀请 100% 返利可用于购买套餐。
+:::
