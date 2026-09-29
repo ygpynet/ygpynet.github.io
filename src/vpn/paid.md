@@ -147,7 +147,7 @@
 
 - 节点：香港、新加坡、台湾、越南、日本、美国、德国、英国、巴西、阿根廷、加拿大……
 - 协议：Hysteria、VLESS
-- 网站：<Link href="https://a.yfgo.cc/#/register?code=tBotdrfU" />
+- 网站：<Link href="https://b.yfgo.cc/#/register?code=tBotdrfU" />
 - 频道：<Link href="https://t.me/yunfanplus_notify" />
 - 群组：<Link href="https://t.me/yunfanplus" />
 
