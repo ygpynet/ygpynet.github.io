@@ -99,6 +99,10 @@
 - 频道：<Link href="https://t.me/wuguijiasu" />
 - 群组：<Link href="https://t.me/wuguijiasuqi" />
 
+::: tip
+需使用官方专属代理软件。
+:::
+
 ::: details
 <Img src="https://i.imgur.com/VjjwhbN.png" alt="“乌龟加速”价格详情" />
 <Img src="https://i.imgur.com/2qzHx4T.png" alt="“乌龟加速”测试报告" />
